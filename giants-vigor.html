@@ -10,21 +10,52 @@
     <header>
         <nav>
             <ul>
-                <li><a href="index.html">Home</a></li>
-                <li><a href="essays.html">Essays</a></li>
-                <li><a href="giants-vigor.html">Giants-Vigor</a></li>
+                <li><a href="index.html" class="internal-link">Home</a></li>
+                <li><a href="essays.html" class="internal-link">Essays</a></li>
+                <li><a href="giants-vigor.html" class="internal-link">Giants-Vigor</a></li>
             </ul>
         </nav>
     </header>
-
-    <main>
-        <h1>Giant's Vigor: An early exit from the Great Depression</h1>
-        <section>
-            <p>Introduction should go here</p>
-        </section>
-    </main>
-
+    <div class="scroll-progress">
+        <div class="scroll-progress-bar"></div>
+    </div>
+    <div class="content-wrapper">
+        <aside id="sidebar">
+            <!-- Sidebar content will be dynamically inserted here -->
+        </aside>
+        <div class="main-content">
+            <main>
+                <h1>Giant's Vigor: An early exit from the Great Depression</h1>
+                <section id="foreword">
+                    <h2>Foreword</h2>
+                    <h3>The Premise</h3>
+                    <p>In Paris on May 7th, 1919, Herbert Hoover would discuss the Treaty of Versailles with his friends John Maynard Keynes and Jan Smuts. They would agree that "The economic consequences alone would pull down all Europe" if it were unaltered. In 1931, Hoover would listen to the advice of his old friend Keynes and offer a 1 year moratorium on the war debts owed the the United States.</p>
+                    <p>What if Franklin Delano Roosevelt was instead the president with a personal relationship with Keynes?</p>
+                    <p>This story is meant to consist of a Roosevelt administration which is able to quickly recover from the greatest economic collapse in American history. Roosevelt was under one costly delusion: that raising the price of goods and labor would cause economic recovery.</p>
+                    <p>The wage increases of the blue eagle program brought an extraordinarily quick recovery in industrial production to an abrupt halt in July, 1933. In March 1933, industrial production was 52.2% lower than its all-time high of July 1929. By July 1933, it was less than 25% below the apex. The rest of the year would see a slip back to 39% below the peak. It would take until August 1935 to reach the production of July 1933.</p>
+                    <p>This story hopes to keep the mid 1933 trend going until full employment is restored significantly earlier than OTL. America shall build a bridge over Okun's Gap with a metric ton of Harbeger triangles or die trying.</p>
+                    <p>The 1930s were a time of enormous productivity improvements, an under-discussed fact due to the dominance of the Great Depression. In fact, that decade had the fastest total factor productivity growth of any decade in American history before or since. Rather than a time of bread lines, rampant unemployment and emergency employment, the 1930s will take their place as the golden age of progress they were meant to be.</p>
+                    <p>[Interactive chart goes here]</p>
+                    <h3>Introduction</h3>
+                    <p>I'm seeking to make a pretty quantitative economic alternate history here. As such, all of this is written in R Markdown to allow me to keep track of and manipulate data much more effectively, create graphs and tables and directly query dataframes to make sure changes are pushed everywhere. I'll add it to a new github project soon but the source code for this website is easily accessible at <a href="https://github.com/ZachariahSWS/ZachariahSWS.github.io" class="external-link">this github page</a>.</p>
+                    <p>I came up with the premise of this story while reading Destructive Creation by Mark Wilson, a book about the US government's role in economic mobilization during the Second World War. The original plan was to have a US that relies more heavily on government owned and perhaps operated factories but the scope expanded. Some prominent sources that I am inspired by are:</p>
+                    <ul>
+                        <li>Destructive Creation by Harold Wilson which documents government owned munitions plants in WW2.</li>
+                        <li>The Midas Paradox by Scott Sumner which I am using to track the 1929 and 1933 economy and as inspiration for the alternate response to the Great Depression and Recovery. However, I'm using an alternate measure of inflation than him.</li>
+                        <li>In addition, I'm making use of Robert Higgs' work on hours worked by sector as a baseline to track productivity and the actual amount of labor used as it is much more accurate than unemployment rates. As the situation develops, events will drift away from OTL's depression and recovery so Sumner and Higgs' work will be used less and my alternate figures will be substituted.</li>
+                        <li>I have also been making use of George Selgin's series of blog posts on the Great Depression. Sumner, Selgin and Higgs are all libertarians slant while Wilson is a defender of the public sector.</li>
+                        <li>I've been relying on Adam Tooze's Wages of Destruction for an account of Nazi Germany's economy.</li>
+                        <li>Finally I've been making use of US government sources like the various books hosted on hyperwar and the army green books. Other government sources include the 1930 and 1940 censuses and FRED which holds a treasure trove of data series.</li>
+                    </ul>
+                    <p>Alternate sources are welcome especially if they make heavy use of quantitative data. I encourage you to voice disagreements on plausibility or even writing style.</p>
+                </section>
+            </main>
+        </div>
+    </div>
     <footer>
+        <p>Created by Zachariah Schwab</p>
     </footer>
+    <script src="sidebar.js"></script>
+    <script src="scroll-progress.js"></script>
 </body>
 </html>
