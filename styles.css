@@ -91,6 +91,10 @@ footer {
     border-top: 1px solid #333;
 }
 
+.quote {
+    text-indent: 2em;
+}
+
 /* Hoverable footnotes */
 
 .footnote {
@@ -104,7 +108,7 @@ footer {
 
 .footnote-popup {
     display: none;
-    position: fixed;
+    position: absolute;
     background-color: #fff;
     border: 1px solid #ddd;
     padding: 10px;
