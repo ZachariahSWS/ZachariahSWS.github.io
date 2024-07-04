@@ -6,33 +6,38 @@ document.addEventListener('DOMContentLoaded', () => {
 
     footnotes.forEach(footnote => {
         footnote.addEventListener('click', (e) => {
-          const rect = footnote.getBoundingClientRect();
-          const footnoteHTML = footnote.getAttribute('data-footnote');
-          
-          popupContent.innerHTML = footnoteHTML;
-          popup.style.display = 'block';
-          
-          const popupWidth = 300; // Match this to your CSS max-width
-          const popupHeight = popup.offsetHeight;
+            const rect = footnote.getBoundingClientRect();
+            const footnoteHTML = footnote.getAttribute('data-footnote');
+            
+            popupContent.innerHTML = footnoteHTML;
+            popup.style.display = 'block';
+            
+            const popupWidth = 300; // Match this to your CSS max-width
+            const popupHeight = popup.offsetHeight;
 
-          let left = rect.left - popupWidth - 10; // Position to the left with 10px gap
-          let top = rect.top + window.pageYOffset;
+            // Find the containing paragraph
+            let paragraph = footnote.closest('p');
+            let paragraphRect = paragraph.getBoundingClientRect();
 
-          // If not enough space on the left, position to the right
-          if (left < 0) {
-              left = rect.right + 10;
-          }
+            // Position to the left of the paragraph
+            let left = paragraphRect.left - popupWidth - 10; // 10px gap
+            let top = paragraphRect.top + window.pageYOffset;
 
-          // Adjust if the popup would go off the bottom of the screen
-          if (top + popupHeight > window.innerHeight + window.pageYOffset) {
-              top = window.innerHeight + window.pageYOffset - popupHeight - 10;
-          }
+            // If not enough space on the left, position to the right of the paragraph
+            if (left < 0) {
+                left = paragraphRect.right + 10;
+            }
 
-          popup.style.left = `${left}px`;
-          popup.style.top = `${top}px`;
-          
-          e.stopPropagation();
-      });
+            // Adjust if the popup would go off the bottom of the screen
+            if (top + popupHeight > window.innerHeight + window.pageYOffset) {
+                top = window.innerHeight + window.pageYOffset - popupHeight - 10;
+            }
+
+            popup.style.left = `${left}px`;
+            popup.style.top = `${top}px`;
+            
+            e.stopPropagation();
+        });
     });
 
     closeBtn.addEventListener('click', () => {
