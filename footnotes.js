@@ -15,17 +15,17 @@ document.addEventListener('DOMContentLoaded', () => {
           const popupWidth = 300; // Match this to your CSS max-width
           const popupHeight = popup.offsetHeight;
 
-          let left = rect.left + window.pageXOffset;
-          let top = rect.top + window.pageYOffset - popupHeight - 10; // Position above with 10px gap
+          let left = rect.left - popupWidth - 10; // Position to the left with 10px gap
+          let top = rect.top + window.pageYOffset;
 
-          // Adjust if the popup would go off the right side of the screen
-          if (left + popupWidth > window.innerWidth) {
-              left = window.innerWidth - popupWidth - 10;
+          // If not enough space on the left, position to the right
+          if (left < 0) {
+              left = rect.right + 10;
           }
 
-          // Adjust if the popup would go off the top of the screen
-          if (top < window.pageYOffset) {
-              top = rect.bottom + window.pageYOffset + 10; // Switch to below if not enough space above
+          // Adjust if the popup would go off the bottom of the screen
+          if (top + popupHeight > window.innerHeight + window.pageYOffset) {
+              top = window.innerHeight + window.pageYOffset - popupHeight - 10;
           }
 
           popup.style.left = `${left}px`;

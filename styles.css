@@ -92,7 +92,10 @@ footer {
 }
 
 .quote {
-    text-indent: 2em;
+    margin-left: 2em;
+    padding-left: 20px;
+    border-left: 3px solid #ccc;
+    font-style: italic;
 }
 
 /* Hoverable footnotes */
