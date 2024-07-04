@@ -3,7 +3,8 @@ document.addEventListener('DOMContentLoaded', () => {
     const popup = document.getElementById('footnote-popup');
     const popupContent = popup.querySelector('.footnote-content');
     const closeBtn = popup.querySelector('.close-btn');
-
+    console.log('Footnotes script loaded');
+    
     footnotes.forEach(footnote => {
         footnote.addEventListener('click', (e) => {
             const rect = footnote.getBoundingClientRect();
