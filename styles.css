@@ -33,7 +33,7 @@ header {
     background-color: #fff;
     padding: 1rem;
     margin-bottom: 2rem;
-    border-bottom: 2px solid #333;
+    border-bottom: 1px solid #333;
 }
 
 nav ul {
@@ -70,6 +70,15 @@ p {
     margin-bottom: 1rem;
 }
 
+ul {
+    padding-left: 20px; /* This will align the list items with the rest of the text */
+    list-style-type: '\25CB'; /* This Unicode character is a right-pointing triangle */
+}
+
+ul li {
+    padding-left: 10px; /* This creates some space between the symbol and the text */
+}
+
 section {
     margin-bottom: 2rem;
 }
@@ -79,7 +88,37 @@ footer {
     margin-top: 2rem;
     padding: 1rem;
     background-color: #fff;
-    border-top: 2px solid #333;
+    border-top: 1px solid #333;
+}
+
+/* Hoverable footnotes */
+
+.footnote {
+  border-bottom: 1px dashed #999;
+  cursor: pointer;
+}
+
+.footnote:hover {
+  background-color: #f0f0f0;
+}
+
+.footnote-popup {
+    display: none;
+    position: fixed;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 10px;
+    max-width: 300px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+    z-index: 1000;
+}
+
+.close-btn {
+  float: right;
+  background: none;
+  border: none;
+  font-size: 18px;
+  cursor: pointer;
 }
 
 /* Button styles */
