@@ -98,6 +98,33 @@ p.quote {
     font-style: italic;
 }
 
+.bill-text ol {
+  list-style-type: none;
+  counter-reset: item;
+  margin-left: 0;
+  padding-left: 0;
+}
+
+.bill-text li {
+  display: block;
+  margin-bottom: .5em;
+  margin-left: 2em;
+}
+
+.bill-text li::before {
+  display: inline-block;
+  content: counters(item, ".") " ";
+  counter-increment: item;
+  width: 2em;
+  margin-left: -2em;
+}
+
+.bill-text .subsection > li::before { content: "Section " counter(item) ". "; }
+.bill-text .paragraph > li::before { content: "(" counter(item, lower-alpha) ") "; }
+.bill-text .subparagraph > li::before { content: "(" counter(item) ") "; }
+.bill-text .clause > li::before { content: "(" counter(item, upper-alpha) ") "; }
+.bill-text .subclause > li::before { content: "(" counter(item, lower-roman) ") "; }
+
 /* Hoverable footnotes */
 
 .footnote {
