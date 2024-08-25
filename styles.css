@@ -87,7 +87,7 @@ ol {
 
 ol.quote {
     padding-left: 2em;
-    border-left: 0.2em solid #99b;
+    border-left: 0.15em solid #bbb;
     font-style: italic;
 }
 

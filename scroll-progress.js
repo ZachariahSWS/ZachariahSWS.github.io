@@ -1,7 +1,18 @@
-// scroll-progress.js
-window.addEventListener('scroll', function() {
-    var winScroll = document.body.scrollTop || document.documentElement.scrollTop;
-    var height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
-    var scrolled = (winScroll / height) * 100;
-    document.querySelector('.scroll-progress-bar').style.width = scrolled + "%";
+document.addEventListener("DOMContentLoaded", () => {
+  const scrollProgressBar = document.querySelector(".scroll-progress-bar");
+
+  function updateScrollProgress() {
+    const scrollPosition = window.scrollY;
+    const documentHeight =
+      document.documentElement.scrollHeight - window.innerHeight;
+    const scrollPercentage = (scrollPosition / documentHeight) * 100;
+
+    scrollProgressBar.style.width = `${scrollPercentage}%`;
+  }
+
+  window.addEventListener("scroll", updateScrollProgress);
+  window.addEventListener("resize", updateScrollProgress);
+
+  // Initial call to set the progress bar on page load
+  updateScrollProgress();
 });
