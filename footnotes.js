@@ -1,52 +1,41 @@
-document.addEventListener('DOMContentLoaded', () => {
-    const footnotes = document.querySelectorAll('.footnote');
-    const popup = document.getElementById('footnote-popup');
-    const popupContent = popup.querySelector('.footnote-content');
-    const closeBtn = popup.querySelector('.close-btn');
+document.addEventListener("DOMContentLoaded", () => {
+  const footnotes = document.querySelectorAll(".footnote");
+  const popup = document.getElementById("footnote-popup");
+  const popupContent = popup.querySelector(".footnote-content");
+  const closeBtn = popup.querySelector(".close-btn");
 
-    footnotes.forEach(footnote => {
-        footnote.addEventListener('click', (e) => {
-            const rect = footnote.getBoundingClientRect();
-            const footnoteHTML = footnote.getAttribute('data-footnote');
-            
-            popupContent.innerHTML = footnoteHTML;
-            popup.style.display = 'block';
-            
-            const popupWidth = 300; // Match this to your CSS max-width
-            const popupHeight = popup.offsetHeight;
+  function showPopup(footnote) {
+    const footnoteHTML = footnote.getAttribute("data-footnote");
+    popupContent.innerHTML = footnoteHTML;
+    popup.style.display = "block";
+    const rect = footnote.getBoundingClientRect();
+    const popupWidth = 300; // Adjust this value to match your CSS
+    let left = rect.right + 10; // 10px gap from the footnote
+    let top = rect.top + window.scrollY;
+    // If popup would go off the right edge, place it on the left side instead
+    if (left + popupWidth > window.innerWidth) {
+      left = rect.left - popupWidth - 10;
+    }
+    // Ensure the popup stays within the viewport vertically
+    const popupHeight = popup.offsetHeight;
+    if (top + popupHeight > window.innerHeight + window.scrollY) {
+      top = window.innerHeight + window.scrollY - popupHeight - 10;
+    }
+    popup.style.left = `${left}px`;
+    popup.style.top = `${top}px`;
+  }
 
-            // Find the containing paragraph
-            let paragraph = footnote.closest('p');
-            let paragraphRect = paragraph.getBoundingClientRect();
+  document.addEventListener("click", (e) => {
+    const clickedFootnote = e.target.closest(".footnote");
+    if (clickedFootnote) {
+      e.preventDefault();
+      showPopup(clickedFootnote);
+    } else if (!popup.contains(e.target)) {
+      popup.style.display = "none";
+    }
+  });
 
-            // Position to the left of the paragraph
-            let left = paragraphRect.left - popupWidth - 10; // 10px gap
-            let top = paragraphRect.top + window.pageYOffset;
-
-            // If not enough space on the left, position to the right of the paragraph
-            if (left < 0) {
-                left = paragraphRect.right + 10;
-            }
-
-            // Adjust if the popup would go off the bottom of the screen
-            if (top + popupHeight > window.innerHeight + window.pageYOffset) {
-                top = window.innerHeight + window.pageYOffset - popupHeight - 10;
-            }
-
-            popup.style.left = `${left}px`;
-            popup.style.top = `${top}px`;
-            
-            e.stopPropagation();
-        });
-    });
-
-    closeBtn.addEventListener('click', () => {
-        popup.style.display = 'none';
-    });
-
-    document.addEventListener('click', (e) => {
-        if (!popup.contains(e.target)) {
-            popup.style.display = 'none';
-        }
-    });
+  closeBtn.addEventListener("click", () => {
+    popup.style.display = "none";
+  });
 });

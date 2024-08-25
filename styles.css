@@ -111,13 +111,14 @@ p.quote {
 }
 
 /* Hoverable footnotes */
-
 .footnote {
     border-bottom: 1px dashed #999;
     cursor: pointer;
+    display: inline; /* Ensures proper text wrapping */
 }
 
-.footnote:hover {
+.footnote:hover,
+.footnote *:hover {
     background-color: #f0f0f0;
 }
 
