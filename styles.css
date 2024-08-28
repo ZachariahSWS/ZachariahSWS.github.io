@@ -8,32 +8,109 @@
     box-sizing: border-box;
 }
 
+:root {
+    --primary-color: #333;
+    --secondary-color: #888;
+    --link-color: #0b8e3e;
+    --external-link-color: #0000ee;
+    --background-color: #fff;
+    --border-color: #ccc;
+}
+
 body {
     font-family: "Atkinson Hyperlegible", sans-serif;
     line-height: 1.6;
-    color: #333;
+    color: var(--primary-color);
     margin: 0;
     padding: 0;
     position: relative;
+    font-size: 1rem;
+    overflow-x: hidden;
 }
 
 .content-wrapper {
-    display: flex;
-    max-width: 1200px;
+    width: 100%;
     margin: 0 auto;
-    padding: 20px;
+    padding: 1.25rem 0;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    position: relative;
 }
 
 .main-content {
-    flex: 1;
+    flex: 0 1 45rem;
     max-width: 800px;
 }
 
+.toc-wrapper {
+    width: 20rem;
+    padding-right: 1.25rem;
+    position: fixed;
+    top: 4rem;
+    left: 1rem;
+    border-left: 0.1em solid var(--border-color);
+    overflow-y: auto;
+}
+
+.toc {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.toc li {
+    position: relative;
+    margin-bottom: 0.5rem;
+}
+
+.toc a {
+    diplay: block;
+    color: var(--secondary-color);
+    transition: all 0.3s;
+    position: relative;
+    text-indent: -1rem;
+}
+
+.toc a::before {
+    content: "❱"; /* Unicode right-pointing triangle */
+    position: absolute;
+    opacity: 0;
+}
+
+.toc a.active::before {
+    opacity: 1;
+}
+
+.toc a.active {
+    color: var(--primary-color);
+}
+
+#sidebar {
+    width: 25rem;
+    padding-left: 1.25rem; /* Change padding-right to padding-left */
+    position: absolute;
+    right: 1.25rem;
+    top: 1.25rem;
+}
+
+#sidebar ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: right;
+    border-right: 0.1em solid var(--border-color);
+    padding-right: 1rem;
+}
+
+#sidebar li {
+    margin-bottom: 0.625rem;
+}
+
 header {
-    background-color: #fff;
+    background-color: var(--background-color);
     padding: 1rem;
     margin-bottom: 2rem;
-    border-bottom: 1px solid #333;
+    border-bottom: 0.08em solid var(--primary-color);
 }
 
 nav ul {
@@ -46,25 +123,27 @@ nav ul {
 
 nav ul li a {
     text-decoration: none;
-    color: #333;
+    color: var(--primary-color);
 }
 
 nav ul li a:hover {
-    color: #555;
+    color: var(--secondary-color);
 }
 
 h1,
 h2 {
-    color: #333;
+    color: var(--primary-color);
     margin-bottom: 1rem;
 }
 
 h1 {
     margin-top: 2rem;
+    font-size: 2em;
 }
 
 h2 {
     margin-top: 1.5rem;
+    font-size: 1.5em;
 }
 
 p {
@@ -87,7 +166,7 @@ ol {
 
 ol.quote {
     padding-left: 2em;
-    border-left: 0.15em solid #bbb;
+    border-left: 0.15em solid var(--border-color);
     font-style: italic;
 }
 
@@ -99,37 +178,57 @@ footer {
     text-align: center;
     margin-top: 2rem;
     padding: 1rem;
-    background-color: #fff;
-    border-top: 1px solid #333;
+    background-color: var(--background-color);
+    border-top: 0.08em solid var(--primary-color);
 }
 
 p.quote {
     margin-left: 2em;
     padding-left: 2em;
-    border-left: 3px solid #ccc;
+    border-left: 0.15em solid var(--border-color);
     font-style: italic;
 }
 
 /* Hoverable footnotes */
 .footnote {
-    border-bottom: 1px dashed #999;
     cursor: pointer;
-    display: inline; /* Ensures proper text wrapping */
+    position: relative;
+    display: block;
+    background-color: transparent;
+    transition: background-color 0.2s ease;
 }
 
-.footnote:hover,
-.footnote *:hover {
+.footnote::before {
+    content: "†";
+    font-size: 1em;
+    vertical-align: super;
+    margin-left: 0.1em;
+}
+
+.footnote:hover {
     background-color: #f0f0f0;
+}
+
+.footnote:hover::after {
+    content: "";
+    position: absolute;
+    left: -0.2em;
+    right: -0.2em;
+    top: -0.1em;
+    bottom: -0.1em;
+    background-color: #f0f0f0;
+    border-radius: 0.2em;
+    z-index: -1;
 }
 
 .footnote-popup {
     display: none;
     position: absolute;
-    background-color: #fff;
-    border: 1px solid #ddd;
-    padding: 10px;
-    max-width: 300px;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    background-color: var(--background-color);
+    border: 0.08em solid var(--border-color);
+    padding: 0.625rem;
+    max-width: 18.75rem;
+    box-shadow: 0 0.15em 0.2em rgba(0, 0, 0, 0.2);
     z-index: 1000;
 }
 
@@ -137,18 +236,18 @@ p.quote {
     float: right;
     background: none;
     border: none;
-    font-size: 18px;
+    font-size: 1.125rem;
     cursor: pointer;
 }
 
 /* Button styles */
 .button {
     display: inline-block;
-    padding: 10px 20px;
+    padding: 0.625rem 1.25rem;
     background-color: #4caf50;
     color: white;
     text-decoration: none;
-    border-radius: 5px;
+    border-radius: 0.2em;
     transition: background-color 0.3s;
 }
 
@@ -159,6 +258,13 @@ p.quote {
 /* Link styles */
 a {
     text-decoration: none;
+    position: relative;
+}
+
+.main-content a::after {
+    content: "°";
+    position: relative;
+    font-size: 1em;
 }
 
 a:hover {
@@ -166,11 +272,11 @@ a:hover {
 }
 
 a.external-link {
-    color: #0000ee;
+    color: var(--external-link-color);
 }
 
 a.internal-link {
-    color: #0b8e3e; /* LessWrong green */
+    color: var(--link-color);
 }
 
 /* Scroll progress bar */
@@ -179,7 +285,7 @@ a.internal-link {
     top: 0;
     left: 0;
     width: 100%;
-    height: 8px;
+    height: 0.5rem;
     background-color: #e6f2ff; /* Whitish blue */
     z-index: 1000;
 }
@@ -191,30 +297,31 @@ a.internal-link {
     transition: width 0.1s ease-out;
 }
 
-/* Sidebar styles */
-#sidebar {
-    width: 250px;
-    padding-right: 20px;
-}
-
-#sidebar ul {
-    list-style-type: none;
-    padding: 0;
-}
-
-#sidebar li {
-    margin-bottom: 10px;
-}
-
 /* Basic responsive design */
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 75rem) {
+    .toc-wrapper {
+        display: none;
+    }
     .content-wrapper {
         flex-direction: column;
+        align-items: center;
+        padding-left: 0;
     }
 
+    .main-content {
+        margin-right: 0;
+    }
     #sidebar {
+        position: static;
         width: 100%;
-        margin-bottom: 20px;
+        margin-bottom: 1.25rem;
+    }
+    #sidebar ul {
+        text-align: left;
+        border-right: none;
+        border-top: 1em solid var(--border-color);
+        padding-right: 0;
+        padding-top: 1rem;
     }
 
     nav ul {
@@ -223,6 +330,6 @@ a.internal-link {
     }
 
     nav ul li {
-        margin-bottom: 10px;
+        margin-bottom: 0.625rem;
     }
 }
