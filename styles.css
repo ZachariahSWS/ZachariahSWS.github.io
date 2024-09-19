@@ -19,7 +19,7 @@
     --scroll-progress-color: #99ccff;
 }
 
-@media (min-width: 0) {
+@media (prefers-color-scheme: dark) {
     :root {
         --primary-color: #e0e0e0;
         --secondary-color: #b0b0b0;
