@@ -29,8 +29,8 @@
 
   const favicon = document.createElement("link");
   favicon.rel = "icon";
-  favicon.type = "image/svg+xml";
-  favicon.href = "integer.svg";
+  favicon.type = "image/x-icon";
+  favicon.href = "integer.ico";
   document.head.appendChild(favicon);
 
   // Add scripts to the document
