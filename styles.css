@@ -11,8 +11,8 @@
 :root {
     --primary-color: #333;
     --secondary-color: #888;
-    --link-color: #0b8e3e;
-    --external-link-color: #0000ee;
+    --link-color: #ac3931;
+    --external-link-color: #99ccff;
     --background-color: #fff;
     --off-background-color: #f0f0f0;
     --border-color: #ccc;
@@ -26,8 +26,8 @@
         --background-color: #222222;
         --off-background-color: #2f2f2f;
         --border-color: #444;
-        --link-color: #0b8e3e;
-        --external-link-color: #ac3931;
+        --link-color: #ac3931;
+        --external-link-color: #3388bb;
         --scroll-progress-color: #3388bb;
     }
 }
@@ -200,7 +200,31 @@ ol.quote {
 }
 
 hr {
-    border: 0.065em solid var(--border-color);
+    border: none;
+    position: relative;
+    overflow: visible;
+    background-image: url("integer.svg");
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 2rem;
+}
+
+hr::before,
+hr::after {
+    content: "";
+    position: absolute;
+    height: 0.1em;
+    width: calc(50% - 1.5rem); /* Adjust this value as needed */
+    background: var(--secondary-color);
+    top: 50%;
+}
+
+hr::before {
+    left: 0;
+}
+
+hr::after {
+    right: 0;
 }
 
 section {

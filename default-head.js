@@ -30,7 +30,7 @@
   const favicon = document.createElement("link");
   favicon.rel = "icon";
   favicon.type = "image/x-icon";
-  favicon.href = "integer.ico";
+  favicon.href = "favicon.ico";
   document.head.appendChild(favicon);
 
   // Add scripts to the document
