@@ -28,7 +28,7 @@
   });
 
   const favicon = document.createElement("link");
-  favicon.rel = "icon";
+  favicon.rel = "shortcut icon";
   favicon.type = "image/x-icon";
   favicon.href = "favicon.ico?";
   document.head.appendChild(favicon);
