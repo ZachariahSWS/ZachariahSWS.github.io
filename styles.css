@@ -1,13 +1,6 @@
 /* Import Atkinson Hyperlegible font */
 @import url("https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap");
 
-/* Reset some default styles */
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
 :root {
     --primary-color: #333;
     --secondary-color: #888;
@@ -17,6 +10,13 @@
     --off-background-color: #f0f0f0;
     --border-color: #ccc;
     --scroll-progress-color: #99ccff;
+
+    --spacing-small: 0.625rem;
+    --spacing-medium: 1.25rem;
+    --spacing-large: 2rem;
+
+    --line-height: 1.6;
+    --font-size-base: 1rem;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -32,22 +32,27 @@
     }
 }
 
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 body {
     background-color: var(--background-color);
     font-family: "Atkinson Hyperlegible", sans-serif;
-    line-height: 1.6;
+    line-height: var(--line-height);
     color: var(--primary-color);
-    margin: 0;
-    padding: 0;
-    position: relative;
-    font-size: 1rem;
+    font-size: var(--font-size-base);
     overflow-x: hidden;
 }
+
+/* Layout */
 
 .content-wrapper {
     width: 100%;
     margin: 0 auto;
-    padding: 1.25rem 0;
+    padding: var(--spacing-medium) 0;
     display: flex;
     justify-content: center;
     align-items: flex-start;
@@ -59,87 +64,77 @@ body {
     max-width: 800px;
 }
 
-.toc-wrapper {
-    width: 20rem;
-    padding-right: 1.25rem;
-    position: fixed;
-    top: 4rem;
-    left: 1rem;
-    border-left: 0.1em solid var(--border-color);
-    overflow-y: auto;
+/* Typography */
+
+h1 {
+    font-size: 2em;
+    margin-top: var(--spacing-large);
+    margin-bottom: var(--spacing-medium);
 }
 
-.toc {
-    list-style-type: none;
-    padding: 0;
-    margin: 0;
+h2 {
+    font-size: 1.5em;
+    margin-top: var(--spacing-medium);
+    margin-bottom: var(--spacing-medium);
 }
 
-.toc li {
-    position: relative;
-    margin-bottom: 0.5rem;
+p {
+    margin-bottom: var(--spacing-medium);
 }
 
-.toc a {
-    display: inline-block;
-    color: var(--secondary-color);
-    transition: all 0.2s ease;
-    position: relative;
+/* Lists */
+ul,
+ol {
+    padding-left: 2em;
+    margin-bottom: var(--spacing-medium);
 }
 
-.toc a:hover {
-    transform: scale(1.1);
+ul {
+    list-style-type: "\25C7";
 }
 
-.toc a::before {
-    content: "\276F"; /* Unicode right-pointing triangle */
-    position: absolute;
-    opacity: 0;
-    margin-left: -1rem;
+ul li,
+ol li {
+    padding-left: 1em;
 }
 
-.toc a.active::before {
-    opacity: 1;
+ol.quote,
+p.quote {
+    padding-left: 2em;
+    border-left: 0.15em solid var(--border-color);
+    font-style: italic;
 }
 
-.toc a.active {
+/* Links */
+a {
+    text-decoration: none;
+}
+
+.main-content a {
     color: var(--primary-color);
+    text-decoration: underline;
+    text-decoration-thickness: 0.1em;
+    text-underline-offset: 0.1em;
+    transition: text-decoration-color 0.2s ease;
 }
 
-#sidebar {
-    width: 25rem;
-    padding-left: 1.25rem; /* Change padding-right to padding-left */
-    position: absolute;
-    right: 1.25rem;
-    top: 1.25rem;
+.main-content a.internal-link {
+    text-decoration-color: var(--link-color);
 }
 
-#sidebar ul {
-    list-style-type: none;
-    padding: 0;
-    text-align: right;
-    border-right: 0.1em solid var(--border-color);
-    padding-right: 1rem;
+.main-content a.external-link {
+    text-decoration-color: var(--external-link-color);
 }
 
-#sidebar li {
-    margin-bottom: 0.625rem;
+.main-content a:hover {
+    text-decoration-color: var(--secondary-color);
 }
 
-#sidebar a {
-    display: inline-block;
-    color: var(--link-color);
-}
-
-#sidebar a:hover {
-    transform: scale(1.1);
-    transition: 0.2s ease;
-}
-
+/* Navigation */
 header {
     background-color: var(--background-color);
-    padding: 1rem;
-    margin-bottom: 2rem;
+    padding: var(--spacing-medium);
+    margin-bottom: var(--spacing-large);
     border-bottom: 0.12em solid var(--border-color);
 }
 
@@ -152,53 +147,97 @@ nav ul {
 }
 
 nav ul li a {
-    display: inline-block;
-    text-decoration: none;
     color: var(--primary-color);
+    transition:
+        color 0.2s ease,
+        transform 0.2s ease;
 }
 
 nav ul li a:hover {
     color: var(--secondary-color);
     transform: scale(1.2);
-    transition: 0.2s ease;
 }
 
-h1 {
-    margin-top: 2rem;
-    font-size: 2em;
-    margin-bottom: 1rem;
+/* Sidebar */
+#sidebar {
+    width: 25rem;
+    padding-left: var(--spacing-medium);
+    position: absolute;
+    right: var(--spacing-medium);
+    top: var(--spacing-medium);
 }
 
-h2 {
-    margin-top: 1.5rem;
-    font-size: 1.5em;
-    margin-bottom: 1rem;
+#sidebar ul {
+    list-style-type: none;
+    text-align: right;
+    border-right: 0.1em solid var(--border-color);
+    padding-right: var(--spacing-medium);
 }
 
-p {
-    margin-bottom: 1rem;
+#sidebar li {
+    margin-bottom: var(--spacing-small);
 }
 
-ul {
-    padding-left: 2em; /* This will align the list items with the rest of the text */
-    list-style-type: "\25C7"; /* This Unicode character is a right-pointing triangle */
+#sidebar a {
+    color: var(--link-color);
+    transition: transform 0.2s ease;
 }
 
-ul li {
-    padding-left: 2em; /* This creates some space between the symbol and the text */
+#sidebar a:hover {
+    transform: scale(1.1);
 }
 
-ol {
-    list-style-position: outside;
-    padding-left: 2em;
+/* Table of Contents */
+
+.toc-wrapper {
+    width: 20rem;
+    padding-right: 1.25rem;
+    position: fixed;
+    top: 4rem;
+    left: 1rem;
+    border-left: 0.1em solid var(--border-color);
+    overflow-y: auto;
 }
 
-ol.quote {
-    padding-left: 2em;
-    border-left: 0.15em solid var(--border-color);
-    font-style: italic;
+.toc li {
+    position: relative;
+    margin-bottom: 0.5rem;
+    list-style-type: none;
 }
 
+.toc a {
+    display: inline-block;
+    color: var(--secondary-color);
+    transition: all 0.2s ease;
+}
+
+.toc a:hover {
+    transform: scale(1.1);
+}
+
+.toc a::before {
+    content: "\276F"; /* Unicode right-pointing triangle */
+    position: absolute;
+    opacity: 0;
+    margin-left: -1rem;
+    transition: opacity 0.2s ease;
+}
+
+.toc a.active {
+    color: var(--primary-color);
+}
+
+.toc a.active::before {
+    opacity: 1;
+}
+
+/* SVG */
+
+.scalable-stroke {
+    vector-effect: non-scaling-stroke;
+}
+
+/* Horizontal Rule */
 hr {
     border: none;
     position: relative;
@@ -237,13 +276,6 @@ footer {
     padding: 1rem;
     background-color: var(--background-color);
     border-top: 0.12em solid var(--border-color);
-}
-
-p.quote {
-    margin-left: 2em;
-    padding-left: 2em;
-    border-left: 0.15em solid var(--border-color);
-    font-style: italic;
 }
 
 /* Hoverable footnotes */
@@ -296,32 +328,6 @@ p.quote {
     font-size: 1.125rem;
     cursor: pointer;
     color: var(--primary-color);
-}
-
-/* Link styles */
-a {
-    text-decoration: none;
-}
-
-.main-content a {
-    color: var(--primary-color);
-    text-decoration-line: underline;
-    text-decoration-style: solid;
-    text-decoration-thickness: 0.1em;
-    text-underline-offset: 0.1em;
-    transition: text-decoration-color 0.2s ease;
-}
-
-.main-content a.internal-link {
-    text-decoration-color: var(--link-color);
-}
-
-.main-content a.external-link {
-    text-decoration-color: var(--external-link-color);
-}
-
-.main-content a:hover {
-    text-decoration-color: var(--secondary-color);
 }
 
 /* Scroll progress bar */

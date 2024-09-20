@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang = "en">
+  <head>
+    <script src = "default-head.js" data-title = "Charts"></script>
+    <link rel = "stylesheet" href = "styles.css"></>
+    <script src="grapher.js" defer></script>
+  </head>
+  <body>
+    <header>
+      <nav>
+        <ul>
+          <li><a href = "index.html" class = "internal-link">Home</a></li>
+          <li><a href = "essays.html" class = "internal-link">Essays</a></li>
+          <li>Coming Soon</li>
+        </ul>
+      </nav>
+    </header>
+    <div class="scroll-progress">
+      <div class="scroll-progress-bar"></div>
+    </div>
+    <div class = "content-wrapper">
+      <div class = "main-content">
+        so much text you wouldn't believe it
+        <div
+          data-chart = "datasets/debt-to-equity.json"
+          data-x-label = "Date"
+          data-y-label = "Value"
+          data-title = "Corporate Leverage at an All Time Low"
+          data-subtitle = "Debt as a Percentage of Equity in Nonfinancial Corporate Businesses"
+          data-source = "Federal Reserve Flow of Funds B.103"></div>
+        even more text what are the odds
+      </div>
+    </div>
+    <footer>
+      <p>Created by Zachariah Schwab</p>
+    </footer>
+  </body>
+</html>
