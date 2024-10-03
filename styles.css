@@ -181,6 +181,7 @@ nav ul li a:hover {
 #sidebar a {
     color: var(--link-color);
     transition: transform 0.2s ease;
+    display: inline-block;
 }
 
 #sidebar a:hover {
@@ -193,7 +194,7 @@ nav ul li a:hover {
     width: 20rem;
     padding-right: 1.25rem;
     position: fixed;
-    top: 4rem;
+    top: 5rem;
     left: 1rem;
     border-left: 0.1em solid var(--border-color);
     overflow-y: auto;
