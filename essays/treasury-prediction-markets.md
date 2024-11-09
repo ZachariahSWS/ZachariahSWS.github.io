@@ -4,8 +4,6 @@ title: Treasury Prediction Markets
 permalink: /essays/treasury-prediction-markets
 ---
 
-# Treasury Prediction Markets
-
 Disclaimer: This essay is a work in progress
 
 ## Exigence
