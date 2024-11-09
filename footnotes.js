@@ -1,29 +1,60 @@
 document.addEventListener("DOMContentLoaded", () => {
-  const footnotes = document.querySelectorAll(".footnote");
   const popup = document.getElementById("footnote-popup");
   const popupContent = popup.querySelector(".footnote-content");
   const closeBtn = popup.querySelector(".close-btn");
+  const mainContent = document.querySelector(".main-content");
+  const getPixelsPerRem = () => {
+    return parseFloat(getComputedStyle(document.documentElement).fontSize);
+  };
+  const rem = getPixelsPerRem();
 
-  function showPopup(footnote) {
-    const footnoteHTML = footnote.getAttribute("data-footnote");
-    popupContent.innerHTML = footnoteHTML;
+  const isMobile = () => window.innerWidth <= 48 * rem;
+
+  const showPopup = (footnote) => {
+    popupContent.innerHTML = footnote.getAttribute("data-footnote");
     popup.style.display = "block";
-    const rect = footnote.getBoundingClientRect();
-    const popupWidth = 300; // Adjust this value to match your CSS
-    let left = rect.right + 10; // 10px gap from the footnote
-    let top = rect.top + window.scrollY;
-    // If popup would go off the right edge, place it on the left side instead
-    if (left + popupWidth > window.innerWidth) {
-      left = rect.left - popupWidth - 10;
+    positionPopup(footnote);
+  };
+
+  const positionPopup = (footnote) => {
+    if (isMobile()) {
+      Object.assign(popup.style, {
+        position: "fixed",
+        left: "50%",
+        top: "50%",
+        transform: "translate(-50%, -50%)",
+        width: "calc(100% - 2rem)",
+        maxWidth: "90%",
+        maxHeight: "80vh",
+        margin: "0 auto",
+      });
+    } else {
+      const viewportWidth = document.documentElement.clientWidth;
+      const mainContentRect = mainContent.getBoundingClientRect();
+      const footnoteRect = footnote.getBoundingClientRect();
+
+      const maxWidth = Math.min(25 * rem, viewportWidth * 0.3); // 25rem = 400px
+      const rightPadding = 1.25 * rem;
+
+      Object.assign(popup.style, {
+        position: "absolute",
+        left: "auto",
+        right: `${rightPadding}rem`,
+        top: `${(footnoteRect.top + window.scrollY) / 16}rem`,
+        transform: "none",
+        width: "auto",
+        maxWidth: `${maxWidth}rem`,
+        maxHeight: "60vh",
+        margin: "0",
+      });
+
+      // Adjust vertical position if popup goes beyond viewport
+      const popupRect = popup.getBoundingClientRect();
+      if (popupRect.bottom > window.innerHeight) {
+        popup.style.top = `${(window.innerHeight + window.scrollY - popupRect.height - rightPadding * 16) / 16}rem`;
+      }
     }
-    // Ensure the popup stays within the viewport vertically
-    const popupHeight = popup.offsetHeight;
-    if (top + popupHeight > window.innerHeight + window.scrollY) {
-      top = window.innerHeight + window.scrollY - popupHeight - 10;
-    }
-    popup.style.left = `${left}px`;
-    popup.style.top = `${top}px`;
-  }
+  };
 
   document.addEventListener("click", (e) => {
     const clickedFootnote = e.target.closest(".footnote");
@@ -35,7 +66,14 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 
-  closeBtn.addEventListener("click", () => {
-    popup.style.display = "none";
+  closeBtn.addEventListener("click", () => (popup.style.display = "none"));
+
+  window.addEventListener("resize", () => {
+    if (popup.style.display === "block") {
+      const activeFootnote = document.querySelector(".footnote:hover");
+      activeFootnote
+        ? showPopup(activeFootnote)
+        : (popup.style.display = "none");
+    }
   });
 });

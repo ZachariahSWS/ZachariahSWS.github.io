@@ -1,0 +1,22 @@
+title: Zachariah Schwab
+email: zachariahsws@gmail.com
+description: A personal website for Zachariah Schwab
+baseurl: ""
+url: "zachariahschwab.com"
+remote_theme: ZachariahSWS/Academia-Theme
+theme_settings:
+  navigation:
+    - title: Home
+      url: /
+    - title: Essays
+      url: /essays
+# Build settings
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-remote-theme
+
+author: Zachariah Schwab
