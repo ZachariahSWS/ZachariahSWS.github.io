@@ -38,7 +38,7 @@ An underdiscussed problem in american government is the crisis of highway costs.
 
 Subway construction in New York is extraordinarily inefficient, at around 10x the price (PPP adjusted) per kilometer of international best practices and 5x of what can realistically be achieved. The appointment of and most critically political support thrown behind an MTA Construction and Development President who is willing to say no to the endless demands of interest groups will allow for projects like the second avenue subway to not be [embarassingly expensive](https://www.masstransitmag.com/rail/infrastructure/blog/55131921/op-ed-august-mta-77-billion-second-avenue-subway-phase-2-status-update){: .external-link}.
 
-Currently, stations are made significantly larger than they need to be, with most of the excess space not even open to the public but instead providing underground offices and breakrooms for various different organizations. These rooms are both made larger than they need to be and are constructed underground, where costs are significantly higher. The second avenue subway spent \$300 million alone on agreements with various permit issuers such as "a \$15 million deal the MTA made with NYC Parks in 2004 to temporarily stage construction at the Marx Brothers Playground on Second Avenue between 96th and 97th Streets" ([Transit Costs Project](https://transitcosts.com/wp-content/uploads/NewYork_Case_Study.pdf){: .external-link}). Political pressure should be put on these organizations to simply give permits that the duly elected legislature has obviously approved of. These deals alone were almost 10% (perhaps more if you count contractor delays) of the cost of the project, able to be evaporated at will by a willing government.
+Currently, stations are made significantly larger than they need to be, with most of the excess space not even open to the public but instead providing underground offices and breakrooms for various different organizations. These rooms are both made larger than they need to be and are constructed underground, where costs are significantly higher. The second avenue subway spent &dollar;300 million alone on agreements with various permit issuers such as "a &dollar;15 million deal the MTA made with NYC Parks in 2004 to temporarily stage construction at the Marx Brothers Playground on Second Avenue between 96th and 97th Streets" ([Transit Costs Project](https://transitcosts.com/wp-content/uploads/NewYork_Case_Study.pdf){: .external-link}). Political pressure should be put on these organizations to simply give permits that the duly elected legislature has obviously approved of. These deals alone were almost 10% (perhaps more if you count contractor delays) of the cost of the project, able to be evaporated at will by a willing government.
 
 The NYC department of Environmental Protection delayed approval of a pipe relocation for 6 months and required an unneeded redesign which led to a 9 month total increase in time and 20% extra cost for that particular contract. These kinds of issues lead to MTA plans sending stations and tunnels as deep as possible to avoid utilities, which further increases price and worsens user experience of the final product. In the current system where departments go unpunished for the harm they cause, they will continue to ignore tradeoffs.
 
@@ -51,15 +51,15 @@ Other jurisdictions like Los Angeles have similar problems, but not to quite the
 California's does not permit housing anymore. Despite massive prices, new permits are not issued.
 
 
-<div id = "housing" class="auto-chart"
+<div id="housing" class="auto-chart"
   data-chart-csv="/datasets/california-housing-starts.csv"
   data-options='{
     "width": 800,
     "height": 400,
-    "title": "California Doesn't Permit Housing",
+    "title": "California Doesnt Permit Housing",
     "subtitle": "New Private Housing Units Authorized by Building Permits for California",
     "yLabel": "Units",
-    "source" : "US Census Bureau"
+    "source": "US Census Bureau"
   }'>
 </div>
 
