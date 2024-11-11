@@ -50,6 +50,7 @@ Other jurisdictions like Los Angeles have similar problems, but not to quite the
 
 California's does not permit housing anymore. Despite massive prices, new permits are not issued.
 
+
 <div id = "housing" class="auto-chart"
   data-chart-csv="/datasets/california-housing-starts.csv"
   data-options='{
@@ -61,6 +62,8 @@ California's does not permit housing anymore. Despite massive prices, new permit
     "source" : "US Census Bureau"
   }'>
 </div>
+
+blah
 
 ## Unemployment
 
