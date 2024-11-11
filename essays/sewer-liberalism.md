@@ -24,7 +24,7 @@ See my article on [High-Speed Rail](/essays/high-speed-rail){: .internal-link} i
 
 An underdiscussed problem in american government is the crisis of highway costs. Since 2003, consumer prices have risen 1.71x, private capital goods 1.64x and highways 3.24x. Adjusting for inflation (CPI), highways are thus 1.89x more expensive to build. Part of this is the high cost of asphalt (very volatile but 3.07x higher than January 2003 as of September 2024) but savings can be made by switching from the current prevailing wage system to actual market wages. Freeing up money currently spent on highway construction allows for either more generous spending or a reduction in taxes.
 
-<div class="auto-chart"
+<div id = "highways" class="auto-chart"
   data-chart-csv="/datasets/highway.csv"
   data-options='{
     "width": 800,
@@ -48,7 +48,9 @@ Other jurisdictions like Los Angeles have similar problems, but not to quite the
 
 ## Housing
 
-<div class="auto-chart"
+California's does not permit housing anymore. Despite massive prices, new permits are not issued.
+
+<div id = "housing" class="auto-chart"
   data-chart-csv="/datasets/california-housing-starts.csv"
   data-options='{
     "width": 800,
