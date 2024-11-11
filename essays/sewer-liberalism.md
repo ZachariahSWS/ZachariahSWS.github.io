@@ -32,9 +32,11 @@ An underdiscussed problem in american government is the crisis of highway costs.
     "title": "Highway Costs have Skyrocketted",
     "subtitle": "The National Highway Construction Cost Index has outpaced inflation substantially",
     "xLabel": "Date",
-    "yLabel": "NHCCI",
+    "yLabel": "NHCCI"
   }'>
 </div>
+
+[Subway construction in New York](https://transitcosts.com/wp-content/uploads/NewYork_Case_Study.pdf){: .external-link} is also embarassingly expensive, at around 10x the price (PPP adjusted) per kilometer of international best practices and 5x of what can realistically be achieved.
 
 ## Unemployment
 
