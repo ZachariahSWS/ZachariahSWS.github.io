@@ -22,6 +22,8 @@ It is now time for liberalism to create its own accomplishments liberals can pro
 
 See my article on [High-Speed Rail](/essays/high-speed-rail){: .internal-link} if you'd like to see a national take on railroads but this section will be focused on the state level.
 
+An underdiscussed problem in american government is the crisis of highway costs. Since 2003, consumer prices have risen 1.71x, private capital goods 1.64x and highways 3.24x. Adjusting for inflation (CPI), highways are thus 1.89x more expensive to build. Part of this is the high cost of asphalt (very volatile but 3.07x higher than January 2003 as of September 2024) but savings can be made by switching from the current prevailing wage system to actual market wages.
+
 <div class="auto-chart"
   data-chart-csv="/datasets/highway.csv"
   data-options='{
@@ -29,9 +31,8 @@ See my article on [High-Speed Rail](/essays/high-speed-rail){: .internal-link} i
     "height": 400,
     "title": "Highway Costs have Skyrocketted",
     "subtitle": "The National Highway Construction Cost Index has outpaced inflation substantially",
-    "xAxisLabel": "Date",
-    "yAxisLabel": "NHCCI",
-    "color": "var(--internal-link)"
+    "xLabel": "Date",
+    "yLabel": "NHCCI",
   }'>
 </div>
 
