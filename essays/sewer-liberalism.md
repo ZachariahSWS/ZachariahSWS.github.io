@@ -22,7 +22,18 @@ It is now time for liberalism to create its own accomplishments liberals can pro
 
 See my article on [High-Speed Rail](/essays/high-speed-rail){: .internal-link} if you'd like to see a national take on railroads but this section will be focused on the state level.
 
-<div data-chart-csv="datasets/highway.csv"></div>
+<div class="auto-chart"
+  data-chart-csv="/datasets/highway.csv"
+  data-options='{
+    "width": 800,
+    "height": 400,
+    "title": "Highway Costs have Skyrocketted",
+    "subtitle": "The National Highway Construction Cost Index has outpaced inflation substantially",
+    "xAxisLabel": "Date",
+    "yAxisLabel": "NHCCI",
+    "color": "var(--internal-link)"
+  }'>
+</div>
 
 ## Unemployment
 
