@@ -22,7 +22,7 @@ It is now time for liberalism to create its own accomplishments liberals can pro
 
 See my article on [High-Speed Rail](/essays/high-speed-rail){: .internal-link} if you'd like to see a national take on railroads but this section will be focused on the state level.
 
-An underdiscussed problem in american government is the crisis of highway costs. Since 2003, consumer prices have risen 1.71x, private capital goods 1.64x and highways 3.24x. Adjusting for inflation (CPI), highways are thus 1.89x more expensive to build. Part of this is the high cost of asphalt (very volatile but 3.07x higher than January 2003 as of September 2024) but savings can be made by switching from the current prevailing wage system to actual market wages.
+An underdiscussed problem in american government is the crisis of highway costs. Since 2003, consumer prices have risen 1.71x, private capital goods 1.64x and highways 3.24x. Adjusting for inflation (CPI), highways are thus 1.89x more expensive to build. Part of this is the high cost of asphalt (very volatile but 3.07x higher than January 2003 as of September 2024) but savings can be made by switching from the current prevailing wage system to actual market wages. Freeing up money currently spent on highway construction allows for either more generous spending or a reduction in taxes.
 
 <div class="auto-chart"
   data-chart-csv="/datasets/highway.csv"
@@ -32,11 +32,18 @@ An underdiscussed problem in american government is the crisis of highway costs.
     "title": "Highway Costs have Skyrocketted",
     "subtitle": "The National Highway Construction Cost Index has outpaced inflation substantially",
     "xLabel": "Date",
-    "yLabel": "NHCCI"
+    "yLabel": "NHCCI",
+    "source" : "Federal Highway Administration"
   }'>
 </div>
 
-[Subway construction in New York](https://transitcosts.com/wp-content/uploads/NewYork_Case_Study.pdf){: .external-link} is also embarassingly expensive, at around 10x the price (PPP adjusted) per kilometer of international best practices and 5x of what can realistically be achieved.
+Subway construction in New York is extraordinarily inefficient, at around 10x the price (PPP adjusted) per kilometer of international best practices and 5x of what can realistically be achieved. The appointment of and most critically political support thrown behind an MTA Construction and Development President who is willing to say no to the endless demands of interest groups will allow for projects like the second avenue subway to not be [embarassingly expensive](https://www.masstransitmag.com/rail/infrastructure/blog/55131921/op-ed-august-mta-77-billion-second-avenue-subway-phase-2-status-update){: .external-link}.
+
+Currently, stations are made significantly larger than they need to be, with most of the excess space not even open to the public but instead providing underground offices and breakrooms for various different organizations. These rooms are both made larger than they need to be and are constructed underground, where costs are significantly higher. The second avenue subway spent $300 million alone on agreements with various permit issuers such as "a $15 million deal the MTA made with NYC Parks in 2004 to temporarily stage construction at the Marx Brothers Playground on Second Avenue between 96th and 97th Streets" ([Transit Costs Project](https://transitcosts.com/wp-content/uploads/NewYork_Case_Study.pdf){: .external-link}). Political pressure should be put on these organizations to simply give permits that the duly elected legislature has obviously approved of. These deals alone were almost 10% (perhaps more if you count contractor delays) of the cost of the project, able to be evaporated at will by a willing government.
+
+The NYC department of Environmental Protection delayed approval of a pipe relocation for 6 months and required an unneeded redesign which led to a 9 month total increase in time and 20% extra cost for that particular contract. These kinds of issues lead to MTA plans sending stations and tunnels as deep as possible to avoid utilities, which further increases price and worsens user experience of the final product. In the current system where departments go unpunished for the harm they cause, they will continue to ignore tradeoffs.
+
+Union sandhogs certainly get paid more than market wages, but the more damaging is the excessive personnel required by contract. New York should seek to make a grand bargain where each segment requires fewer workers in exchange for promises of increased total contracts due to the MTA's capital budget now going further (mostly at the cost of nonlaborer contractors).
 
 ## Unemployment
 
