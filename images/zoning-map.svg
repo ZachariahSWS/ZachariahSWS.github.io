@@ -288,7 +288,7 @@
 
             .text_labels {
                 font-family: "Atkinson Hyperlegible", ArialMT, Arial;
-                font-size: 1em;
+                font-size: 36px;
                 isolation: isolate;
             }
 

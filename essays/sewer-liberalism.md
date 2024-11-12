@@ -22,7 +22,7 @@ It is now time for liberalism to create its own accomplishments liberals can pro
 
 Liberal states' struggle with housing is well documented at this point. Sure, California and New York have run farther through the supply of empty land with reasonable travel times to city centers, but there remains massive opportunities to densify.
 
-<div id="housing" class="auto-chart"
+<div id = "housing" class = "auto-chart"
   data-chart-csv="/datasets/california-housing-starts.csv"
   data-options='{
     "width": 800,
