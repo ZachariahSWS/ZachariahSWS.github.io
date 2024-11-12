@@ -22,6 +22,7 @@ It is now time for liberalism to create its own accomplishments liberals can pro
 
 Liberal states' struggle with housing is well documented at this point. Sure, California and New York have run farther through the supply of empty land with reasonable travel times to city centers, but there remains massive opportunities to densify.
 
+{% raw %}
 <div id = "housing" class = "auto-chart"
   data-chart-csv="/datasets/california-housing-starts.csv"
   data-options='{
@@ -29,9 +30,11 @@ Liberal states' struggle with housing is well documented at this point. Sure, Ca
     "height": 400,
     "title": "California Doesn't Permit Housing",
     "subtitle": "New Private Housing Units Authorized by Building Permits for California, monthly",
+    "yLabel": "Units",
     "source": "US Census Bureau"
   }'>
 </div>
+{% endraw %}
 
 My own city of Santa Cruz is one of the 5 most expensive metro areas in the country. Here's a map of its zoning, yellow denotes R-1 zoning which is broken into R-1-10, R-1-7 and R-1-5 depending on if the minimum lot size is 10k, 7k or 5k square feet respectively. All of these are excessive, homes usually go for above a million here. People should be allowed to split their lots in half or thirds, allowing multiple families to purchase their own homes in this extremely expensive area.
 
@@ -51,6 +54,7 @@ See my article on [High-Speed Rail](/essays/high-speed-rail){: .internal-link} i
 
 An underdiscussed problem in american government is the crisis of highway costs. Since 2003, consumer prices have risen 1.71x, private capital goods 1.64x and highways 3.24x. Adjusting for inflation (CPI), highways are thus 1.89x more expensive to build. Part of this is the high cost of asphalt (very volatile but 3.07x higher than January 2003 as of September 2024) but savings can be made by switching from the current prevailing wage system to actual market wages. Freeing up money currently spent on highway construction allows for either more generous spending or a reduction in taxes.
 
+{% raw %}
 <div id = "highways" class="auto-chart"
   data-chart-csv="/datasets/highway.csv"
   data-options='{
@@ -62,6 +66,7 @@ An underdiscussed problem in american government is the crisis of highway costs.
     "source" : "Federal Highway Administration"
   }'>
 </div>
+{% endraw %}
 
 Subway construction in New York is extraordinarily inefficient, at around 10x the price (PPP adjusted) per kilometer of international best practices and 5x of what can realistically be achieved. The appointment of and most critically political support thrown behind an MTA Construction and Development President who is willing to say no to the endless demands of interest groups will allow for projects like the second avenue subway to not be [embarassingly expensive](https://www.masstransitmag.com/rail/infrastructure/blog/55131921/op-ed-august-mta-77-billion-second-avenue-subway-phase-2-status-update){: .external-link}.
 
