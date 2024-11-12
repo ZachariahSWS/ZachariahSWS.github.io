@@ -22,19 +22,17 @@ It is now time for liberalism to create its own accomplishments liberals can pro
 
 Liberal states' struggle with housing is well documented at this point. Sure, California and New York have run farther through the supply of empty land with reasonable travel times to city centers, but there remains massive opportunities to densify.
 
-{% raw %}
 <div id = "housing" class = "auto-chart"
   data-chart-csv="/datasets/california-housing-starts.csv"
   data-options='{
     "width": 800,
     "height": 400,
     "title": "California Doesn't Permit Housing",
-    "subtitle": "New Private Housing Units Authorized by Building Permits for California, monthly",
-    "yLabel": "Units",
+    "subtitle": "New Private Housing Units Authroized by Building Permits for California",
+    "yLabel": "Units, monthly",
     "source": "US Census Bureau"
   }'>
 </div>
-{% endraw %}
 
 My own city of Santa Cruz is one of the 5 most expensive metro areas in the country. Here's a map of its zoning, yellow denotes R-1 zoning which is broken into R-1-10, R-1-7 and R-1-5 depending on if the minimum lot size is 10k, 7k or 5k square feet respectively. All of these are excessive, homes usually go for above a million here. People should be allowed to split their lots in half or thirds, allowing multiple families to purchase their own homes in this extremely expensive area.
 
@@ -44,9 +42,11 @@ Additionally, they set a maximum building area of between 3,000 and 4,000 square
 
 A lot of housing capacity could be unlocked by raising the maximum building area permitted to the size of the lot (a Floor Area Ratio of 1) and shifting existing minimum lot sizes down by 3,000 feet in each of the R-1-5, R-1-7 and R-1-10 zones (so they're now R-1-2, R-1-4 and R-1-7). Of course this would come with a corresponding decrease in minimum front and back setbacks and minimum lot widths.
 
-Narrowing lot sizes is the natural reaction to increases in land value, simply allowing it to happen requires no additional spending while being easy to understand and change.
+Narrowing lot sizes is the natural reaction to increases in land value, simply allowing it to happen requires no additional spending while being easy to understand and change. Denser regions such as SF proper and New York City require similar reforms, but focused on height limits, floor area ratios and streamlining the permitting process so houses can go from plan to completion as fast as possible with minimum risk whether that be legal, demand or interest rate increases.
 
+A final note: focusing changes on arterial roads is a terrible idea. By nature of their heavy use, the air is filled with pollutants posing a health risk, increasing intersections will cause additional traffic to an already congested right of way and all the travelers will see it and form an erroneous belief that the city is rapidly builing or is extremely dense. This kind of planning is based around seeing multifamily housing as a noxious use (a tradition that goes back to City of Euclid versus Ambler Realty Company) to concentrate near other noxious uses. It should be seen for what it is: mostly a good whose negative externalities are concentrated among cars with increased traffic and decreased parking availability.
 
+These are the constraints a government must deal with and seek to work around. Maximizing the number of renters who can go without a car through placement near transit lines and bike paths is good, but so is spreading housing out to saturate underused road and parking capacity. Lots of small apartment buildings are your friend, they blend in well and don't change streets that much, but they add up. The only problem is that they don't give enough profit for it to be worth it to go on lengthy permitting battles, if you streamline permitting they will come.
 
 ## Infrastructure
 
@@ -54,7 +54,6 @@ See my article on [High-Speed Rail](/essays/high-speed-rail){: .internal-link} i
 
 An underdiscussed problem in american government is the crisis of highway costs. Since 2003, consumer prices have risen 1.71x, private capital goods 1.64x and highways 3.24x. Adjusting for inflation (CPI), highways are thus 1.89x more expensive to build. Part of this is the high cost of asphalt (very volatile but 3.07x higher than January 2003 as of September 2024) but savings can be made by switching from the current prevailing wage system to actual market wages. Freeing up money currently spent on highway construction allows for either more generous spending or a reduction in taxes.
 
-{% raw %}
 <div id = "highways" class="auto-chart"
   data-chart-csv="/datasets/highway.csv"
   data-options='{
@@ -66,7 +65,6 @@ An underdiscussed problem in american government is the crisis of highway costs.
     "source" : "Federal Highway Administration"
   }'>
 </div>
-{% endraw %}
 
 Subway construction in New York is extraordinarily inefficient, at around 10x the price (PPP adjusted) per kilometer of international best practices and 5x of what can realistically be achieved. The appointment of and most critically political support thrown behind an MTA Construction and Development President who is willing to say no to the endless demands of interest groups will allow for projects like the second avenue subway to not be [embarassingly expensive](https://www.masstransitmag.com/rail/infrastructure/blog/55131921/op-ed-august-mta-77-billion-second-avenue-subway-phase-2-status-update){: .external-link}.
 
@@ -77,6 +75,10 @@ The NYC department of Environmental Protection delayed approval of a pipe reloca
 Union sandhogs certainly get paid more than market wages, but the more damaging is the excessive personnel required by contract. New York should seek to make a grand bargain where each segment requires fewer workers in exchange for promises of increased total contracts due to the MTA's capital budget now going further (mostly at the cost of nonlaborer contractors).
 
 Other jurisdictions like Los Angeles have similar problems, but not to quite the same scale as New York. They will all benefit from a proactive governor or legislature willing to go to bat for transit construction even without extra funding.
+
+## Running Public Services Well
+
+
 
 ## Unemployment
 
