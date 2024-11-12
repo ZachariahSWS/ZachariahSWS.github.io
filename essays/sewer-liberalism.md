@@ -18,6 +18,33 @@ Milwaukee was the most socialist city in America at the turn of the 20th century
 
 It is now time for liberalism to create its own accomplishments liberals can proudly brag about.
 
+## Housing
+
+Liberal states' struggle with housing is well documented at this point. Sure, California and New York have run farther through the supply of empty land with reasonable travel times to city centers, but there remains massive opportunities to densify.
+
+<div id="housing" class="auto-chart"
+  data-chart-csv="/datasets/california-housing-starts.csv"
+  data-options='{
+    "width": 800,
+    "height": 400,
+    "title": "California Doesn't Permit Housing",
+    "subtitle": "New Private Housing Units Authorized by Building Permits for California, monthly",
+    "source": "US Census Bureau"
+  }'>
+</div>
+
+My own city of Santa Cruz is one of the 5 most expensive metro areas in the country. Here's a map of its zoning, yellow denotes R-1 zoning which is broken into R-1-10, R-1-7 and R-1-5 depending on if the minimum lot size is 10k, 7k or 5k square feet respectively. All of these are excessive, homes usually go for above a million here. People should be allowed to split their lots in half or thirds, allowing multiple families to purchase their own homes in this extremely expensive area.
+
+<img src="/images/zoning-map.svg">
+
+Additionally, they set a maximum building area of between 3,000 and 4,000 square feet. If you'd like to build an accessory dwelling unit, as has been encouraged in California recently, you'd better hope your existing house isn't too large or you need to petition for a zoning variance.
+
+A lot of housing capacity could be unlocked by raising the maximum building area permitted to the size of the lot (a Floor Area Ratio of 1) and shifting existing minimum lot sizes down by 3,000 feet in each of the R-1-5, R-1-7 and R-1-10 zones (so they're now R-1-2, R-1-4 and R-1-7). Of course this would come with a corresponding decrease in minimum front and back setbacks and minimum lot widths.
+
+Narrowing lot sizes is the natural reaction to increases in land value, simply allowing it to happen requires no additional spending while being easy to understand and change.
+
+
+
 ## Infrastructure
 
 See my article on [High-Speed Rail](/essays/high-speed-rail){: .internal-link} if you'd like to see a national take on railroads but this section will be focused on the state level.
@@ -45,25 +72,6 @@ The NYC department of Environmental Protection delayed approval of a pipe reloca
 Union sandhogs certainly get paid more than market wages, but the more damaging is the excessive personnel required by contract. New York should seek to make a grand bargain where each segment requires fewer workers in exchange for promises of increased total contracts due to the MTA's capital budget now going further (mostly at the cost of nonlaborer contractors).
 
 Other jurisdictions like Los Angeles have similar problems, but not to quite the same scale as New York. They will all benefit from a proactive governor or legislature willing to go to bat for transit construction even without extra funding.
-
-## Housing
-
-California's does not permit housing anymore. Despite massive prices, new permits are not issued.
-
-
-<div id="housing" class="auto-chart"
-  data-chart-csv="/datasets/california-housing-starts.csv"
-  data-options='{
-    "width": 800,
-    "height": 400,
-    "title": "California Doesnt Permit Housing",
-    "subtitle": "New Private Housing Units Authorized by Building Permits for California",
-    "yLabel": "Units",
-    "source": "US Census Bureau"
-  }'>
-</div>
-
-blah
 
 ## Unemployment
 
