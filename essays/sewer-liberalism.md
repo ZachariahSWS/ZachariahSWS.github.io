@@ -22,6 +22,7 @@ It is now time for liberalism to create its own accomplishments liberals can pro
 
 Liberal states' struggle with housing is well documented at this point. Sure, California and New York have run farther through the supply of empty land with reasonable travel times to city centers, but there remains massive opportunities to densify.
 
+
 <div id = "housing" class = "auto-chart"
   data-chart-csv="/datasets/california-housing-starts.csv"
   data-options='{
@@ -78,7 +79,17 @@ Other jurisdictions like Los Angeles have similar problems, but not to quite the
 
 ## Running Public Services Well
 
+Certain parts of a city amplify the effects of disordered conduct. A man smoking crack on a train affects a much larger set of people than if he did it in his home. Public and private services alike can be venues with large numbers of people but public ones tend to be much more tolerant. This pushes people away from public ones and delegitimizes the government.
 
+This problem definitely overlaps with homelessness but there are differences. Most homeless people are sheltered and doing things like couch surfing. Although drug abuse is common, most are not public nuisances outside of possibly looking unkempt but that’s permissible. Similarly there are people polluting the commons with their own homes. I’ll also note that despite being a habitual bus user I have only run into one case that would fit this mold and it was just a man who was told to leave the bus for non drug or violence related reasons. The vast majority of people who look like they don’t have proper sanitary facilities act graciously and are well within their rights to use public services.
+
+Some of this is an unwillingness to punish repeat offenders. Shitty behavior follows a power law distribution and removing the right tail can eliminate most problems. San Francisco implemented new fare gates that prevented turnstile hopping, and anecdotally incidents dropped substantially near those stations and official numbers show a general [15% decline across the system](https://www.nbcbayarea.com/news/local/bart-drop-overall-crime-ridership-surge/3675602/){: .external-link} as various anti crime policies have gone into effect.
+
+Reducing fare evasion increases revenue directly but also encourages more riders to join the system as the experience comes with less risks. With the extra revenue, more vehicles can be run creating a virtuous cycle of increased frequency.
+
+The goal of a transit system should be ridership, nothing more, nothing less. Positive equity benefits already fall out of running a system well, there is no need to make it explicit and create conflicting mandates that paralyze agencies. Much like maximizing shareholder value acts as a guiding principle to reduce corporate conflicts, creating a simple and measurable goal cuts the gordian knot of warring interest groups and gives bureacrats a clear go-ahead to run a virtuous service.
+
+To that end, bus routes should be redesigned with larger stop spacing to reduce stop penalties/increase speeds and with fewer total routes to further increase frequency.  Improving individual bus stops with actual benches in shelter, rather than whatever [La Sombrita](https://www.nytimes.com/2023/05/25/us/la-sombrita-bus-los-angeles.html){: .external-link} was, reduces wait penalties and allows for even larger stop spacing and faster busses for yet more improvements.
 
 ## Unemployment
 
