@@ -22,20 +22,19 @@ It is now time for liberalism to create its own accomplishments liberals can pro
 
 Liberal states' struggle with housing is well documented at this point. Sure, California and New York have run farther through the supply of empty land with reasonable travel times to city centers, but there remains massive opportunities to densify.
 
+My own city of Santa Cruz is one of the 5 most expensive metro areas in the country. Here's a map of its zoning, yellow denotes R-1 zoning which is broken into R-1-10, R-1-7 and R-1-5 depending on if the minimum lot size is 10k, 7k or 5k square feet respectively. All of these are excessive, homes usually go for above a million here. People should be allowed to split their lots in half or thirds, allowing multiple families to purchase their own homes in this extremely expensive area.
 
-<div id="housing" class="auto-chart"
-  data-chart-csv="/datasets/california-housing-starts.csv"
-  data-options='{
-    "width": 800,
-    "height": 400,
-    "title": "California Doesn't Permit Housing",
-    "subtitle": "New Private Housing Units Authroized by Building Permits for California",
-    "yLabel": "Units, monthly",
-    "source": "US Census Bureau"
+<div id = "permitting" class = "auto-chart"
+  data-chart-csv = "/datasets/california-housing-starts.csv"
+  data-options = '{
+  "width": 800,
+  "height": 400,
+  "title": "California Doesn't Permit Housing Anymore",
+  "subtitle": "Housing units permitted in California",
+  "yLabel": "Units, monthly",
+  "source" : "Census Bureau"
   }'>
 </div>
-
-My own city of Santa Cruz is one of the 5 most expensive metro areas in the country. Here's a map of its zoning, yellow denotes R-1 zoning which is broken into R-1-10, R-1-7 and R-1-5 depending on if the minimum lot size is 10k, 7k or 5k square feet respectively. All of these are excessive, homes usually go for above a million here. People should be allowed to split their lots in half or thirds, allowing multiple families to purchase their own homes in this extremely expensive area.
 
 <img src="/images/zoning-map.svg">
 
@@ -54,6 +53,18 @@ These are the constraints a government must deal with and seek to work around. M
 See my article on [High-Speed Rail](/essays/high-speed-rail){: .internal-link} if you'd like to see a national take on railroads but this section will be focused on the state level.
 
 An underdiscussed problem in american government is the crisis of highway costs. Since 2003, consumer prices have risen 1.71x, private capital goods 1.64x and highways 3.24x. Adjusting for inflation (CPI), highways are thus 1.89x more expensive to build. Part of this is the high cost of asphalt (very volatile but 3.07x higher than January 2003 as of September 2024) but savings can be made by switching from the current prevailing wage system to actual market wages. Freeing up money currently spent on highway construction allows for either more generous spending or a reduction in taxes.
+
+<div id = "highways" class="auto-chart"
+  data-chart-csv="/datasets/highway.csv"
+  data-options='{
+    "width": 800,
+    "height": 400,
+    "title": "Highway Costs have Skyrocketted",
+    "subtitle": "The National Highway Construction Cost Index has outpaced inflation substantially",
+    "yLabel": "NHCCI",
+    "source" : "Federal Highway Administration"
+  }'>
+</div>
 
 Subway construction in New York is extraordinarily inefficient, at around 10x the price (PPP adjusted) per kilometer of international best practices and 5x of what can realistically be achieved. The appointment of and most critically political support thrown behind an MTA Construction and Development President who is willing to say no to the endless demands of interest groups will allow for projects like the second avenue subway to not be [embarassingly expensive](https://www.masstransitmag.com/rail/infrastructure/blog/55131921/op-ed-august-mta-77-billion-second-avenue-subway-phase-2-status-update){: .external-link}.
 
@@ -98,3 +109,9 @@ California specifically has an extremely small IRC Section 179 deduction at 25k.
 Contrary to what one may expect from a tax reformer, I think of the highly graduated nature of California's income taxes as a good thing as households are hit by high effective marginal tax rates from the expiry of various programs such as Medi-Cal, in the event Medi-Cal, or failing that Medi-Cal for kids is universalized among other phaseouts, it makes more sense to even out effective marginal rates.
 
 In the mean time, liberals should try to move corporate income taxes in the direction of a cash flow tax where possible and make tweaks to reduce welfare cliffs and penalties to behavior like [marriage](https://www.niskanencenter.org/is-your-state-tax-code-penalizing-marriage/){: .external-link}
+
+## Conclusion
+
+Democrats have large majorities in many places, they should use them! It doesn't improve outcomes to vote with 80% margins for mediocre policy while becoming bitterly divided over stuff that doesn't matter.
+
+A rigorous accounting of costs and benefits are integral to
