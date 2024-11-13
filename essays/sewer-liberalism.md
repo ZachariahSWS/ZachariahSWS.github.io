@@ -23,7 +23,7 @@ It is now time for liberalism to create its own accomplishments liberals can pro
 Liberal states' struggle with housing is well documented at this point. Sure, California and New York have run farther through the supply of empty land with reasonable travel times to city centers, but there remains massive opportunities to densify.
 
 
-<div id = "housing" class = "auto-chart"
+<div id="housing" class="auto-chart"
   data-chart-csv="/datasets/california-housing-starts.csv"
   data-options='{
     "width": 800,
@@ -77,7 +77,7 @@ Union sandhogs certainly get paid more than market wages, but the more damaging 
 
 Other jurisdictions like Los Angeles have similar problems, but not to quite the same scale as New York. They will all benefit from a proactive governor or legislature willing to go to bat for transit construction even without extra funding.
 
-## Running Public Services Well
+## Transit Operations
 
 Certain parts of a city amplify the effects of disordered conduct. A man smoking crack on a train affects a much larger set of people than if he did it in his home. Public and private services alike can be venues with large numbers of people but public ones tend to be much more tolerant. This pushes people away from public ones and delegitimizes the government.
 
@@ -93,4 +93,18 @@ To that end, bus routes should be redesigned with larger stop spacing to reduce 
 
 ## Unemployment
 
-Less talked about is the high rates of unemployment in [California](https://www.sacbee.com/news/california/article287381510.html){: .external-link} and Illinois
+Less talked about is the high rates of unemployment in [California](https://www.sacbee.com/news/california/article287381510.html){: .external-link} and Illinois.
+
+The Niskanen Center [has](https://www.niskanencenter.org/unemployment-insurance-expansions-could-reduce-disability-benefit-utilization/){: .external-link} [a lot](https://www.niskanencenter.org/an-unemployment-insurance-system-that-works-2/){: .external-link} [of articles](https://www.niskanencenter.org/getting-the-job-done-on-unemployment-insurance-how-congress-can-reinforce-program-administration-and-integrity-with-finance-reform/){: .external-link} on [unemployment](https://www.niskanencenter.org/op-ed-the-fiscal-fix-our-unemployment-insurance-systems-need/){: .external-link} [insurance](https://uiworkerbenefit.niskanencenter.org/){: .external-link} and they deserve to be taken seriously. Active labor market policies like job retraining have fallen to the wayside in the US, but they work well when implemented. Large UI payments can [crowd out disability benefits](https://www.iza.org/publications/dp/17095/optimal-unemployment-insurance-with-program-interactions){: .external-link} and other welfare programs and keep people searching for jobs where they would otherwise give up
+
+## Taxes
+
+It's no secret taxes are high in liberal areas, what's lesser known is who is affected by them. A common refrain is that people leave california because of the taxes, but [the median texan pays more than the median californian](https://itep.org/whopays-7th-edition/){: .external-link} though that is due to an increased reliance on property taxes in Texas, which are superior to income taxes in reducing economic harm.
+
+Ideally California would repeal Prop 13 but that seems unworkable. In the mean time, there are various tweaks that can lead to a reduction in deadweight loss and boost growth.
+
+California specifically has an extremely small IRC Section 179 deduction at 25k. Section 179 allows taxpayers to deduct purchases of property used for business from their taxable income (though it gets taxed as income when the property is no longer used for business). The nationwide limit is &dollar;1,250,000 for 2025 and California should stick to that or go higher if they want to stop disincentivizing people from making capital investments.
+
+Contrary to what one may expect from a tax reformer, I think of the highly graduated nature of California's income taxes as a good thing as households are hit by high effective marginal tax rates from the expiry of various programs such as Medi-Cal, in the event Medi-Cal, or failing that Medi-Cal for kids is universalized among other phaseouts, it makes more sense to even out effective marginal rates.
+
+In the mean time, liberals should try to move corporate income taxes in the direction of a cash flow tax where possible and make tweaks to reduce welfare cliffs and penalties to behavior like [marriage](https://www.niskanencenter.org/is-your-state-tax-code-penalizing-marriage/){: .external-link}
