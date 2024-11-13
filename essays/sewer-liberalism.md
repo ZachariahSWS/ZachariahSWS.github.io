@@ -24,7 +24,7 @@ Liberal states' struggle with housing is well documented at this point. Sure, Ca
 
 My own city of Santa Cruz is one of the 5 most expensive metro areas in the country. Here's a map of its zoning, yellow denotes R-1 zoning which is broken into R-1-10, R-1-7 and R-1-5 depending on if the minimum lot size is 10k, 7k or 5k square feet respectively. All of these are excessive, homes usually go for above a million here. People should be allowed to split their lots in half or thirds, allowing multiple families to purchase their own homes in this extremely expensive area.
 
-<div id = "permitting" class = "auto-chart"
+<div class = "auto-chart"
   data-chart-csv = "/datasets/california-housing-starts.csv"
   data-options = '{
   "width": 800,
@@ -52,9 +52,9 @@ These are the constraints a government must deal with and seek to work around. M
 
 See my article on [High-Speed Rail](/essays/high-speed-rail){: .internal-link} if you'd like to see a national take on railroads but this section will be focused on the state level.
 
-An underdiscussed problem in american government is the crisis of highway costs. Since 2003, consumer prices have risen 1.71x, private capital goods 1.64x and highways 3.24x. Adjusting for inflation (CPI), highways are thus 1.89x more expensive to build. Part of this is the high cost of asphalt (very volatile but 3.07x higher than January 2003 as of September 2024) but savings can be made by switching from the current prevailing wage system to actual market wages. Freeing up money currently spent on highway construction allows for either more generous spending or a reduction in taxes.
+An underdiscussed problem in American government is the crisis of highway costs. Since 2003, consumer prices have risen 1.71x, private capital goods 1.64x and highways 3.24x. Adjusting for inflation (CPI), highways are thus 1.89x more expensive to build. Part of this is the high cost of asphalt (very volatile but 3.07x higher than January 2003 as of September 2024) but savings can be made by switching from the current prevailing wage system to actual market wages. Freeing up money currently spent on highway construction allows for either more generous spending or a reduction in taxes.
 
-<div id = "highways" class="auto-chart"
+<div class="auto-chart"
   data-chart-csv="/datasets/highway.csv"
   data-options='{
     "width": 800,
@@ -112,6 +112,8 @@ In the mean time, liberals should try to move corporate income taxes in the dire
 
 ## Conclusion
 
-Democrats have large majorities in many places, they should use them! It doesn't improve outcomes to vote with 80% margins for mediocre policy while becoming bitterly divided over stuff that doesn't matter.
+Democrats have large majorities in many places, they should use them! It doesn't improve outcomes to vote with 80% margins for mediocre policy while becoming bitterly divided over stuff that doesn't matter. The american voter has sent a message that urban governance is not well regarded. Now is the time to change their opinion.
 
-A rigorous accounting of costs and benefits are integral to
+Rigorous accounting of costs and benefits are useful, but so is a willingness to tell interest groups to pound sand. An opportunity has emerged to build a better tomorrow and a staging ground for the recapture of national institutions. Taking it is not mandatory (thermostatic public opinion is strong!) but it would be helpful to point to governing successes.
+
+When the dust settles and competent institutions have been built generating plentiful homes and jobs, with
