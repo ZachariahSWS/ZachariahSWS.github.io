@@ -1,9 +1,11 @@
 ---
 layout: default
 title: Sewer Liberalism
+description: Accomplishments make bragging easy
 permalink: /essays/sewer-liberalism
 toc: true
 linechart: true
+image: /images/library.jpg
 ---
 
 ## Good Outcomes Improve Vibes
