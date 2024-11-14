@@ -16,25 +16,25 @@ This presents a fairly good argument for conservatives: if liberalism is so good
 
 Milwaukee was the most socialist city in America at the turn of the 20th century. Despite lack of widespread support across america, local elections could be won by various parties from Union-Labor in 1886 to the Socialist Party of America in the 1900s. They expressed a form of pragmatic socialism focused on delivering useful institutions which measurably improved people's lives, like the municipal sewer which they would brag about to no end.
 
-It is now time for liberalism to create its own accomplishments liberals can proudly brag about.
+It is now time for liberalism to create accomplishments liberals can proudly brag about.
 
 ## Housing
 
 Liberal states' struggle with housing is well documented at this point. Sure, California and New York have run farther through the supply of empty land with reasonable travel times to city centers, but there remains massive opportunities to densify.
 
-My own city of Santa Cruz is one of the 5 most expensive metro areas in the country. Here's a map of its zoning, yellow denotes R-1 zoning which is broken into R-1-10, R-1-7 and R-1-5 depending on if the minimum lot size is 10k, 7k or 5k square feet respectively. All of these are excessive, homes usually go for above a million here. People should be allowed to split their lots in half or thirds, allowing multiple families to purchase their own homes in this extremely expensive area.
-
-<div class = "auto-chart"
-  data-chart-csv = "/datasets/california-housing-starts.csv"
-  data-options = '{
-  "width": 800,
-  "height": 400,
-  "title": "California Doesn't Permit Housing Anymore",
-  "subtitle": "Housing units permitted in California",
-  "yLabel": "Units, monthly",
-  "source" : "Census Bureau"
+<div class="auto-chart"
+  data-chart-csv="/datasets/housing.csv"
+  data-options='{
+    "width": 800,
+    "height": 400,
+    "title": "California Doesn't Permit Housing Anymore",
+    "subtitle": "New Private Housing Units Authorized by Building Permits for California, monthly",
+    "yLabel": "Units",
+    "source": "US Census Bureau"
   }'>
 </div>
+
+My own city of Santa Cruz is one of the 5 most expensive metro areas in the country. Here's a map of its zoning, yellow denotes R-1 zoning which is broken into R-1-10, R-1-7 and R-1-5 depending on if the minimum lot size is 10k, 7k or 5k square feet respectively. All of these are excessive, homes usually go for above a million here. People should be allowed to split their lots in half or thirds, allowing multiple families to purchase their own homes in this extremely expensive area.
 
 <img src="/images/zoning-map.svg">
 
@@ -116,4 +116,4 @@ Democrats have large majorities in many places, they should use them! It doesn't
 
 Rigorous accounting of costs and benefits are useful, but so is a willingness to tell interest groups to pound sand. An opportunity has emerged to build a better tomorrow and a staging ground for the recapture of national institutions. Taking it is not mandatory (thermostatic public opinion is strong!) but it would be helpful to point to governing successes.
 
-When the dust settles and competent institutions have been built generating plentiful homes and jobs, with
+When the dust settles and competent institutions have been built generating plentiful homes and jobs, with a government that is more than a pain to deal with, it will be that much easier to be trusted with national power again.
