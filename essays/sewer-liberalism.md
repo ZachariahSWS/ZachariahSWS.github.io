@@ -98,7 +98,7 @@ California specifically has an extremely small IRC Section 179 deduction at 25k.
 
 Contrary to what one may expect from a tax reformer, I think of the highly graduated nature of California's income taxes as a good thing as households are hit by high effective marginal tax rates from the expiry of various programs such as Medi-Cal, in the event Medi-Cal, or failing that Medi-Cal for kids is universalized among other phaseouts, it makes more sense to even out effective marginal rates.
 
-In the mean time, liberals should try to move corporate income taxes in the direction of a cash flow tax where possible and make tweaks to reduce welfare cliffs and penalties to behavior like [marriage](https://www.niskanencenter.org/is-your-state-tax-code-penalizing-marriage/){: .external-link}
+In the mean time, liberals should try to move corporate income taxes in the direction of a cash flow tax where possible and make tweaks to reduce welfare cliffs and penalties to behavior like [marriage](https://www.niskanencenter.org/is-your-state-tax-code-penalizing-marriage/){: .external-link}.
 
 ## Conclusion
 
