@@ -22,18 +22,6 @@ It is now time for liberalism to create accomplishments liberals can proudly bra
 
 Liberal states' struggle with housing is well documented at this point. Sure, California and New York have run farther through the supply of empty land with reasonable travel times to city centers, but there remains massive opportunities to densify.
 
-<div class="auto-chart"
-  data-chart-csv="/datasets/housing.csv"
-  data-options='{
-    "width": 800,
-    "height": 400,
-    "title": "California Doesn't Permit Housing Anymore",
-    "subtitle": "New Private Housing Units Authorized by Building Permits for California, monthly",
-    "yLabel": "Units",
-    "source": "US Census Bureau"
-  }'>
-</div>
-
 My own city of Santa Cruz is one of the 5 most expensive metro areas in the country. Here's a map of its zoning, yellow denotes R-1 zoning which is broken into R-1-10, R-1-7 and R-1-5 depending on if the minimum lot size is 10k, 7k or 5k square feet respectively. All of these are excessive, homes usually go for above a million here. People should be allowed to split their lots in half or thirds, allowing multiple families to purchase their own homes in this extremely expensive area.
 
 <img src="/images/zoning-map.svg">
