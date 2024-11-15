@@ -4,6 +4,7 @@ title: High-Speed Rail
 permalink: /essays/high-speed-rail
 toc: true
 footnote_popup: true
+image: /images/railroad.jpeg
 ---
 
 <section id="introduction">
