@@ -1,12 +1,15 @@
 ---
 layout: default
 title: AI Special Economic Zones
+description: Great Power Competion Made Easier
 permalink: /essays/ai-sez
 toc: true
 image: /images/semiconductor-fab.jpg
 ---
 
 On November 19th, 2024 the US-China Economic and Security Review Commission released its yearly report which called for "Congress \[to\] establish and fund a Manhattan Project-like program dedicated to racing to and acquiring an Artificial General Intelligence (AGI) capability". In the spirit of that reccomendation, here's a bill to expand datacenter and relevant manufacturing facilties through the create of AI special economic zones.
+
+<hr>
 
 # A BILL
 To establish Special Economic Zones for Artificial Intelligence Infrastructure Development and for other purposes.
