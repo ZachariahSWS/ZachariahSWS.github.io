@@ -9,7 +9,7 @@ image: /images/semiconductor-fab.jpg
 
 On November 19th, 2024 the US-China Economic and Security Review Commission released its yearly report which called for "Congress \[to\] establish and fund a Manhattan Project-like program dedicated to racing to and acquiring an Artificial General Intelligence (AGI) capability". In the spirit of that recommendation, here's a bill to expand datacenter and relevant manufacturing facilties through the create of AI special economic zones.
 
-Disclaimer: AI Alignment is important and rushing ahead willy nilly is not optimal. I just like writing bills let america do things without falling into its vetocracy.
+Disclaimer: AI Alignment is important and rushing ahead willy nilly is not optimal. I just like writing bills that let america do things without falling into its vetocracy.
 
 <hr>
 
