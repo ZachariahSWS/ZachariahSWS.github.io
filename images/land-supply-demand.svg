@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 750">
+    <defs>
+        <style>
+            .large-text {
+                font-size: 36px;
+                fill: var(--primary-color);
+            }
+            .small-text {
+                font-size: 18px;
+                fill: var(--primary-color);
+            }
+            .producer-surplus {
+                fill: #f16163;
+            }
+            .consumer-surplus {
+                fill: #79acdd;
+            }
+            .tax-revenue {
+                fill: #6abe4e;
+            }
+            .dead-weight-loss {
+                fill: #f8f18d;
+            }
+            .lines-theme {
+                fill: none;
+                stroke: var(--primary-color);
+                stroke-miterlimit: 10;
+                stroke-width: 5px;
+            }
+            .legend-background {
+                fill: var(--off-background-color);
+            }
+        </style>
+    </defs>
+
+    <rect class="producer-surplus" x="100" y="400" width="275" height="275"/>
+    <polygon class="consumer-surplus" points="100 150 375 400 100 400 100 150"/>
+    <polyline id="axes" class="lines-theme" points="100,125 100,675 650,675"/>
+    <line id="Supply_Curve" class="lines-theme" x1="375" y1="675" x2="375" y2="125"/>
+    <line id="Demand_Curve" class="lines-theme" x1="100" y1="150" x2="650" y2="650"/>
+    <text class="large-text"><tspan x="38.32" y="412.89">P</tspan></text>
+    <text class="large-text"><tspan x="361" y="737.89">Q</tspan></text>
+    <text class="large-text"><tspan x="291.85" y="87.89">Land Supply and Demand</tspan></text>
+
+    <rect class="legend-background" x="725" y="125" width="225" height="550"/>
+    <rect class="producer-surplus" x="755" y="350" width="165" height="165"/>
+    <polygon class="consumer-surplus" points="755 150 920 300 755 300 755 150"/>
+    <text class="small-text"><tspan x="755" y="331.44">Consumer Surplus</tspan></text>
+    <text class="small-text"><tspan x="755" y="541.44">Producer Surplus</tspan></text>
+</svg>
