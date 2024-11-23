@@ -27,12 +27,12 @@ $$DWL = \frac12 \times t^2 \times P \times Q \times (\varepsilon_s + \varepsilon
 
 Note that $P$ and $Q$ are the initial price and quantity and are thus fixed. Similarly $\varepsilon_s$ and $\varepsilon_d$ are the marginal elasticity of supply and demand and are similarly fixed (kind of). Thus we can see that deadweight loss is proportional to the square of the tax rate $t$.
 
-<img src="/images/normal-supply-demand.svg">
-<img src="/images/normal-supply-demand-taxes.svg">
-<img src="/images/land-supply-demand.svg">
-<img src="/images/land-supply-demand-taxes.svg">
+<object data="/images/normal-supply-demand.svg" type="image/svg+xml"></object>
+<object data="/images/normal-supply-demand-taxes.svg" type="image/svg+xml"></object>
+<object data="/images/land-supply-demand.svg" type="image/svg+xml"></object>
+<object data="/images/land-supply-demand-taxes.svg" type="image/svg+xml"></object>
 
 
 ## The Vanguard of the Revolution
 
-<img src="/images/vanguard.svg">
+<object data="/images/vanguard.svg" type="image/svg+xml"></object>

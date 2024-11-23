@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 750">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 1000 750">
     <defs>
         <style>
             .large-text {
@@ -34,7 +34,7 @@
         </style>
     </defs>
 
-    <polygon class="dead-weigh-loss" points="265 300 375 400 265 500 265 300"/>
+    <polygon class="dead-weight-loss" points="265 300 375 400 265 500 265 300"/>
     <rect class="tax-revenue" x="100" y="300" width="165" height="200"/>
     <polygon class="producer-surplus" points="100 500 265 500 100 650 100 500"/>
     <polygon class="consumer-surplus" points="100 150 265 300 100 300 100 150"/>

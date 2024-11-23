@@ -26,7 +26,7 @@ Liberal states' struggle with housing is well documented at this point. Sure, Ca
 
 My own city of Santa Cruz is one of the 5 most expensive metro areas in the country. Here's a map of its zoning, yellow denotes R-1 zoning which is broken into R-1-10, R-1-7 and R-1-5 depending on if the minimum lot size is 10k, 7k or 5k square feet respectively. All of these are excessive, homes usually go for above a million here. People should be allowed to split their lots in half or thirds, allowing multiple families to purchase their own homes in this extremely expensive area.
 
-<img src="/images/zoning-map.svg">
+<object data="/images/zoning-map.svg" type="image/svg+xml"></object>
 
 Additionally, they set a maximum building area of between 3,000 and 4,000 square feet. If you'd like to build an accessory dwelling unit, as has been encouraged in California recently, you'd better hope your existing house isn't too large or you need to petition for a zoning variance.
 
