@@ -4,11 +4,11 @@
         <style>
             .large-text {
                 font-size: 36px;
-                fill: var(--primary-color);
+                fill: #333;
             }
             .small-text {
                 font-size: 18px;
-                fill: var(--primary-color);
+                fill: #333;
             }
             .producer-surplus {
                 fill: #f16163;
@@ -24,12 +24,27 @@
             }
             .lines-theme {
                 fill: none;
-                stroke: var(--primary-color);
+                stroke: #333;
                 stroke-miterlimit: 10;
                 stroke-width: 5px;
             }
             .legend-background {
-                fill: var(--off-background-color);
+                fill: #f0f0f0;
+            }
+
+            @media (prefers-color-scheme: dark) {
+                .large-text {
+                    fill: #e0e0e0;
+                }
+                .small-text {
+                    fill: #e0e0e0;
+                }
+                .lines-theme {
+                    stroke: #e0e0e0;
+                }
+                .legend-background {
+                    fill: #2f2f2f;
+                }
             }
         </style>
     </defs>
