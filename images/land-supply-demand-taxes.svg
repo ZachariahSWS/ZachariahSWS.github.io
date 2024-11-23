@@ -60,14 +60,14 @@
     <text class="large-text"><tspan x="361" y="737.89">Q</tspan></text>
     <line id="Lower_Tax" class="lines-theme" x1="100" y1="575" x2="567.5" y2="575"/>
     <line id="Upper_Tax" class="lines-theme" x1="100" y1="400" x2="567.5" y2="400"/>
-    <text class="large-text"><tspan x="637.5" y="496.44">Tax Rate</tspan></text>
+    <text class="small-text"><tspan x="637.5" y="496.44">Tax Rate</tspan></text>
     <text class="large-text"><tspan x="224.64" y="87.89">Land Supply and Demand + Taxes</tspan></text>
 
     <rect class="legend-background" x="725" y="125" width="225" height="550"/>
     <rect class="producer-surplus" x="755" y="300" width="110" height="110"/>
     <polygon class="consumer-surplus" points="755 150 865 250 755 250 755 150"/>
     <rect class="tax-revenue" x="755" y="460" width="110" height="70"/>
-    <text class="small-text" transform="translate(755 281.44)"><tspan x="0" y="0">Consumer Surplus</tspan></text>
-    <text class="small-text" transform="translate(755 441.44)"><tspan x="0" y="0">Producer Surplus</tspan></text>
+    <text class="small-text"><tspan x="755" y="281.44">Consumer Surplus</tspan></text>
+    <text class="small-text"><tspan x="755" y="441.44">Producer Surplus</tspan></text>
     <text class="small-text"><tspan x="755" y="561.44">Tax Revenue</tspan></text>
 </svg>
