@@ -10,6 +10,8 @@ theme_settings:
       url: /
     - title: Essays
       url: /essays
+    - title: Documents
+      url: /documents
 # Build settings
 markdown: kramdown
 kramdown:
