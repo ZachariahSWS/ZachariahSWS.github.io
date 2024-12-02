@@ -1,7 +1,7 @@
 ---
 layout: default
-title: The Big L: American Logistics in WWII
-description: Approved For Public Release
+title: Documents
+description: A collection of transcribed government documents
 permalink: /documents
 ---
 
