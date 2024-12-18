@@ -4,8 +4,6 @@ title: About
 permalink: /
 ---
 
-# About Me
-
 I'm a Freshman at the University of California, Santa Cruz in Applied Mathematics. I like math ), computer science, history and politics (especially the nitty gritty of policy). In my free time I work on this website, graphics programming, read books, write an alternate history timeline about an early recovery from the Great Depression, go on walks and hang out on twitter.
 
 ### Want to hire me?

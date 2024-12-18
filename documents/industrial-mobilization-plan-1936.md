@@ -435,9 +435,9 @@ This division will perform the usual administrative duties. A suggested organiza
 
 ## 4. Liaison division.
 
-a. *War Labor.*-This section maintains liaison with the War Labor Administration and presents to it the needs of the various industrial agencies for labor. Labor problems requiring the attention of the War Labor Administration are referred to it with recommendations of the War Resources Administration. Reports are submitted to the War Labor Administration as to the efficacy of policies enunciated by the War Labor Administration in relation to the industrial support of the military effort. Upon the creation of the War Resources Ad- ministration, the personnel of the Labor Section of the Army and Navy Munitions Board, with pertinent records and data, will be made available to the Administrator of War Resources to assist in organizing the Labor Section in that administration.
+a. *War Labor.*-This section maintains liaison with the War Labor Administration and presents to it the needs of the various industrial agencies for labor. Labor problems requiring the attention of the War Labor Administration are referred to it with recommendations of the War Resources Administration. Reports are submitted to the War Labor Administration as to the efficacy of policies enunciated by the War Labor Administration in relation to the industrial support of the military effort. Upon the creation of the War Resources Administration, the personnel of the Labor Section of the Army and Navy Munitions Board, with pertinent records and data, will be made available to the Administrator of War Resources to assist in organizing the Labor Section in that administration.
 
-b. *War Trade.*-This section maintains liaison with the War Trade Administration and presents to it the requirements of industry for strategic and critical raw materials. It assists the War Trade Administration when desired in locating world sources of required mate- rials and cooperates in the securing of such supplies.
+b. *War Trade.*-This section maintains liaison with the War Trade Administration and presents to it the requirements of industry for strategic and critical raw materials. It assists the War Trade Administration when desired in locating world sources of required materials and cooperates in the securing of such supplies.
 
 c. *Public Relations.*-This section maintains liaison with the Administrator of Public Relations and furnishes to him the official, educational, and informative material for publication in support of the policies and methods of operation adopted by the War Resources Administration.
 
@@ -453,99 +453,99 @@ The control divisions under the Administrator of War Resources are organized pri
 
 The chiefs of the control divisions will exercise full control, under direction of the Administrator, of the commodities or services falling within the purview of their responsibilities.
 
-As the War and Navy Departments are charged with the responsibility for the preparation of plans and policies for industrial mobili- zation, these two Departments will provide the trained officer personnel required to assist in the initiation and execution of these plans and policies upon the declaration of war. One officer from each Department will remain on duty in each of the control divisions to represent their respective Departments. Other governmental agencies interested in specific commodities or services will be repre- sented as conditions warrant.
+As the War and Navy Departments are charged with the responsibility for the preparation of plans and policies for industrial mobilization, these two Departments will provide the trained officer personnel required to assist in the initiation and execution of these plans and policies upon the declaration of war. One officer from each Department will remain on duty in each of the control divisions to represent their respective Departments. Other governmental agencies interested in specific commodities or services will be represented as conditions warrant.
 
-The control divisions will be concerned primarily with the administration of approved priority policies, creation of new facilities, and opening of sources of supply, conversion of existing facilities where necessary to new uses, allocation of facilities and apportionment, where necessary, of materials and services, conservation of resources and facilities, and the administration of approved price- control policies.
+The control divisions will be concerned primarily with the administration of approved priority policies, creation of new facilities, and opening of sources of supply, conversion of existing facilities where necessary to new uses, allocation of facilities and apportionment, where necessary, of materials and services, conservation of resources and facilities, and the administration of approved price-control policies.
 
 The control divisions in coordinating procurement will continually recognize the responsibility of established governmental procuring agencies and will leave to them the greatest freedom of action and initiative consistent with the necessary coordination.
 
-The control divisions will arrange for any required engineering or other scientific research, or process development, through liaison with existing agencies, including War, Navy, and other Federal Departments and agencies, State agencies, educational institutions, indus- trial establishments, trade associations, engineering and scientific societies, and endowed research institutions."
+The control divisions will arrange for any required engineering or other scientific research, or process development, through liaison with existing agencies, including War, Navy, and other Federal Departments and agencies, State agencies, educational institutions, industrial establishments, trade associations, engineering and scientific societies, and endowed research institutions."
 
 The control divisions will supervise appropriate research in connection with:
 
 > (1) Conservation of critical and strategic raw materials.
 > (2) Substitutes for critical and strategic raw materials.
-> (3) Improvement in industrial practices and processes em- ployed by war industries.
+> (3) Improvement in industrial practices and processes employed by war industries.
 > (4) Technical aspects of enemy industry.
 
 ### 2. Facilities division.
 
 a. This division assists in the coordination of procurement through the allocation, extension, conversion, and construction of facilities. which involve not only the Army and the Navy, but other branches of the Government procuring war requirements.
 
-b. It equalizes the load placed upon industry by proper geographic and strategic distribution. It takes into consideration the use of existing facilities, with a view to using the available and existing distribution of power, labor, and transportation. It insures the plac- ing of war orders and contracts with existing facilities, which in turn promotes rapid and efficient production and reduces the need for new facilities to a minimum. In general, instead of allocating war orders, as was done during the last war, facilities for producing these war orders will be allocated. In other words, this control division takes necessary action on requisitions for the allocation of facilities, after investigation and upon advice of the other divisions, sections, and committees concerned. It recommends, after investigation, the suit- ability of the facility to produce the items for which it was requisitioned. It receives, investigates, records, and assigns facilities to a Government agency, either upon requisition for the allocation or upon a request by a procuring agency for a facility for the production of a specific requirement. In this way this division acts as a clearing house and decides upon the adaptability of a facility for allocation. It also investigates sources of supply and recommends facilities for allocation, when called upon to do so. Copies of all data on facilities in the allocation sections of the War and Navy Depart- ments and the Army and Navy Munitions Board should constitute a nucleus of information for this division. This division will keep in close contact, and should receive advice from the commodity committees and the divisions having to do with power, labor, and transportation. Liaison will be maintained with the major procuring departments, through the representatives of those departments who are assigned to this division, and with industry through war service committees.
+b. It equalizes the load placed upon industry by proper geographic and strategic distribution. It takes into consideration the use of existing facilities, with a view to using the available and existing distribution of power, labor, and transportation. It insures the placing of war orders and contracts with existing facilities, which in turn promotes rapid and efficient production and reduces the need for new facilities to a minimum. In general, instead of allocating war orders, as was done during the last war, facilities for producing these war orders will be allocated. In other words, this control division takes necessary action on requisitions for the allocation of facilities, after investigation and upon advice of the other divisions, sections, and committees concerned. It recommends, after investigation, the suitability of the facility to produce the items for which it was requisitioned. It receives, investigates, records, and assigns facilities to a Government agency, either upon requisition for the allocation or upon a request by a procuring agency for a facility for the production of a specific requirement. In this way this division acts as a clearing house and decides upon the adaptability of a facility for allocation. It also investigates sources of supply and recommends facilities for allocation, when called upon to do so. Copies of all data on facilities in the allocation sections of the War and Navy Departments and the Army and Navy Munitions Board should constitute a nucleus of information for this division. This division will keep in close contact, and should receive advice from the commodity committees and the divisions having to do with power, labor, and transportation. Liaison will be maintained with the major procuring departments, through the representatives of those departments who are assigned to this division, and with industry through war service committees.
 
 ### 3. Commodities division.
 
 a. *Functions.*-The functions of this division are exercised through commodity committees. These functions are-
 > (1) To ascertain the probable total requirements.
-> (2) To assure timely supply of critical and strategic raw ma- terials to war industries and other essential industries.
-> (3) To anticipate possible shortages in production of com- modities.
-> (4) To control the distribution of the stock of available sup- plies in conformity with the determined priorities.
+> (2) To assure timely supply of critical and strategic raw materials to war industries and other essential industries.
+> (3) To anticipate possible shortages in production of commodities.
+> (4) To control the distribution of the stock of available supplies in conformity with the determined priorities.
 > (5) To investigate and recommend the scales of prices at which essential materials may be sold and to administer price-control measures in accordance with established policies.
-> (6) To prepare and supervise the execution of regulations re- lating to the sale and production of commodities.
+> (6) To prepare and supervise the execution of regulations relating to the sale and production of commodities.
 > (7) To encourage the use of other materials by less essential industries where necessary to prevent the possibility of a shortage of critical and strategic materials.
-> (8) To ascertain the needs of industries engaged in produc- ing critical and strategic materials, and find means to satisfy them.
-> (9) To be acquainted with manufacturing methods and proc- esses involved in the production of essential materials.
+> (8) To ascertain the needs of industries engaged in producing critical and strategic materials, and find means to satisfy them.
+> (9) To be acquainted with manufacturing methods and processes involved in the production of essential materials.
 > (10) To determine available sources of supply and important factors affecting the production rate, stocks on hand, and similar questions bearing on quantities available.
 > (11) To initiate measures to stimulate the production of those essential materials in which a shortage might occur.
 > (12) To secure information as to stocks, production, and consumption from persons, companies, societies, or others interested.
 
-b. *Commodity committees.*-Commodity committees are composed of a chairman appointed by the chief of the commodities division, representatives of the Army and the Navy and other interested gov- ernmental agencies having war requirements, and such technical as- sistants as may be necessary. The power of decision is vested in the chairman, under direction of the chief of the division. Sufficient committees will be organized to take cognizance of all commodities over which control is necessary.
+b. *Commodity committees.*-Commodity committees are composed of a chairman appointed by the chief of the commodities division, representatives of the Army and the Navy and other interested governmental agencies having war requirements, and such technical assistants as may be necessary. The power of decision is vested in the chairman, under direction of the chief of the division. Sufficient committees will be organized to take cognizance of all commodities over which control is necessary.
 
 c. *Methods.*
 
-> (1) Control by allocation: The allocations of raw materials may be made to war industry and to other essential industries. These allocations should be based upon the priorities accorded the products of these industries. This control may be readily effected by a system of permits in which a commodity committee will certify the amounts of strategic and critical raw materials to which any industry may be entitled. The actual dis- tribution may be made or controlled by the commodity committee, by other Government agency, or by any desig- nated agency such as a trade association. The agency designated for the distribution shall approve the indi- vidual permits submitted by consumers in accordance with the limitations established by the commodity com- mittee, and shall control the custody of all or a desig- nated portion of all supplies received either from do- mestic sources or through importations. Producers and importers will be required to conform to the rules of the commodities division as to the control of supplies and the distribution methods decided upon.
-> Examples of different methods which may be established as practiced during the World War are cited as being ap- plicable to different commodities. These illustrate the forms of a control that could be exercised in connection with any commodity,
-> (a) *Mercury.*-The Navy Department was designated as the purchasing agency for all supplies of mercury to be used by Government consumers and contractors. The producers and importers were required to sell a minimum stated per- centage to the Navy Department; the percent- age being changed from time to time according to supplies made available and to Government requirements. The various purchasing agen- cies of the Government were given allowances for this material and up to these amounts could purchase from the Navy Department and have deliveries made to their manufacturing plants or to those of their contractors.
-> (b) *Tin.*-The American Iron and Steel Institute was made the consignee of all tin imports into this country, and operated the system of distribu- tion of this metal under supervision of the com- modity section of the War Industries Board. Later a private corporation was formed which acquired all tin stocks of the country and, under rules promulgated by the War Industries Board, became the sole seller of tin to the industry of the country.
-> (c) *Steel.*-A director of steel distribution was appointed by the steel industry to assure an orderly allocation of steel requirements for the industries of the country. The director acted under instructions of the commodity section, and when any restriction was decided upon, the director carried such orders into effect by limit- ing the amount of steel available to any manu- facturer of the industry restricted.
+> (1) Control by allocation: The allocations of raw materials may be made to war industry and to other essential industries. These allocations should be based upon the priorities accorded the products of these industries. This control may be readily effected by a system of permits in which a commodity committee will certify the amounts of strategic and critical raw materials to which any industry may be entitled. The actual distribution may be made or controlled by the commodity committee, by other Government agency, or by any designated agency such as a trade association. The agency designated for the distribution shall approve the individual permits submitted by consumers in accordance with the limitations established by the commodity committee, and shall control the custody of all or a designated portion of all supplies received either from domestic sources or through importations. Producers and importers will be required to conform to the rules of the commodities division as to the control of supplies and the distribution methods decided upon.
+> Examples of different methods which may be established as practiced during the World War are cited as being applicable to different commodities. These illustrate the forms of a control that could be exercised in connection with any commodity,
+> (a) *Mercury.*-The Navy Department was designated as the purchasing agency for all supplies of mercury to be used by Government consumers and contractors. The producers and importers were required to sell a minimum stated percentage to the Navy Department; the percentage being changed from time to time according to supplies made available and to Government requirements. The various purchasing agencies of the Government were given allowances for this material and up to these amounts could purchase from the Navy Department and have deliveries made to their manufacturing plants or to those of their contractors.
+> (b) *Tin.*-The American Iron and Steel Institute was made the consignee of all tin imports into this country, and operated the system of distribution of this metal under supervision of the commodity section of the War Industries Board. Later a private corporation was formed which acquired all tin stocks of the country and, under rules promulgated by the War Industries Board, became the sole seller of tin to the industry of the country.
+> (c) *Steel.*-A director of steel distribution was appointed by the steel industry to assure an orderly allocation of steel requirements for the industries of the country. The director acted under instructions of the commodity section, and when any restriction was decided upon, the director carried such orders into effect by limiting the amount of steel available to any manufacturer of the industry restricted.
 > (2) Licensing.-Another method of control which may be employed is that of licensing dealers and producers. Licenses should specify rates of profit, amount, and character of output and other conditions under which licensees are permitted to operate. This method was employed efficaciously by both the Food and the Fuel Administration during the World War.
-> (3) Procedure for gathering and disseminating statistics and data relating to commodities. One of the earliest meas- ures to be taken in the interests of securing data upon. which the necessary action can be based will be the organization of consuming and of producing industries into trade organizations and the formation of war service committees which shall be given the duty of collecting pertinent data regarding stocks, consumption, articles produced, producing methods, and practices, and measures necessary to increase production. The war service committees will be given the elements of the existing situation and will be requested to formulate methods to meet it in such a way that the war industries  of the country shall be assured adequate supply of their necessary commodities and that the remaining supply shall be equitably distributed. Endeavor will be made in this distribution that no plants and no industry shall be completely denied the raw materials essential to their continuance.
-> Each commodity committee shall establish a unit for the assembling and evaluation of statistics received, and prepare questionnaires to insure that it shall be supplied with data essential to carrying out its functions. Cur- rent data will be required regarding stocks, production, shipments, imports, sales, consumption by principal articles, and prices.
-> Commodity annexes, which are detailed plans for the procure- ment and control of strategic and critical materials, are prepared and currently revised by the Army and Navy Munitions Board and are on file in the records of that Board. These will indicate the more pressing problems requiring early research. Where rationing or restriction is necessary, the commodity division will analyze current statistics to determine the amount of conservation or restriction of consumption required, and research will be initiated to determine the items of manufactured materials or manufacturing processes where conserva- tion methods or restriction of use can best be applied.
+> (3) Procedure for gathering and disseminating statistics and data relating to commodities. One of the earliest measures to be taken in the interests of securing data upon. which the necessary action can be based will be the organization of consuming and of producing industries into trade organizations and the formation of war service committees which shall be given the duty of collecting pertinent data regarding stocks, consumption, articles produced, producing methods, and practices, and measures necessary to increase production. The war service committees will be given the elements of the existing situation and will be requested to formulate methods to meet it in such a way that the war industries  of the country shall be assured adequate supply of their necessary commodities and that the remaining supply shall be equitably distributed. Endeavor will be made in this distribution that no plants and no industry shall be completely denied the raw materials essential to their continuance.
+> Each commodity committee shall establish a unit for the assembling and evaluation of statistics received, and prepare questionnaires to insure that it shall be supplied with data essential to carrying out its functions. Current data will be required regarding stocks, production, shipments, imports, sales, consumption by principal articles, and prices.
+> Commodity annexes, which are detailed plans for the procurement and control of strategic and critical materials, are prepared and currently revised by the Army and Navy Munitions Board and are on file in the records of that Board. These will indicate the more pressing problems requiring early research. Where rationing or restriction is necessary, the commodity division will analyze current statistics to determine the amount of conservation or restriction of consumption required, and research will be initiated to determine the items of manufactured materials or manufacturing processes where conservation methods or restriction of use can best be applied.
 > Dissemination of information to industry will in general be made through war-service committees. Where an industry has not yet been organized, the information, rulings, and other pertinent data may be sent directly to individuals or through local organizations.
 > Whenever deemed desirable to give wide publicity to any matter concerning production or conservation, the publicrelations division will be called upon to disseminate the necessary information.
 
 ### 4. Transportation division.
 
-a. *General.*-The transportation agencies should operate under the coordination of their own leaders. War and other emergency powers assigned to existing Federal commerce control agencies by congressional legislation should con- tinue to be administered by such bodies, in cooperation with the chief of this division.
+a. *General.*-The transportation agencies should operate under the coordination of their own leaders. War and other emergency powers assigned to existing Federal commerce control agencies by congressional legislation should continue to be administered by such bodies, in cooperation with the chief of this division.
 
 b. *Functions.*-The transportation division exercises control over all modes of commercial transportation in the zone of the interior and over all uses thereof. Its functions are as follows:
 > (1) To formulate policies relative to the employment of the transportation facilities of the country.
-> (2) To establish, under approved policies, rules and regula- tions to govern the operation of the Nation's transporta- tion facilities and their use by shippers.
-> (3) To effect such control as may be necessary to insure the most efficient use and operation of transportation facilities. This control is effected by means of the rules and regulations mentioned in (2) above, through the agency of war-service committees and in cooperation with established Federal regulatory bodies. The use of trans- portation facilities by Government agencies is also governed by the rules and regulations established by this division.
+> (2) To establish, under approved policies, rules and regulations to govern the operation of the Nation's transportation facilities and their use by shippers.
+> (3) To effect such control as may be necessary to insure the most efficient use and operation of transportation facilities. This control is effected by means of the rules and regulations mentioned in (2) above, through the agency of war-service committees and in cooperation with established Federal regulatory bodies. The use of transportation facilities by Government agencies is also governed by the rules and regulations established by this division.
 
 c. *Mobilization.*
 
 > (1) Upon the outbreak of an emergency of such magnitude as to place a serious additional load upon transportation facilities, it is not foreseen that the increase in load will be applied suddenly. Hence the mobilization of the transportation division and the measures to put it in operation may take place in orderly progression.
-> (2) However, it will be necessary to accomplish certain pre- paratory measures with a minimum of delay in order that the work of the division may become effective in time to avoid the results of lack of timely coordination of the transport system. Such preparatory measures will consist of-
+> (2) However, it will be necessary to accomplish certain preparatory measures with a minimum of delay in order that the work of the division may become effective in time to avoid the results of lack of timely coordination of the transport system. Such preparatory measures will consist of-
 > (a) Final revision of plans for the operation of the division.
 > (b) Preparation of draft of directive to the division from the Administrator of War Resources or checking and perfecting such draft as already exists.
-> (c) Preparation, in collaboration with personnel hav- ing cognizance of legal matters, of drafts of any necessary legislation, or revising such drafts as already exist.
-> (3) The initial measures set forth above will be accomplished by the appropriate personnel of the Army and Navy Munitions Board functioning in the manner prescribed for peacetime. These measures should be undertaken as soon as it becomes apparent that the office of the Ad- ministrator of War Resources will be called into existence.
-> (4) The final phase of the mobilization of the division will take place after the formation of the office of the Ad- ministrator of War Resources and will consist of the appointment by him of the chief of the transportation division, who will then proceed to complete and perfect an organization and to carry on the work already ini- tiated by the Army and Navy Munitions Board.
+> (c) Preparation, in collaboration with personnel having cognizance of legal matters, of drafts of any necessary legislation, or revising such drafts as already exist.
+> (3) The initial measures set forth above will be accomplished by the appropriate personnel of the Army and Navy Munitions Board functioning in the manner prescribed for peacetime. These measures should be undertaken as soon as it becomes apparent that the office of the Administrator of War Resources will be called into existence.
+> (4) The final phase of the mobilization of the division will take place after the formation of the office of the Administrator of War Resources and will consist of the appointment by him of the chief of the transportation division, who will then proceed to complete and perfect an organization and to carry on the work already initiated by the Army and Navy Munitions Board.
 > (5) The transportation annex is the detailed plan for control of transportation in a war emergency and is prepared and currently revised by the Army and Navy Munitions Board. This annex is on file with the records of that Board.
 
 ### 5. Power and Fuel division.
-a. The mission of this division will be to insure that an adequate supply of power and fuel is furnished to facilities essential to war production, with a minimum of interference with the normal pro- duction, distribution, and use by the civilian population.
+a. The mission of this division will be to insure that an adequate supply of power and fuel is furnished to facilities essential to war production, with a minimum of interference with the normal production, distribution, and use by the civilian population.
 
-b. This division has jurisdiction, under the Administrator of War Resources, over the development and use of power and fuel for war- time purposes. Its functions are as follows:
+b. This division has jurisdiction, under the Administrator of War Resources, over the development and use of power and fuel for war-time purposes. Its functions are as follows:
 > (1) To formulate policies relative to the alleviation of shortages.
-> (2) To establish, under approved policies, such rules and reg- ulations governing use and conservation as may be nec- essary to insure an adequate supply.
+> (2) To establish, under approved policies, such rules and regulations governing use and conservation as may be necessary to insure an adequate supply.
 > (3) To effect, through the media of war service committees and regional-or zone-control agencies, the control necessary to carry out the rules and regulations mentioned in (2) above.
-> (4) Through the cooperation of the power and fuel indus- tries, to cause the development of additional sources of supply if and where needed.
+> (4) Through the cooperation of the power and fuel industries, to cause the development of additional sources of supply if and where needed.
 > (5) To maintain contact with established Federal and State. peacetime regulatory bodies, with a view to the removal of existing restriction which might impede wartime production.
-> (6) To assist in financial arrangements for those industries and-if and when necessary in order to prevent short- ages for war purposes to cause the formation of ap- propriate national-service corporations.
-> (7) To cooperate with the other control divisions and with other governmental agencies in the furtherance of mea- ures designed to assure an adequate supply of power and fuel.
+> (6) To assist in financial arrangements for those industries and-if and when necessary in order to prevent shortages for war purposes to cause the formation of appropriate national-service corporations.
+> (7) To cooperate with the other control divisions and with other governmental agencies in the furtherance of meaures designed to assure an adequate supply of power and fuel.
 
-c. Upon the outbreak of an emergency of such magnitude as to place a serious additional load upon power facilities, it is not fore- seen that the increase in load will be applied suddenly. Hence the mobilization of the power section and the measures to put it in opera- tion may take pace in a reasonably unhurried manner.
+c. Upon the outbreak of an emergency of such magnitude as to place a serious additional load upon power facilities, it is not foreseen that the increase in load will be applied suddenly. Hence the mobilization of the power section and the measures to put it in operation may take pace in a reasonably unhurried manner.
 
-d. For both power and fuel, it will be necessary to accomplish cer- tain preparatory measures with a minimum of delay in order that the work of the division may become effective in time to avoid the results of lack of timely measures to insure the adequacy of power supplies. Such preparatory measures will consist of-
+d. For both power and fuel, it will be necessary to accomplish certain preparatory measures with a minimum of delay in order that the work of the division may become effective in time to avoid the results of lack of timely measures to insure the adequacy of power supplies. Such preparatory measures will consist of-
 > (1) Final revision of plans for the operation of the division.
 > (2) Preparation of draft of directive to the division from the Administrator of War Resources, or revising such draft as already exists.
-> (3) Preparation, in collaboration with personnel having cog- nizance of legal matters, of drafts of any necessary legislation, or revising such drafts as already exist.
+> (3) Preparation, in collaboration with personnel having cognizance of legal matters, of drafts of any necessary legislation, or revising such drafts as already exist.
 
-e. The initial measures set forth above will be accomplished by the appropriate personnel of the Army and Navy Munitions Board func- tioning in the manner prescribed for peacetime. These measures should be undertaken as soon as it becomes apparent that the War Resources Administration will be called into existence.
+e. The initial measures set forth above will be accomplished by the appropriate personnel of the Army and Navy Munitions Board functioning in the manner prescribed for peacetime. These measures should be undertaken as soon as it becomes apparent that the War Resources Administration will be called into existence.
 
 f. The final phase of the mobilization of the division will take place after the formation of the War Resources Administration and will consist of the appointment by the Administrator of War Resources of the chief of the power and fuel division. The chief of this division will then proceed to complete and perfect the organization of the division, assisted by representatives from the Army and Navy Munitions Board.
 Detailed plans for the control of power and fuel, prepared and currently revised by the Army and Navy Munitions Board, are filed with that agency.
@@ -555,13 +555,13 @@ The Federal Power Act of August 26, 1935, authorizes the Federal Power Commissio
 
 ### 1. Composition.
 
-Under the supervision of corresponding sections of the control di- visions of the War Resources Administration, these committees are selected by each branch of industry or trade to serve on its behalf as a point of contact with the Government. They are not Govern- ment officials and are not a part of the governmental organization.
+Under the supervision of corresponding sections of the control divisions of the War Resources Administration, these committees are selected by each branch of industry or trade to serve on its behalf as a point of contact with the Government. They are not Government officials and are not a part of the governmental organization.
 
 When a committee is formed, care should be exercised to see that it represents all interests in the particular industry, both small and large, and that the members are selected from among the ablest and best-informed men in that field, who command the respect and confidence of the industry as a whole.
 
 ### 2. Purpose.
 
-To provide an organized method by which the Government can quickly present to all the factors in an industry its needs in a par- ticular line and receive dependable information as to how they may be met and what facilities are available. To provide organized machinery to collect information and advise. the Government as to what the needs of industry will be to meet the future requirements of the Government. (See sec. F, 3, c, (3), p. 23.)
+To provide an organized method by which the Government can quickly present to all the factors in an industry its needs in a particular line and receive dependable information as to how they may be met and what facilities are available. To provide organized machinery to collect information and advise. the Government as to what the needs of industry will be to meet the future requirements of the Government. (See sec. F, 3, c, (3), p. 23.)
 
 ### 3. Mobilization.
 
@@ -569,7 +569,7 @@ Under the supervision and coordination of corresponding sections of the control 
 
 ## Section H. Regional Agencies
 
-In the development of the organization of the War Resources Ad- ministration, the necessity for regional agencies will be met by their establishment as the need therefor arises.
+In the development of the organization of the War Resources Administration, the necessity for regional agencies will be met by their establishment as the need therefor arises.
 
 ## Section I. Bibliography
 
@@ -595,7 +595,7 @@ Records of Army Industrial College.
 
 ## Section A. Introduction
 
-The control of war trade involves functions and activities requir- ing cooperation between the Departments of State, Commerce, and Agriculture, the War Resources Administration, and the United States Maritime Commission, and may affect materially the strategic plans of the War and Navy Departments. The exercise of wartime control over imports and exports will therefore require the estab- lishment of an independent organization.
+The control of war trade involves functions and activities requiring cooperation between the Departments of State, Commerce, and Agriculture, the War Resources Administration, and the United States Maritime Commission, and may affect materially the strategic plans of the War and Navy Departments. The exercise of wartime control over imports and exports will therefore require the establishment of an independent organization.
 
 ## Section B. Authority
 
@@ -611,13 +611,13 @@ The organization of the War Trade Administration is shown on the chart facing th
 
 The major functions charged to the War Trade Administration are to-
 
-1. Exercise control of all exports and imports and, for such pur- poses, to issue licenses under such terms and conditions as are not inconsistent with law, or refuse licenses for the exportation or impor- tation of all articles except coin, bullion, or currency.
+1. Exercise control of all exports and imports and, for such purposes, to issue licenses under such terms and conditions as are not inconsistent with law, or refuse licenses for the exportation or importation of all articles except coin, bullion, or currency.
 
 2. Apply economic pressure on the enemy by preclusive purchase and by trade negotiations.
 
 3. Administer established price-control policies relating to war trade. (See appendix VI.)
 
-4. Provide for the conservation of ocean tonnage by import restric- tions and priority control of export shipments.
+4. Provide for the conservation of ocean tonnage by import restrictions and priority control of export shipments.
 
 5. Make effective a policy of reciprocity with other countries whose exports and imports may be influenced by the war.
 
@@ -629,7 +629,7 @@ The powers and responsibility of the War Trade Administration are vested in the 
 
 ## Section F. Advisory Committee
 
-This committee is composed of representatives from the State, War, Navy, Agriculture, and Commerce Departments, the War Resources Administration, and the United States Maritime Com- mission. The purpose of the committee is to advise in the formula- tion of policies and plans in order to insure coordinated action by the agencies represented.
+This committee is composed of representatives from the State, War, Navy, Agriculture, and Commerce Departments, the War Resources Administration, and the United States Maritime Commission. The purpose of the committee is to advise in the formulation of policies and plans in order to insure coordinated action by the agencies represented.
 
 ## Section G. Administration Division
 
@@ -639,7 +639,7 @@ The functions of this section are to furnish the required personnel, space, equi
 
 ### 2. Public relations section.
 
-The functions of this section are the preparation of authorized publications and their distribution, the operation of the library, clipping service, translation service, and the printing of enemy trading lists and confidential suspect lists. The director of this section represents the War Trade Adminis- tration on the advisory committee of the Public Relations Admin- istration.
+The functions of this section are the preparation of authorized publications and their distribution, the operation of the library, clipping service, translation service, and the printing of enemy trading lists and confidential suspect lists. The director of this section represents the War Trade Administration on the advisory committee of the Public Relations Administration.
 
 ### 3. Field section.
 
@@ -679,9 +679,9 @@ d. Control foreign distribution of allowed exports.
 
 ### 3. Ocean shipping section.
 
-The function of this section is to provide means for the conservation of ocean tonnage and for the transportation of necessities by import restrictions and by priority control of export shipments. It will carry out the policies of the War Trade Administration by its con- trol over bunker and ship stores, by refusing or withholding licenses to any vessel not under military control entering the harbors of the United States, and by exercising control over cargoes, destination, and ship activities in general.
+The function of this section is to provide means for the conservation of ocean tonnage and for the transportation of necessities by import restrictions and by priority control of export shipments. It will carry out the policies of the War Trade Administration by its control over bunker and ship stores, by refusing or withholding licenses to any vessel not under military control entering the harbors of the United States, and by exercising control over cargoes, destination, and ship activities in general.
 
-This section will maintain records of licenses issued, ship move- ments, ship cargoes, agreements entered into by shipowners, charter- ers, and operators; it will maintain records of shipowners, masters of vessels, and parties interested in the transfer of ships, and maintain a file giving the nationality, type, tonnage, and ownership of all vessels; it will approve the transfer of ownership of vessels; and audit ship stores. It will maintain branch agents in all ports of entry. The work of the section will be carried on by the collectors of customs.
+This section will maintain records of licenses issued, ship movements, ship cargoes, agreements entered into by shipowners, charterers, and operators; it will maintain records of shipowners, masters of vessels, and parties interested in the transfer of ships, and maintain a file giving the nationality, type, tonnage, and ownership of all vessels; it will approve the transfer of ownership of vessels; and audit ship stores. It will maintain branch agents in all ports of entry. The work of the section will be carried on by the collectors of customs.
 
 ### 4. Enemy trade section.
 
@@ -691,7 +691,7 @@ The functions of this section will be to act upon applications for licenses invo
 
 ### 1. Statistics section.
 
-The functions of this section are to furnish statistical service to the agencies of the War Trade Administration; to provide a service. for checking the use of licenses, to detect different forms of abuse, such as overshipment, altering of licenses, etc.; and to supply con- version and stowage factors of commodities for governmental agen- cies such as the United States Maritime Commission, War and Navy Departments, and War Resources Administration.
+The functions of this section are to furnish statistical service to the agencies of the War Trade Administration; to provide a service. for checking the use of licenses, to detect different forms of abuse, such as overshipment, altering of licenses, etc.; and to supply conversion and stowage factors of commodities for governmental agencies such as the United States Maritime Commission, War and Navy Departments, and War Resources Administration.
 
 ### 2. Research section.
 
@@ -721,7 +721,7 @@ d. To receive, copy, digest, and distribute reports of foreign agents.
 
 The Bureau of Foreign and Domestic Commerce of the Department of Commerce has peacetime functions which closely parallel several functions of the War Trade Administration, and is therefore the logical source for trained personnel to assist in the formation of a War Trade Administration.
 
-This Bureau has offices in the principal cities of the United States and has established contacts with importers and exporters for the dissemination of trade information. These offices have established a routine of communication with traders which could be readily modified to meet the conditions existing in wartime. Many of the reasons for which these offices were established, e. g., the promotion of foreign commerce, will cease to exist in wartime or will be com- pletely changed by wartime foreign-trade policy. These offices will therefore become available for war work as the scope of their nor- mal operations declines.
+This Bureau has offices in the principal cities of the United States and has established contacts with importers and exporters for the dissemination of trade information. These offices have established a routine of communication with traders which could be readily modified to meet the conditions existing in wartime. Many of the reasons for which these offices were established, e. g., the promotion of foreign commerce, will cease to exist in wartime or will be completely changed by wartime foreign-trade policy. These offices will therefore become available for war work as the scope of their normal operations declines.
 
 Similarly, the bureau's representatives in foreign countries could be utilized to carry on the foreign contacts in accordance with the policies of the War Trade Administration.
 
@@ -745,7 +745,7 @@ Records of Army and Navy Munitions Board. Records of Army Industrial College.
 
 ### 1. General
 
-In time of war the man power of the Nation has two distinct missions; to provide men for the armed forces and to provide men for the maintenance of those armed forces. To meet the needs of the former, a selected portion of the male population within such ages as the Congress may direct will be called to the colors. The war effort of the remaining major portion of the population must be so directed that it may meet the necessary demands of the armed forces in addi- tion to the normal maintenance requirements of the civilian popula- tion. The plan for the organization of a War Labor Administration as set forth in this appendix has been developed to assist in this pro- gram and to provide machinery for the equitable and voluntary dis- tribution of labor, skilled and unskilled, male and female, to industry and agriculture during the war period and to further to the utmost the war effort while causing the least possible disruption to normal industrial effort.
+In time of war the man power of the Nation has two distinct missions; to provide men for the armed forces and to provide men for the maintenance of those armed forces. To meet the needs of the former, a selected portion of the male population within such ages as the Congress may direct will be called to the colors. The war effort of the remaining major portion of the population must be so directed that it may meet the necessary demands of the armed forces in addition to the normal maintenance requirements of the civilian population. The plan for the organization of a War Labor Administration as set forth in this appendix has been developed to assist in this program and to provide machinery for the equitable and voluntary distribution of labor, skilled and unskilled, male and female, to industry and agriculture during the war period and to further to the utmost the war effort while causing the least possible disruption to normal industrial effort.
 
 ### 2. Industrial classification.
 
@@ -759,7 +759,7 @@ c. Those engaged in the production, transportation, and storage of supplies esse
 
 d. Other industries.
 
-The War Labor Administration will be concerned primarily with the problems of furnishing and maintaining adequate labor in those industries classified under a, b, and c above. The extension of such labor control policies as may be adopted to cover industries falling under classification d above will depend upon the developed magni- tude of the war effort.
+The War Labor Administration will be concerned primarily with the problems of furnishing and maintaining adequate labor in those industries classified under a, b, and c above. The extension of such labor control policies as may be adopted to cover industries falling under classification d above will depend upon the developed magnitude of the war effort.
 
 ### 3. Functions.
 
@@ -771,7 +771,7 @@ b. To fill those requirements by bringing together the job and the worker.
 
 c. To keep together, so far as conditions will permit, the job and the worker.
 
-Should the magnitude of the war warrant it, an additional operat- ing function will be that of supervision over the industrial education and mechanical training of labor required by industry for necessary expansion or in replacement of men taken into the armed forces.
+Should the magnitude of the war warrant it, an additional operating function will be that of supervision over the industrial education and mechanical training of labor required by industry for necessary expansion or in replacement of men taken into the armed forces.
 
 ## Section B. Authority
 
@@ -779,15 +779,15 @@ To establish the War Labor Administration and to exercise the functions outlined
 
 ## Section C. Organization
 
-The organization of the War Labor Administration is shown on the chart. The effect of this organization is to place under one admin- istrative head all the functions relating to employment and concilia- tion which were divided among several independent agencies during the World War.
+The organization of the War Labor Administration is shown on the chart. The effect of this organization is to place under one administrative head all the functions relating to employment and conciliation which were divided among several independent agencies during the World War.
 
 ## Section D. Administrator
 
-The powers and responsibilities of the War Labor Administration are vested in the Administrator who is appointed by the President, and to whom he is directly responsible. The Administrator is a mem- ber of the Advisory Defense Council. His mission is to insure first, that war industries, and second, that industries catering to essential civilian requirements are able to secure and maintain adequate forces of labor, skilled and unskilled, to accomplish their missions. The Administrator should be an outstanding citizen who is thoroughly familiar with the problems entering into the relationship between employer and employee and who is capable of dispassionate judg- ment in their solution. He should have the complete confidence of both management and labor in industry.
+The powers and responsibilities of the War Labor Administration are vested in the Administrator who is appointed by the President, and to whom he is directly responsible. The Administrator is a member of the Advisory Defense Council. His mission is to insure first, that war industries, and second, that industries catering to essential civilian requirements are able to secure and maintain adequate forces of labor, skilled and unskilled, to accomplish their missions. The Administrator should be an outstanding citizen who is thoroughly familiar with the problems entering into the relationship between employer and employee and who is capable of dispassionate judgment in their solution. He should have the complete confidence of both management and labor in industry.
 
 ## Section E. Deputy Administrator
 
-The Deputy Administrator of Labor is appointed by the President on nomination of the Administrator of War Labor. He shall per- form such duties as may be designated by the Administrator and shall act as Administrator of War Labor in the absence or disability of the latter.
+The Deputy Administrator of Labor is appointed by the President on nomination of the Administrator of War Labor. He shall perform such duties as may be designated by the Administrator and shall act as Administrator of War Labor in the absence or disability of the latter.
 
 ## Section F. Advisory Council
 
@@ -825,7 +825,7 @@ The division consists of two sections:
 
 1. An information section which shall collect and tabulate full information on the work of the War Labor Administration, and prepare press and other releases for the information of the public. It will also prepare subject matters which appeal to the patriotism of the public to the end that the greatest possible participation in the war effort, particularly by men and women in industry, may be secured. Its work will consist primarily in the education of the public to an understanding of the magnitude of the industrial effort.
 
-2. A publicity section which shall establish and maintain friendly relations with the press and with the radio, theater, and motion-pic- ture activities and similar avenues of publicity. This section will be charged with securing the publication of press and similar releases relative to the war labor program, subject to the regulations estab- lished by the Administrator of Public Relations.
+2. A publicity section which shall establish and maintain friendly relations with the press and with the radio, theater, and motion-picture activities and similar avenues of publicity. This section will be charged with securing the publication of press and similar releases relative to the war labor program, subject to the regulations established by the Administrator of Public Relations.
 
 ## Section H. Administration and Correspondence Division
 
@@ -835,9 +835,9 @@ In addition to caring for the usual office routine of correspondence and filing 
 
 ### 1. General.
 
-This Bureau studies all problems peculiar to the employment of women and minors in industry and recommends regulations regard- ing their employment.
+This Bureau studies all problems peculiar to the employment of women and minors in industry and recommends regulations regarding their employment.
 
-While the Bureau is itself primarily an advisory rather than an ad- ministrative agency, the peculiar nature of its work will call for a comprehensive organization to be composed of specialists in their various fields. Both advisory and administrative agencies of the Bureau will work in constant, though informal, contact with all other agencies of the War Labor Administration, particularly the employ- ment service and the Requirements and Statistics Bureau.
+While the Bureau is itself primarily an advisory rather than an administrative agency, the peculiar nature of its work will call for a comprehensive organization to be composed of specialists in their various fields. Both advisory and administrative agencies of the Bureau will work in constant, though informal, contact with all other agencies of the War Labor Administration, particularly the employment service and the Requirements and Statistics Bureau.
 
 ## 2. Advisory agencies.
 
@@ -845,16 +845,16 @@ a. *Council of housing and transportation.*-The council will keep informed of th
 
 b. *Legal council.*-For several reasons, the statutes of the various States prescribe certain restrictions in the hours and conditions of employment of women and minors in industry. Other restrictions are brought about through regulations issued by various authorized Federal and State agencies, by agreements with trade unions, and in other ways. Many of these regulations and restrictions are expedient rather than necessary to the well-being of either the Nation or the workers. In a national emergency much of this expediency is lost and the operation of some of these regulations and restrictions may well be suspended.
 
-This division has the double function of recommending in appro- priate cases the suspension in whole or in part of such restrictions and, with the cooperation of the division of public relations, of secur- ing the approval of public opinion to the action taken.
+This division has the double function of recommending in appropriate cases the suspension in whole or in part of such restrictions and, with the cooperation of the division of public relations, of securing the approval of public opinion to the action taken.
 
 ### 3. Administrative agencies.
 
-a. *Woman wage-earner's division.*-In normal times there are ap- proximately 10,000,000 women and girls over 16 years of age employed in industry, commerce, and the professions. The specific mis- sion of this division is to divert the greatest possible number of these, particularly those engaged in mechanical and correlated scientific work, to munitions and essential civilian industries. This task will be largely educational in cooperation with the division of public relations. The division also must be prepared to undertake an active recruiting campaign in cooperation with the employment service for the securing, training, and infiltration of women, not gainfully em- ployed, into industry, commerce, and auxiliary services to fill vacan- cies caused by the withdrawal of men to the colors and to provide for the labor expansion of many essential industries. The work of the division will be divided among three sections:-
->(1) Section of women labor employed in commercial and rou- tine office occupations. This section recommends methods to meet the needs of war and essential civilian industries for trained women. This includes the trans- fer of women factory workers from plants of lesser to those of greater essentiality.
-> (2) Section of highly trained women labor employed in ad- ministrative, professional, and scientific research posi- tions.-This section recommends methods to meet the needs of essential industries for women of exceptional training in highly specialized fields.
-> (3) Section of woman labor required for service with troops.— This section is charged with locating women who com- ply with the occupational specifications of the War and Navy Departments, and aiding any agencies of these De- partments which may be established for the purpose of recruiting women of such classifications for duty with the armed forces.
+a. *Woman wage-earner's division.*-In normal times there are approximately 10,000,000 women and girls over 16 years of age employed in industry, commerce, and the professions. The specific mission of this division is to divert the greatest possible number of these, particularly those engaged in mechanical and correlated scientific work, to munitions and essential civilian industries. This task will be largely educational in cooperation with the division of public relations. The division also must be prepared to undertake an active recruiting campaign in cooperation with the employment service for the securing, training, and infiltration of women, not gainfully employed, into industry, commerce, and auxiliary services to fill vacancies caused by the withdrawal of men to the colors and to provide for the labor expansion of many essential industries. The work of the division will be divided among three sections:-
+>(1) Section of women labor employed in commercial and routine office occupations. This section recommends methods to meet the needs of war and essential civilian industries for trained women. This includes the transfer of women factory workers from plants of lesser to those of greater essentiality.
+> (2) Section of highly trained women labor employed in administrative, professional, and scientific research positions.-This section recommends methods to meet the needs of essential industries for women of exceptional training in highly specialized fields.
+> (3) Section of woman labor required for service with troops.— This section is charged with locating women who comply with the occupational specifications of the War and Navy Departments, and aiding any agencies of these Departments which may be established for the purpose of recruiting women of such classifications for duty with the armed forces.
 
-b. *Social and economic welfare division.*-The accumulation of large numbers of women in restricted industrial areas to meet the labor demands of expanded essential industries presents serious problems in the maintenance of their social and economic welfare. This division through decentralized welfare units working under State organizations maintains social welfare agencies within the va- rious industrial facilities as well as providing for social contact and aid during the leisure hours of employed women.
+b. *Social and economic welfare division.*-The accumulation of large numbers of women in restricted industrial areas to meet the labor demands of expanded essential industries presents serious problems in the maintenance of their social and economic welfare. This division through decentralized welfare units working under State organizations maintains social welfare agencies within the various industrial facilities as well as providing for social contact and aid during the leisure hours of employed women.
 
 c. *Minors division.*-While the employment of children under the age of 16 years in industry or agriculture will be avoided wherever possible, it must be recognized from the beginning that the nature of the emergency may require such employment in its later stages. In the earlier stages, minors over 18 years of age, and in some cases over 16 years, can be utilized to advantage. The safeguarding of the morals and the physical health of such employed minors is the subject of the particular study of this division. This division further recommends regulations covering the employment of minors and their training for such employment, and lists classes of occupations from which they should be excluded.
 
@@ -862,11 +862,11 @@ c. *Minors division.*-While the employment of children under the age of 16 years
 
 ### 1. General.
 
-This bureau is an operating agency of the War Labor Adminis- tration. Its function is to collect and tabulate, primarily for the benefit of the employment service, all possible information regard- ing labor requirements both in war industries and in those essential to the welfare of the civilian population.
+This bureau is an operating agency of the War Labor Administration. Its function is to collect and tabulate, primarily for the benefit of the employment service, all possible information regarding labor requirements both in war industries and in those essential to the welfare of the civilian population.
 
-Labor requirements include the numbers by sex of unskilled and semiskilled workers and of skilled workers by occupational classi- fications, and the geographical distribution of such requirements.
+Labor requirements include the numbers by sex of unskilled and semiskilled workers and of skilled workers by occupational classifications, and the geographical distribution of such requirements.
 
-This bureau lists occupational classifications which require time for the training of the worker. Similarly, this bureau lists non- productive occupations, and those which either are not essential to the war effort or are of a nature which permits them to be performed equally well by women or by men outside the draft age. The pur- pose of this listing is to afford the maximum replacement of men by women and the relief of men from nonessential occupations for transfer to positions in essential industries.
+This bureau lists occupational classifications which require time for the training of the worker. Similarly, this bureau lists non-productive occupations, and those which either are not essential to the war effort or are of a nature which permits them to be performed equally well by women or by men outside the draft age. The purpose of this listing is to afford the maximum replacement of men by women and the relief of men from nonessential occupations for transfer to positions in essential industries.
 
 The determination of labor requirements of specific occupational classifications, particularly those of the "key men" class, requires an understandable and uniform terminology of such occupations.
 
@@ -924,11 +924,11 @@ This division is subdivided into 10 sections:
 
 ### 1. General.
 
-This service is an operating agency. Its function is to bring the job and the worker together. To accomplish this objective it must obtain the applicant's qualifications and be assured of the existence of the job for which his services are desired. Otherwise there will be large migrations of labor with serious complications in trans- portation, housing, and supply systems.
+This service is an operating agency. Its function is to bring the job and the worker together. To accomplish this objective it must obtain the applicant's qualifications and be assured of the existence of the job for which his services are desired. Otherwise there will be large migrations of labor with serious complications in transportation, housing, and supply systems.
 
 The war organization for labor mobilization requires a system of selective recruiting carried on simultaneously throughout the country and a personnel competent to perform this task. It requires a strong, though small, central organization for purposes of specialized study and personal contact with other agencies of the Government and of industry and a thoroughly decentralized field force. It will utilize fully existing Governmental employment services and will cooperate closely with all State and municipal employment agencies.
 
-Labor requirements in numbers of unskilled workers and in num- bers and by occupational classifications of skilled workers will be obtained from the Requirements and Statistics Bureau, from the Army, Navy, Department of Agriculture, Bureau of Mines and other Governmental agencies, and from industry direct.
+Labor requirements in numbers of unskilled workers and in numbers and by occupational classifications of skilled workers will be obtained from the Requirements and Statistics Bureau, from the Army, Navy, Department of Agriculture, Bureau of Mines and other Governmental agencies, and from industry direct.
 
 The work of the service is carried out through regional agencies which will vary in their organization according to the industrial, commercial, or agricultural character of the areas served.
 
@@ -946,11 +946,11 @@ b. The organization of these four divisions is as follows:
 
 ### 1. General.
 
-This service is an operating agency. Its function is to keep the job and the worker together so far as this may be reasonably possible. To accomplish this result there should, of necessity, be promulgated an emergency national labor policy establishing the economic rela- tionship that should be maintained between management and labor for the duration of the war, and establishing the national policy to govern in the settlement of all labor disputes.
+This service is an operating agency. Its function is to keep the job and the worker together so far as this may be reasonably possible. To accomplish this result there should, of necessity, be promulgated an emergency national labor policy establishing the economic relationship that should be maintained between management and labor for the duration of the war, and establishing the national policy to govern in the settlement of all labor disputes.
 
 ### 2. Organization.
 
-The Conciliation and Adjustment Service will consist of a Di- rector, an Advisory Board and a Federal Labor Arbitration Com- mission. The Federal Labor Arbitration Commission will act as a central directing body for the coordination of the work of existing national labor boards under war emergency conditions. Such boards, which in peacetime have statutory jurisdiction within definite fields of industry, will have the added duties of operation under such war- time labor policies as may be adopted for national compliance. The cessation of war, with the removal of the Federal Labor Arbitration Commission will leave these respective Federal labor boards to func- tion normally under their peacetime statutory directives.
+The Conciliation and Adjustment Service will consist of a Director, an Advisory Board and a Federal Labor Arbitration Commission. The Federal Labor Arbitration Commission will act as a central directing body for the coordination of the work of existing national labor boards under war emergency conditions. Such boards, which in peacetime have statutory jurisdiction within definite fields of industry, will have the added duties of operation under such war-time labor policies as may be adopted for national compliance. The cessation of war, with the removal of the Federal Labor Arbitration Commission will leave these respective Federal labor boards to function normally under their peacetime statutory directives.
 
 The work of the service will be decentralized to the regional and industrial district agencies of the respective national labor boards. The adjudicating body of last resort will be the Federal Labor Arbitration Commission, but it will not take jurisdiction in any dispute until all other resources have been exhausted.
 
@@ -964,13 +964,13 @@ The director will be assisted by an advisory board composed of one representativ
 
 ### 5. Federal Labor Arbitration Commission.
 
-The Federal Labor Arbitration Commission will be composed of the director of the conciliation and adjustment service, five repre- sentatives of employers, designated by industry, and five representa- tives of employees, designated by labor.
+The Federal Labor Arbitration Commission will be composed of the director of the conciliation and adjustment service, five representatives of employers, designated by industry, and five representatives of employees, designated by labor.
 
 ## Section M. State Agencies
 
 In order that the work of the War Labor Administration may be decentralized in the interests of efficiency, the Administrator of War Labor shall create State War Labor Administrations to meet the labor problems arising within the respective States.
 
-State War Labor Administrations will consist of a State War Labor Administrator, a State Advisory Council, and four adminis- trative divisions. The Advisory Council will consist of six members, two of whom shall represent industry, two to represent labor, and two to represent the general public.
+State War Labor Administrations will consist of a State War Labor Administrator, a State Advisory Council, and four administrative divisions. The Advisory Council will consist of six members, two of whom shall represent industry, two to represent labor, and two to represent the general public.
 
 The four divisions of the State Administrations will be as follows:
 > *Administrative.*-To provide for the usual office routine. Statistics. To compile statistics of available labor both male and woman; to obtain the requirements for labor by all essential industry within the State; to compile data on replacement of male by woman labor; to study necessity for employment of minors; to report on effect upon industry of adopted national labor policies. Male labor. To prepare available men for labor through supervision of "vestibule schools" within industry and through liaison with other forms of manual or industrial education; to maintain an inspection service over conditions of employment within industries.
@@ -1005,3 +1005,556 @@ Women in Industry, 1919.
 Records of Planning Branch, Office of The Assistant Secretary of War.
 
 Records of Army and Navy Munitions Board. Records of Army Industrial College.
+
+# Appendix IV. Industrial Mobilization Plan, 1936, Public Relations Administration
+
+The organization, duties, and procedure for this Administration are being revised by appropriate agencies, and, when completed, will be included in the next revision of the industrial mobilization plan as appendix IV.
+
+# Appendix V. Industrial Mobilization Plan, 1936, Selective Service Administration
+
+The organization, duties, and procedure for this Administration are being revised by appropriate agencies, and, when completed, will be included in the next revision of the industrial mobilization plan as Appendix V.
+
+# Appendix VI. Industrial Mobilization Plan, 1936, Price Control Commission Contents
+
+## Section A. Introduction
+
+Public opinion in the United States believes that individuals should not be permitted to reap undue profits at the expense of the people and of the Government during times of a national emergency. Any effort looking to the curtailment of excess profits must include some means of controlling or regulating the prices at which commodities and services may be sold. Stable prices are also essential to the success of the industrial effort. No business can be conducted satisfactorily if it cannot ascertain its own costs and prices with reasonable accuracy in advance.
+
+The War Policies Commission, in its majority report published in Public Document 264, Seventy-second Congress, first session, makes the following recommendation:
+
+That the Congress should empower the President, in the event of war, to institute a program under which prices may be stabilized and thereafter adjusted at such levels as will minimize inflation and will secure to the Government the use of any private property needed in the prosecution of the war without affording the owner thereof profit due to the war. It should be clearly stated that such a program will not be placed in operation until Congress specifically directs it as a necessary measure in the conduct of the war.
+
+## Section B. Authority
+
+To establish the Price Control Commission and to exercise the functions outlined herein require legislative authority and executive action. Draft of a proposed bill to put into effect the above measures is contained in Appendix VII.
+
+## Section C. Organization
+
+### 1. Price Control Commission.
+
+This commission should be quasi-judicial in character and in no sense should it become an operative or an administrative agency. It is empowered to call for information and testimony from governmental and civilian institutions in order that the factors of supply and demand may be given proper consideration in its deliberations. Its decisions and policies are to be administered through and enforced by appropriate executive agencies as hereinafter indicated.
+
+The initial membership of the commission should be as follows:
+
+a. The chairman, appointed by and directly responsible to the President. He is a member of the Advisory Defense Council.
+
+b. The Administrator of War Resources.
+
+c. The Administrator of War Trade.
+
+d. The Administrator of War Labor.
+
+e. Chairman of the War Finance Control Commission.
+
+f. The Assistant Secretary of War.
+
+g. The Assistant Secretary of the Navy.
+
+### 2. Cooperating agencies.
+
+The principal agencies concerned either directly or indirectly in the compilation of data, furnishing of testimony, administration, enforcement, or other activity concerning price control are as follows:
+
+a. The price control sections of the several executive departments and independent Government agencies.
+
+b. The control divisions in the War Resources Administration.
+
+c. The war service committees.
+
+d. The War Labor Administration.
+
+e. The national service corporations.
+
+f. The Federal Trade Commission.
+
+g. The United States Tariff Commission.
+
+h. The Department of Agriculture.
+
+i. The Interstate Commerce Commission.
+
+j. The Public Relations Administration.
+
+k. Department of Commerce.
+
+7. Treasury Department.
+
+m. The War Trade Administration.
+
+n. Securities and Exchange Commission.
+
+o. The War Finance Control Commission.
+
+## Section D. Methods, Procedure, and General Policies
+
+### 1. Measures to be adopted.
+
+a. The time for the initiation of price-control measures is left to the discretion of the commission as are also the scope and nature of the control which is to be applied to particular commodities or groups of commodities.
+Whether early action is to be limited to a selected class of necessaries and essential war materials or is to be extended to include the entire price structure is dependent upon conditions which exist at the time and upon the extent to which it can be shown that the action taken is reasonably necessary for the national defense and the successful prosecution of the war.
+Early action is essential where the known requirements of the Government for any commodity are so large as to make a scarcity of the item or an unwarranted rise in its price or the prices of related commodities a certainty. Such conditions necessitate-
+> (1) Immediate licensing of importers and exporters.
+> (2) Control over the supply and distribution of critical and strategic raw materials and basic commodities either by license, by governmental monopoly or as otherwise provided in the procurement plans for such materials.
+
+b. The Commission in its discretion may prescribe-
+> (1) Maximum, minimum, or absolute prices.
+> (2) Margins of profits to producers and dealers.
+> (3) Differentials based either on primary markets or upon zones or districts.
+> (4) Different prices for different localities or for different uses in the same locality.
+
+### 2. General policies.
+
+The following general policies should govern the action to be taken:
+
+a. Prices, when established, should apply alike to governmental and to civilian purchases. They should remain in force until changed by the Commission.
+
+b. In general all prices should be considered as maximum. Minimum prices should be prescribed only when such action is necessary to stimulate production to a point higher than has been brought about by current conditions, or as a special aid to producers of a certain commodity.
+
+c. Uniform per unit prices, slightly above the bulk line of cost, should be prescribed for basic commodities and raw materials, except where it is manifestly to the national interest to prescribe a graded scale of prices based on differences of cost. A graded scale of prices, if carried out in full detail, is practically a cost-plus system and gives an incentive to wasteful and inefficient management. Moreover, this method involves laborious investigations, is difficult to apply, and provides opportunities for fraud and evasion. The single-price policy, allowing differentials for quality, transportation, and margins between producers and dealers, makes less of a departure from normal business conditions and is less complex in its administration.
+
+d. The prices of certain classes of manufactured goods and of certain groups of commodities, such as foodstuffs, are subject to great variation and rapid fluctuation due to a variety in grades and quality and to peculiar conditions which obtain in their production and distribution in different localities. The establishment of prices under such conditions presents administrative difficulties of extreme complexity. Margins of profits may be prescribed for those engaged in the production and distribution of such commodities.
+
+### 3. Basis for determination of prices.
+
+In the determination of prices, the Commission should be guided by the fact that just compensation must be allowed. With this in view it may base its decisions as to prices and/or profits on whichever of the following it deems to be most desirable in each case.
+
+a. Profits earned by the industry or the commercial activity concerned over a pre-war period to be specified by the Commission.
+
+b. The cost of producing the last unit of the indispensable amount of the commodity required by the war program either throughout the industry as a whole or upon a regional or territorial basis.
+
+c. Prevailing market prices. d. Actual cost of production plus a reasonable return on capital investment. The determination of what constitutes capital investment presents many difficulties which make this method one of limited use except in the formation of rate schedules for services of public utilities.
+
+### 4. Procedure to be followed.
+
+a. *General.*-Interested war service committees and the control divisions in the office of the Administrator of War Resources as representatives of the producer and the consumer may be called upon for testimony and advice regarding the prices or margins of profit to be established for their respective commodities or enterprises. Cost and other data may be obtained from the Federal Trade Commission, the Securities and Exchange Commission, and other statistical agencies. Rulings of the Price Control Commission should be promulgated in the name of the President and administered by the appropriate control divisions in the office of the Administrator of War Resources.
+
+b. *Rates for public utilities.*-The Interstate Commerce Commission should continue to regulate transportation rates. Representation of this Commission and of the War Labor Administration on the Price Control Commission should serve to maintain a proper balance between commodity prices, utility rates, and wages.
+
+c. *License system.*-Producers and dealers in foodstuffs, certain basic raw materials, and manufactured necessaries should be put under license control. Licenses may specify margins of profit and other conditions under which licensees are permitted to operate. Administration of these measures should be effected by the appropriate control divisions in the office of the Administrator of War Resources through such local and community organizations as are deemed by them to be necessary.
+
+d. *Foreign trade.*-Foreign trade is controlled by a system of licenses which specify conditions relating to prices, Government options, distribution, and resale desired by the Price Control Commission and other control agencies. The War Trade Administration is responsible for the administration of these measures.
+
+e. *Critical and strategic raw materials.*-Complete control over the supply and distribution of certain critical and strategic raw materials may be necessary. Government-owned corporations or designated private associations, under license control, should procure the available supply of such commodities. Resale and distribution should be at prices designated or approved by the Price Control Commission. When necessary, procurement may be made by means of requisitions.
+
+f. *Rentals and real-estate prices.*-In order to retard the tendency toward and undue rise in the prices of real estate and rentals, a presidential proclamation may be promulgated declaring it unlawful to buy, sell, rent, or lease any real estate or place of dwelling, or business at a higher rate or price than is in effect at the time designated. Modification of this general ruling may then be made from time to time in order to keep these prices in consonance with wages and commodity prices. Regulation of private construction and development projects in those cities where the influx of essential war labor makes such projects necessary may be had through existing building-permit systems of the city or community concerned.
+
+g. *Publicity.*-The development and promulgation of the publicity campaign are functions and responsibilities pertaining to the office of the Administrator of Public Relations. The Price Control Commission should keep the Administrator of Public Relations informed as to its aims and policies, and as to the extent of the control required. The controlling objective to be obtained is the crystallization of public sentiment against rising prices and against such activities as hoarding, speculation, and waste.
+
+h. *Interest and insurance rates.*-Where the Commission finds that high interest and insurance rates are adversely affecting the operation of price-control measures, it should notify the appropriate governmental agency and recommend that remedial action be taken.
+
+i. *Enforcement measures.*-When the voluntary cooperation of the public and the producers cannot be enlisted in the enforcement of the Commission's rulings it has recourse to the following alternative actions through appropriate control agencies:
+> (1) Use of the priority function.
+> (2) Revocation of licenses.
+> (3) Rationing.
+> (4) Prosecution of violators.
+> (5) Commandeering and requisitioning of facilities and commodities.
+
+### 5. Related activities.
+
+It is not intended that this plan prescribe the methods and functions of agencies other than those directly responsible for the initiation of price-control measures. The broad general policy under which they will be carried on as an aid to price control is as follows:
+
+a. Government contractual relations are to be so administered as to insure the contractor against undue risks incident to wartime production. Reasonable profits only are to be allowed. The contractor is given an incentive for efficient production and is penalized for inefficiency.
+
+b. In those cases where undue profits are allowed to accrue to low-cost producers the excess-profits tax should be designed to recover such profits.
+
+c. The War Trade Administration's activities in negotiating trade agreements and securing needed items of foreign production should be designed wherever possible to stabilize and not disrupt the price structure.
+
+d. Conservation, by curtailing the nonessential uses of materials and services, will lessen the demand factor and thus tend to relieve the upward pressure on prices.
+
+e. An intensive antihoarding campaign will be effective in freeing existing resources and further increasing the supply of essential goods.
+
+f. The War Finance Control Commission should direct the flow of private capital into essential uses and curtail the non-essential.
+
+g. Government procurement activities are to be so supervised and coordinated as to eliminate competition between Government agencies, reduce unnecessary purchases, and to insure an equitable distribution of the production load.
+
+h. The Treasury Department assisted by the Federal Reserve System should employ those methods of public finance which will keep currency and credit inflation to a minimum. This is essential to the success of any effort looking to the control of prices.
+
+## Section E. Bibliography
+
+Government Control Over Prices-Garrett.
+
+Price Bulletins 1 to 57, issued by the War Industries Administration, listed on page 834, Government Control Over Prices-Garrett.
+
+Bibliography on pages 384 to 395, History of Price Fixing During the War-Mitchell.
+
+American Industry in the War, 1921-Baruch.
+
+Annual report of the United States Food Administration, 1918.
+
+Economical and Social History of the World War (British series), Bibliographical Survey-Bulkley; regulation and course of prices, columns 583-591.
+
+Files, War Industries Administration.
+
+Government Price Fixing, Ancient and Modern-Julius H. Barnes, President, United States Chamber of Commerce.
+
+Industrial America in the World War-Clarkson.
+
+International Price Comparisons-Mitchell, 1919 (Department of Commerce publication).
+
+Lecture, Army War College, Mr. Benjamin Strong, governor.
+
+Federal Reserve Bank, New York City, April 1921, "War Finance", office file, Planning Branch, Office, The Assistant Secretary of War.
+
+Lecture, Army War College, by Mr. Carl Snyder, February 1924, "The Strategy of War Finance", office file, The Assistant Secretary of War.
+
+Monthly Review, United States Department of Labor, August-November, December 1917.
+
+Prices and Price Control in Great Britain and the United States during the World War-Litnan, 1920 (Carnegie Endowment Publication no. 19).
+
+Price Fixing by a Price Fixer-F. N. Taussig, reprinted with permission from Quarterly Journal of Economics, February 1919 (files, Army Industrial College).
+
+Records of price control committee, War Industries Administration.
+
+Report of Military Board of Allied Supply, 1924 (U. S. W. D. Pub.) The United States War Industries Administration, an outline of the Board's origin, functions, and organization, 1918.
+
+Hearings War Policies Commission, 1931.
+
+Minutes, Special Senate Committee Investigating the Munitions Industry, 74th Congress, 1st Session.
+
+Records of Planning Branch, Office of The Assistant Secretary of War.
+
+Records, of Army and Navy Munitions Board. Records of Army Industrial College.
+
+# Appendix VII. Industrial Mobilization Plan, 1936, Legislation
+
+## Section A. Introduction
+
+The formulation, in time of peace, of plans for the mobilization and utilization of the industrial resources of the Nation in time of war is a duty imposed by Congress. In the performance of that duty consideration must be given to the content and scope of legislative enactments which will facilitate and make possible the working out of such plans. In consequence, drafts of bills which can be presented to Congress when war is imminent are prepared and revised from time to time. Naturally, such drafts are not written in all detail, since many details can be supplied only when possible contingencies can be forecast with reasonable accuracy.
+
+## Section B. Existing Legislation and Presidential Authority
+
+The more important laws and authority under which the President could, in the event of an emergency and without further legislation, by virtue of his constitutional powers, take steps toward industrial mobilization are as follows:
+
+### 1. War powers.
+
+In time of peace the coordinate branches of the Government have fairly well-defined powers. To these in war are added additional powers, war powers, which are not so clearly defined but arise out of, or spring from, expressed or implied constitutional grants. The Constitution of the United States, by creating a sovereign State, authorizes all acts necessary to preserve, protect, and defend the sovereignty thus created. While no attempt was made by the framers of the Constitution to enumerate all of these powers, that fact in no wise restricts or prohibits their exercise.
+
+James Madison, as quoted in Lodge's Federalist, pages 250-251, discusses the essential indefiniteness of these war powers and adds this significant statement:
+
+- It is in vain to oppose constitutional barriers to the impulse of selfpreservation.
+
+Alexander Hamilton, quoted in the same publication (pp. 136-137), says respecting war powers:
+
+- These powers ought to exist without limitation, because it is impossible to forsee or define the extent and variety of national exigencies, or the correspondent extent and variety of the means which may be necessary to satisfy them
+
+First will be noted the recognized war powers of Congress.
+
+In the Prize cases (2 Black, 635, 668) the Supreme Court said:
+
+- By the Constitution, Congress alone has the power to declare a national or foreign war
+
+And, again, in Miller v. United States (11 Wall. 268), the Court said:
+
+- Of course, the power to declare war involves the power to prosecute it by all means and in any manner in which war may be legitimately prosecuted.
+
+The Supreme Court has given the broadest possible interpretation to the meaning of the term "war", holding it to embrace all cases where a country attempts to maintain its rights by the employment of force.
+
+In general, it may be noted in passing, all Presidents since Washington have recognized in their State papers this constitutional prerogative of Congress.
+
+In *Ex parte Milligan* (4 Wall. 2, 139), the Supreme Court differentiated between the war powers of the Congress and of the President in these words:
+
+- Congress has the power not only to raise and support and govern armies, but to declare war. It has, therefore, the power to provide by law for carrying on war. This power necessarily extends to all legislation essential to the prosecution of war with vigor and success, except such as interfere with the command of the forces and the conduct of campaigns. That power and duty belong to the President as Commander in Chief. Both these powers are derived from the Constitution, but neither is defined by that instrument. Their extent must be determined by their nature and by the principles of our institutions. The power to make the necessary laws is in Congress; the power to execute in the President. Both powers imply many subordinate and auxiliary powers. Each includes all authorities essential to its due exercise. But neither can the President in war, more than in peace, intrude upon the proper authority of Congress, nor Congress upon the proper authority of the President. Both are servants of the people, whose will is expressed in the fundamental law.
+
+Fairlee, in the National Administration of the United States, page 33, gives a simpler and briefer delineation, thus:
+
+- Congress regulates whatever is of general and permanent importance, while the President determines all matters temporary and not general in their nature.
+
+Senator Knox, an able constitutional lawyer, stated in part, as quoted in the Congressional Record, page 2359, May 14, 1917:
+
+- The war powers of the Constitution, in my opinion, are dormant until a status of war is declared by Congress; and then they may be exercised without limitation or qualification to the extent that the safety of the Nation demands. Of this, Congress is the judge, except as the Commander in Chief of the Army and the Navy, in the actual conduct of the war, and in a case of great emergency or dire necessity, may be compelled to act. By this construc tion of the Constitution, Mr. President, the Constitution itself is preserved in its entirety. Indeed, the exercise of the war power is the only way in which the Constitution can be preserved...My position is that the Congress of the United States, after the war has been declared, may pass any law which it believes is necessary for the preservation of the Nation.
+
+Next will be noted the recognized war powers of the President.
+
+The war powers of the President are not so simple of definition as are those of Congress, because they are of two types, or are resident in two quite separate legal entities. They are, first, those which the President has as the Executive head of the United States. They are, second, those which the President has by virtue of his office as Commander in Chief of the Army and of the Navy. If one were to think that these two duties were assigned to two different persons, a differentiation between the duties as well as their overlapping would readily be apparent. The Supreme Court in the *Prize cases* previously noted said:
+
+- The Constitution confers on the President the whole executive power....
+- He is Commander in Chief of the Army and Navy of the United States...
+
+In Woodburn's American Reports (181, 14 Fed. Cas., 8006, p. 976) we find this statement:
+
+- Congress can pass no law which can deprive the President of power conferred in creating him Commander in Chief.
+
+Mr. Gard, as quoted in the Congressional Record, June 20, 1917, page 4253, said:
+
+- The President has the constitutional power to employ the means recognized by the laws of war as necessary to conquer the enemy.
+
+In *McCormick v. Humphrey* (27 Ind. 144, 154) the court said:
+
+- ...and every executive act of the President, intended and calculated to carry the war to a successful issue, are acts under the Constitution...
+
+While the authorities do not indicate any clear distinction between the legislative function of Congress under the war power and an act of the President as Commander in Chief, Mr. Channing, in a legal opinion submitted to Judge Parker on September 29, 1917. suggests the following test:
+
+Where the act is of a character not usually regarded as military, but necessary for the common defense, it should be authorized by Congress, where the public interest will not suffer from the consequent delay. Where, however, the President has reasonable ground to believe that the national defense will suffer through such delay, then there exists an appropriate instance for the exercise by the President of his war power.
+
+### 2. Eminent domain.
+
+The question of procurement by the Government of things needful in war necessarily involves a consideration of the power of eminent domain.
+
+Nichols, in his treatise on eminent domain (vol. 1, p. 1), says:
+
+- Eminent domain is the power inherent in the sovereign State of taking or authorizing the taking of any property within its jurisdiction for the public good.
+
+Cooley, in Constitutional Limitations (7 ed., p. 759), states the generally accepted principle that—
+
+- The right to appropriate private property to public use lies dormant in the State until legislative action is had.
+
+The courts, in an unvaried tenor, uphold the same principle.
+
+In *Monongahela Navigation Co. v. United States* (148 U. S. 312), in which the question was involved as to the right of Congress to determine compensation for property taken, the Supreme Court held, in substance, that the taking of private property for public use and the use made of such property are political powers normally exercised by the legislature, in great urgency by the Executive, but that the question of compensation is one always for judicial determination solely.
+
+The taking of private property by the Executive without statutory authority will be considered later in a discussion of the law of necessity.
+
+The exercise of the power of eminent domain was recognized in the American Colonies, but was hedged about with many restrictions designed to preserve the rights of citizens. The power the colonists recognized probably grew out of the royal power of purveyance in the English law. As early as Grotius, this power is recognized as an element of sovereignty, but Grotius always insisted on the accompanying requirement that where possible "compensation be made to him who has lost what was his, at the common expense."
+
+As a matter of fact, the limitation in our Constitution providing for due legal process and just compensation is in almost the exact wording of a like limitation upon the exercise of eminent domain in the Twelve Tables of Rome posted on the public walls of the city 300 years before Christ.
+
+Normally the President's exercise of eminent domain is through and by virtue of some statutory grant, such as section 120 of the National Defense Act, which empowers him to place compulsory orders in time of war for certain war supplies and in emergency to requisition manufacturing plants. There are other like statutes which have been passed by Congress. Of course, the taking of private property for public use is a normal peacetime activity of the Government but is always based then in some statutory grant.
+
+Eminent domain differs from taxation in that the latter places a uniform proportioned burden on all citizens for the maintenance of the Government, while in the former the liability arises not through any individual obligation but because of the public need. It differs also from the levying of money upon individuals through regulations, such as the tariff law, when used for the purpose of protecting manufacturers, and fines, penalties, and forfeitures levied for crimes. An example of the forfeiture of confiscation of private property by legislative act is noted in the Espionage Act (40 Stat. 220) and the Shipping Board Act (39 Stat. 728), through which Congress in the World War authorized the forfeiture of vessels, and of arms and other articles, used or intended for export purposes contrary to law.
+
+### 3. Law of necessity.
+
+Closely allied to the power of eminent domain, but distinguished from it in certain important particulars, is the law of necessity. This is another implied power conferred upon the United States Government by so much of the Federal Constitution as provides for the national defense. It is the right of self-preservation.
+
+Nichols, in his treatise on eminent domain, page 264, says:
+
+- The right of taking, destroying, or injuring property in time of war in some cases rests upon this power of destruction from necessity and in others upon the power of eminent domain. The mere fact that a government is engaged in war does not justify it in impressing the property of its citizens without compensation. But the national defense is a public purpose, and if ships and munitions are needed, they may be taken by eminent domain and paid for. Beyond this, however, at the actual seat of the struggle necessity compels the contesting armies to enter upon, dig up private land, and to seize supplies for their own use or to destroy them so that they will not fall into the hands of the enemy. All this may be done, not only in the enemy's country, but wherever military operations are being carried on and whenever the emergency arises. For this the owner has no remedy, except against the officer directing the operations, in case his view of the necessity was not reasonable under the circumstances.
+
+In *Parham v. The Justices* (9 Ga. 341) the court discussed the law of necessity at considerable length, noting such instances as "the pulling down of houses and raising bulwarks for the defense of the State against an enemy; seizing corn and other provisions for the sustenance of an army in time of war, or taking cotton bags, as General Jackson did at New Orleans, to build ramparts against the invading foe." The court said, "These cases illustrate the maxim *salus populi suprema rex*-the good of the public is the supreme law..." The court was very definite in indicating, however, that this power could be relied upon only in "cases of urgent public necessity, which no law has anticipated and which cannot await the action of the legislature."
+
+Or, as expressed by the court in *American Print Works v. Lawrence* (3 Zab. (N. J.) 598),
+
+- ...The necessity must be immediate, imperative, and in some cases extreme and overwhelming, mere expediency or utility will not suffice.
+
+Mr. Lawrence in War Claims Against the United States (13 Amer. Law Reg. 406) stresses the point that in general an exercise of the law of necessity does not ordinarily create a claim for compensation of damages.
+
+But, in Hefleblower v. United States (32 Ct. Cl. 237) the court said:
+
+- ...If the conditions admitted of the property being acquired by contract and of being used for the benefit of the Government, the obligation attaches and it must be regarded as acquired under an implied contract; but if the taking, using, or occupying was in the nature of destruction for the general welfare or incident to the inevitable ravages of war, such as the marching of troops, the conflict of armies, the destruction of supplies, and whether brought about by casualty or authority, and whether on hostile or national territory, the loss in the absence of positive legislation must be borne by him on whom it falls and no obligation to pay can be imputed to the Government...
+
+The Supreme Court has recognized the law of necessity in such cases as *Mitchell v. Harmony* (13 How. 115), a case arising during the Mexican War in Mexico, and involving the seizing of a private duly authorized wagon train by a military commander of the American forces; and in *United States v. Russell* (13 Wall. 623), a case arising out of the seizure by a military officer in the Civil War of plaintiff's vessel. In the former case the Supreme Court held the officer making the seizure liable in damages, because the urgency of the situation did not warrant the seizure. In the latter case the court held the United States liable under the implied promise to pay because the seizure was in the nature of an ordinary taking under the power of eminent domain.
+
+It will be readily recognized that much of the taking of private property by the executive branch of the Government in time of war must justify itself in this law of necessity. The exercise of this power by the President or his agents in time of war, in great urgency, constitutes a portion of that power which is often so vaguely referred to as the war power of the President.
+
+The outstanding instance of a Presidential act which was premised upon the law of necessity was the freeing of slaves in the Civil War.
+
+4. Act of August 29, 1916 (39 Stat. 649; U. S. C. 50: 1-6), which authorized the creation of the Council of National Defense. This body is purely advisory and while it was used during the World War to inaugurate the various control measures later developed under the War Industries Board, its usefulness is definitely limited by its lack of executive authority.
+
+Act of August 29, 1916 (39 Stat. 604, 645; U. S. C. 10:1361, 1362). Section 1361 authorizes the President in time of war, through the Secretary of War, to take possession and assume control of any system or systems of transportation, or any part thereof, and to utilize same. Section 1362 provides that in time of war or threatened war preference and precedence shall, upon the demand of the President, be given over all other traffic to the transportation of troops and materials of war.
+
+5. Section 120, National Defense Act (U. S. C. 50:80). This statute confers upon the President broad powers to place compulsory orders for the procurement of such products or materials as may be required. The statute is broad enough to authorize the placing of compulsory orders for either finished products or raw materials. The use or disposition of such products after their acquisition by the Government is in no way limited by the statute; but the power may be exercised only in time of war or when war is imminent. Producers must give such orders precedence over orders from all other sources. If any person refuses to comply with the order, his plant may be taken over by the Government. The law provides adequate penalties for its violation.
+
+6. The Naval Emergency Fund Act (U. S. C. 50:82). This statute conferred similar requisitory powers for procurement of war material for the Navy as was conferred upon the Army in section 120 of the National Defense Act. It was worded also to include "any form of aircraft" and therefore construed as applicable to Army aircraft. The words "war material" were defined as broad enough to include raw materials out of which war materials were to be fabricated.
+
+7. Acts of July 2, 1917, and April 11, 1918 (40 Stat. 241, 518; U. S. C. 50:171), and act of July 9, 1918 (40 Stat. 888; U.'S. C. 50:172), confer upon the President certain war powers with respect to the exercise of eminent domain in the acquisition of land and the acquisition of property for the production of lumber.
+
+8. Public Law No. 835, Seventy-fourth Congress (H. R. 8555), approved June 29, 1936, gives the Government the additional power to take and purchase or use certain vessels for national defense or during any national emergency declared by proclamation of the President.
+
+9. The Federal Power Act of August 26, 1935, authorizes the Federal Power Commission in time of war to order such temporary connections of facilities and such generation, delivery, interchange, or transmission as in its judgment will best meet the emergency and serve the public interest.
+
+10. The Secretary of Labor has, by the organic act creating his Department, the duty to act as mediator in cases of industrial dispute. The statute, however, is not mandatory in terms and may be of little effect in an emergency.
+
+11. It is readily seen that, except in the case of determining rates for the services of public utilities, no statutory provisions for the direct regulation of the exchange value of commodities now exist. The President without new legislation is therefore entirely restricted to the line of action employed during the greater part of the World War; that is, the setting of prices through agreements where possible and enforcement through the enlistment of public cooperation and through the use of various indirect controls such as priority, commandeering, etc.
+
+12. In the preparation of legislation designed to authorize direct control of prices, the following must be taken into consideration:
+
+a. The Supreme Court has never passed specifically upon the constitutional powers of Congress, by authorization to the President, to fix conclusively the price at which one individual may sell to another. Discussion of the constitutionality of such an act must rest upon the axiom that the Federal Constitution is not suspended during a state of war.
+
+b. The fifth amendment, which prohibits the taking of private property for public use without just compensation, must be taken into consideration. It is fairly well established that—
+> (1) The question of what constitutes just compensation is one for judicial decision rather than for legislative enactment.\
+> (2) The taking of private property for public use and the use made of it are political functions to be exercised by the legislative branch.
+> (3) Price fixing when applied to property already owned and which the owner is forced by Government authority to sell at a loss, constitutes a taking of private property for public use.
+> (4) Any scheme for price fixing, without a constitutional amendment, must provide an opportunity for court review of the fairness and justice of the price which is fixed.
+
+c. The only court decisions which tend to throw any light on the subject are those on the so-called public-utility cases. Certain businesses, such as those of common carriers and innkeepers, were recognized at common law as being affected with public interest. Congress and State legislatures from time to time have declared other industries to be so affected.
+
+d. What constitutes a public calling has never been precisely defined, yet it may be argued that a state of war creates an emergency which affects the entire industrial and agricultural structure of the Nation with a public interest, thus endowing Congress with the necessary regulatory powers.
+
+e. Price regulation, even though exercised under such authority, must be subject to court review as to the fairness and justness of the prices fixed. (Refer to *German Alliance Industrial Co. v. Lewis*, 233 U. S. 289; Smyth v. Ames, 169 U. S. 466; *Stanislaus County v. San Joaquin Canal Co.*, 192 U. S. 201.)
+
+## Section C. New Legislation Required
+
+### 1. General.
+
+a. Additional legislation deemed necessary to carry into effect this plan for industrial mobilization is as follows:
+> (1) A bill making available to the President the material resources of the Nation.
+> (2) A bill authorizing the establishment of a Bureau of Marine War Risk Insurance in the Treasury Department.
+
+b. The first step in the preparation of drafts of proposed bills is to study the history of past wars insofar as that history relates to the particular subject in mind. In view of the fact that in the World War various agencies for control and supervision of industrial and economic activities and for supplementing normal peace-time governmental functions were set up and operated, a study of that period is of particular significance. Further, in drafting laws which might be applicable in a future emergency, consideration must be given to changing conditions in this Nation and to governmental, economic, social, and industrial developments in other countries. The special steps applicable to each bill are noted in connection therewith.
+
+### 2. A bill making available to the President the material resources of the Nation.
+
+a. *Consideration of like legislation in the World War.*-No comparable enactment in the World War. In general somewhat the same authority was exercised by the President by virtue of the following emergency legislation.
+> (1) *The Emergency Shipping Fund Act (40 Stat. 182).*-The requisitory powers conferred by this statute were somewhat broader than those in the Naval Emergency Fund Act and were intended to provide for a merchant fleet. The authority granted to the President under this statute was limited to a period running "six months after a final treaty of peace is proclaimed between this Government and the German Empire."
+> (2) *The Food and Fuel Control Act (40 Stat. 276).*-This act granted requisitory powers relating to "food, feeds, fuels, and other supplies necessary to the support of the Army or the maintenance of the Navy, or any other public use connected with the common defense.' The powers conferred apparently did not cover the requisition of the 99 raw materials out of which any of the foregoing ultimate articles are made. The law provided for conservation of food supplies and the expeditious movement thereof from producer to consumer. It was intended also to stimulate production. It provided penalties for hoarding and wasting food supplies. It authorized the licensing of individuals or companies whose gross sales exceeded $100,000 a year. It prohibited the exacting of excessive prices for any necessaries (the section granting this power so far as its penal clause was concerned has been declared unconstitutional). The law also established a minimum price for wheat. With respect to coal and coke, the requisitory powers related only to the "plants, business, and all appurtenances thereof belonging to such producer or dealer as a going concern" in respect to compliance or noncompliance with regulations the President was authorized to make. The same act also granted requisitory powers relating to nitrate of soda. The provisions of the act were limited to the period of "existing state of war between the United States and Germany."
+> (3) *The Trading with the Enemy Act (40 Stat. 411).*-The requisitory powers of this act authorized the appointment of a custodian of enemy or ally of enemy property and quasi-requisitory powers relating to enemy or ally of enemy patent, trade mark, print, label, or copyrighted matter. Also the statute permitted the President to keep secret any invention for which a patent was asked.
+> (4) *Miscellaneous.*-
+The Espionage Act, June 15, 1917 (40 Stat. 217), and the Trading with the Enemy Act, October 6, 1917 (40) Stat. 411), and amendments, conferred the power and authority exercised through the War Trade Board.
+The Overman Act (40 Stat. 556): This statute conferred a general power upon the President during the war and for six months after its termination to effect such a coordination or consolidation of existing bureaus, agencies, and offices of the Government as in his opinion would lead to a more efficient prosecution of the war and for the support and maintenance of the Army and Navy.
+Congress authorized the creation of the War Finance Corporation by act of April 5, 1918 (40 Stat. 506). This act was amended August 24, 1921 (42 Stat. 181), and by act of February 20, 1924 (43 Stat. 15). The amendments related primarily to the attempts to solve post-war financial problems.
+Congress authorized the creation of the Capital Issues Committee by title II of the act of April 5, 1918 (40 Stat. 512). This committee superseded a similar one of the Federal Reserve Board. This earlier committee, however, had no legal sanction, definition of powers, or financial support.
+There are certain other statutes of an emergency character passed during the World War, and there are certain other statutes of permanent legislation. These are not here indicated because they are of minor importance.
+
+b. *Consideration of like legislation by the Seventy-fourth Congress.*-During the first session of the seventy-fourth Congress in 1935 the House of Representatives passed bill H. R. 5529 which provided for the mobilization of the Nation's resources in time of war. The bill was completely revised by the Special Committee of the Senate to Investigate the Munitions Industry, and was further amended and favorably reported and recommended for passage by the Senate Military Affairs Committee. Since title I of the bill comprised a complete revenue act, the Military Affairs Committee recommended that the bill be referred to the Finance Committee of the Senate for consideration. When the second session of the Seventy-fourth Congress adjourned, the bill had been amended and favorably reported out by the Senate Finance Committee.
+
+Although H. R. 5529, Seventy-fourth Congress, has not been enacted into law, it has been favorably reported and recommended for passage by three Senate committees after extensive hearings. The industrial titles, that is, titles III to VI of the bill, inclusive, contain the control measures considered by the War and Navy Departments to be necessary in order that the industrial effort of the country may be brought into support of the military effort. The War and Navy Departments have gone on record before congressional committees as supporting titles III to VI, inclusive, of this bill.
+
+Title I has not been considered in the revision of this industrial mobilization plan. Since this title outlines a complete revenue act for wartime purposes, the War and Navy Departments consider that these tax provisions are without the purview of these Departments and this title is mentioned here only to emphasize that tax provisions must not be of such a drastic nature as to hinder, hamper, or destroy the more important mission of producing munitions as required in war.
+
+With reference to title II the War and Navy Departments stated that they did not consider this title necessary but would not oppose it as amended in Senate Report 889. For the above reasons, titles II to VI, inclusive, of H. R. 5529, as set forth in Reports Nos. 889 and 2337, United States Senate, have been utilized herein with slight modifications as the draft for proposed legislation to give to the Government the necessary industrial controls in war.
+
+An outline of titles II to VI, inclusive, follows:
+
+### Title II. Industrial Management Provisions
+
+This title authorizes a draft of industrial management. When in the opinion of the President the successful prosecution of the war requires it, he may establish rules and regulations for the registration of all persons in the management or control of industry. This is intended to apply to persons in executive positions who are unwilling to cooperate in the industrial war effort. In the discretion. of the President registered persons in any industrial plant or industry may be brought into the service of the Government for the duration of the war and shall be subject to the jurisdiction of the War Department. However, the Secretary of War is not to interfere with the internal management of the industries. He may, in the public interest, transfer registrants to any civilian service within the jurisdiction of the War Department. The compensation of such persons industrially drafted will be paid by the Government at rates to be fixed by the President, and they may not accept any other compensation from any plant in which they render services during the war. Rules and regulations for the administration of this title would be made by the President and penalties are provided in the bill for violations of such rules and regulations. The provisions of this title are permissive, not mandatory.
+
+### Title III. War Resources Control
+
+This title gives the President very broad powers to control all of the resources of the Nation by price fixing, licensing, rationing, requisitioning, priorities, and other measures for directing and unifying the industrial war effort.
+
+The President by this title is granted discretionary wartime power and authority as follows: To fix prices; to regulate commodity exchanges; to establish a system of priorities or rationing in favor of users most vitally linked with the prosecution of the war; to provide a system of licenses for organizations or persons engaged in manufacturing, mercantile, or public service industries; to regulate the sale, use, transportation, manufacture, or distribution of any product; to requisition any product and to sell or otherwise dispose of such products; to enforce regulations against waste, hoarding, speculation, and profiteering; to commandeer any manufacturing plant or other establishment. The President, of course, may not find it necessary to invoke all of these powers.
+
+The President is also authorized in this title to establish as many agencies as he deems necessary to execute the functions of control over war resources. The appointment of administrators to exercise the powers granted is also authorized. The President could regroup, redistribute, or reassign the duties and functions of the procurement of war supplies for the military and naval establishments.
+
+"Just compensation" is provided for persons who comply with any requisition of their property by the Government. What constitutes just compensation is to be determined by the President, but it is not to include loss of profits or anticipated profits. Those persons not satisfied with the amount of compensation to which the Government decides they are entitled are to be paid 75 percent thereof, and they may sue the Government at the close of the war for such amount as added to 75 percent will make just compensation. The bill confers jurisdiction on the United States District Courts to hear and determine such disputes.
+
+### Title IV. Securities Exchange Provisions
+
+This title empowers the President by proclamation to close all security exchanges for the duration of the war should he see fit.
+
+### Title V. War Finance Control
+
+This title creates a War Finance Control Commission of five members named by the President. No security issue in excess of $100,000 may be offered for public or private sale unless approved by the War Finance Control Commission. The Commission may advance the necessary funds to any corporation or agency engaged in production essential to the prosecution of the war. TITLE VI. GENERAL PROVISIONS This title provides that any person convicted of willfully violating any of the provisions of the act or any of the rules or regulations made thereunder shall be fined not more than $100,000 or imprisoned for not more than 1 year, or both, together with the cost of prosecution. The effective date of all the titles of the act would be "immediately upon the declaration by Congress that a state of war exists between the United States and any foreign government and that the existence of such state of war creates grave national emergency." The text of titles II to VI, inclusive, of a bill, including the heading used by the Seventy-fourth Congress, is as follows:
+
+<hr>
+
+74th Congress 1st Session (Senate Report No. 889)
+
+H. R. 5529 74th Congress 2d Session (Senate Report No. 2237)
+
+\[NOTE.-Words deleted from H. R. 5529 are marked thus: deleted. Words added to H. R. 5529 are marked thus: CAPITAL LETTERS.\]
+
+IN THE SENATE OF THE UNITED STATES
+
+April 11, 1935 Read twice and referred to the Special Committee on Investigation of the Munitions Industry
+
+May 1 (calendar day, May 3), 1935 Reported by Mr. Nye, with amendments, and referred to the Committee on Military Affairs
+
+May 13 (calendar day, June 14), 1935 Reported by Mr. Sheppard (for Mr. Logan), with amendments; referred to the Committee on Finance
+
+June 10, 1936 Reported, under authority of the order of the Senate of June 8, 1936, by Mr. Connally, with amendments.
+
+## An Act
+
+To prevent profiteering in time of war and to equalize the burdens of war and thus provide for the national defense, and promote peace
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+## Title II. Industrial Management Provisions
+
+**Short Title**
+
+This title may be cited as the "Industrial Management Act."
+
+### Registration of Industrial Management; Powers of President
+
+The President is hereby authorized, when in his opinion the successful prosecution of war so requires or renders advisable, to require, under such rules and regulations as he may establish, the registration of all or any class of persons engaged in the management or control of any technical, industrial, or manufacturing plant or establishment of any kind whatsoever, whatever the form of ownership thereof, corporate or otherwise, or who have been engaged in such capacity within six months prior to any declaration of war
+
+### Status of Registrants
+
+Whenever the President shall, in his discretion, aeem any technical, industrial, or manufacturing plant or establishment or any group thereof comprising an industry to be essential to the maintenance of the military establishment, or the effective operation of the military forces, or the maintenance of the national interest during the emergency, he may proclaim such plant, establishment, or industry so to be. Thereupon any person registered pursuant to the provisions of this title shall, if within a classification promulgated by the President in his said proclamation, be brought into service of the Government for the duration of the war and shall be subject to the jurisdiction of the War Department. The Secretary of War is authorized and directed to provide such rules and regulations as may be necessary for the government of such persons so brought into the service of the Government. Such rules and regulations by the Secretary of War shall not affect nor interfere with the internal management of the industries in which such persons are engaged, but the Secretary may at any time, if he deem the public interest in successful prosecution of war so to require, remove such person from such industrial position and assign him to any service within the jurisdiction of the said War Department. Upon such removal the vacancy so created shall be filled in the normal manner by the officers or managers of the plant or establishment affected, but the person chosen as such replacement shall immediately be subject to the provisions of this title.
+
+### Limitation of Income; Penalties
+
+No person brought into the service of the Government pursuant to the provisions of this title shall at any time receive any salary, gift, compensation, or other emolument whatsoever, either directly or indirectly, for services rendered during war time from any plant or establishment for or in which such person shall render services during time of war. Such person shall receive for services rendered during time of war only such compensation and allowances as shall be fixed and paid by the President. If any such person does receive any salary or compensation from any other source for services rendered during war time he shall be dishonorably discharged from the service of the War Department and shall in addition thereto be guilty of a felony and shall be punishable by a fine not exceeding $10,000 or by imprisonment for not more than ten years, or by both such fine and imprisonment.
+
+### Rules and Regulations
+
+The President shall have power to make all necessary rules and regulations for the administration of this title and such rules and regulations shall have the force and effect of law and violation thereof shall be a misdemeanor punishable by a fine not exceeding $1,000 or by imprisonment for not more than one year, or by both such fine and imprisonment, and in addition to such penalty any offense punishable by military law shall be subject to the jurisdiction of military courts.
+
+## Title III. War Resources Control
+
+### Short Title
+
+This title may be cited as the "War Resources Control Act."
+
+### War Resources Control; Powers of President
+
+Whenever the President, upon a finding of fact to such effect, shall deem such action to be necessary to the maintenance of the military or naval establishment or the effective operation of the military forces or the maintenance of the national interest during the period this Act is in effect, he shall have power and authority as follows:
+
+(a) With respect to any product, foodstuff, material, real property, or right declared by him essential for the national security and defense in the prosecution of war, to fix and establish just and reasonable maximum, minimum, or obsolute prices or rates or rentals at which such product, foodstuff, material, commodity, real property, or right may be bought, sold, rented, or otherwise contracted for, whether such transaction be with the Government or between persons of the civilian population or between any other parties whatsoever;
+
+(b) To close any commodity exchange;
+
+(c) To publish rules and regulations with the force and effect of law for the government of such commodity exchanges as are not closed, which rules and regulations may include, among other things, the regulation of the prices or parities at which commodities may be sold; the establishment of priorities and rationing in favor of purchasers or users most vitally linked with the successful prosecution of war; the limitation or fixation of fees, commissions, or other charges collected by such commodity exchanges or their agents for any service whatsoever; the elimination of short, long, future, and marginal selling and hedging, and speculation of all types and varieties whatsoever;
+
+(d) To prohibit the publication of prices quoted on commodities sold or formerly sold on commodity exchanges and to prescribe and prohibit the delivery or transmission for delivery through the mails or by telegraph, telephone, wireless, or other form of communication, of such prices or of any quotation or report of the price of or contracts or sales made of commodities sold or formerly sold on such exchanges;
+
+(e) To requisition the physical plant or place occupied by any commodity exchange or such part of such plant or place, together with such elevators, warehouses, and other marketing facilities wherever located, including private telegraph and telephone wires, as he may require; and to requisition all stores or supplies of any such commodities held by any person;
+
+(f) To limit the sale of any commodity to the Government, and to establish allocations, quotas, and priorities for sales to itself and others, either at the time of sale or in advance of such sale;
+
+(g) To resell any commodity purchased by the Government, and to establish allocations, quotas, and priorities among purchasers and users in favor of those most vitally linked with the successful prosecution of war;
+
+(h) To fix and establish the order or preference to be observed by any manufacturer, producer, dealer, distributor, carrier, public utility, or other person whatsoever, in manufacturing, producing, filling existing or future contracts for, complying with orders or requisition for, transporting, distributing, or delivering of any product, foodstuff, material, commodity, real estate, or right;
+
+(i) To regulate, limit, or prohibit the purchase, sale, use, IMPORT, EXPORT," transportation, manufacture, or distribution of any product, foodstuff, material, commodity, real estate, or right;
+
+(j) From time to time, whenever he shall find it essential to license the production, manufacture, sale, USE, IMPORT, EXPORT, storage, distribution, or transportation of any product, foodstuff, material, commodity, real property, or right in order to carry into effect any of the purposes of this act to the successful prosecution of war, and shall publicly so announce, it shall be unlawful for any person, after the date fixed in such announcement, to engage in or carry on any business as enumerated in this section, unless he shall secure and hold a license pursuant to this section;
+
+(k) To issue such licenses as are provided by subsection (j) of this section to fix the conditions of such licenses, and to prescribe requirements for systems of accounts and auditing of accounts to be kept by licensees, submission of reports by them with or without oath or affirmation, and the entry and inspection by the President's duly authorized agents of the places of business of licensees. The President may order the revocation of the license of any licensee who fails to comply with any condition of or in a license, or who fails to observe any price, rate, or priority fixed or established pursuant to this title, or who fails to perform or comply with any contract, requisition, or requirement of the United States or any official thereof acting pursuant to authority granted by this title, or otherwise fails to comply with the provisions contained in such license;
+
+(l) To requisition and take possession of any product, foodstuff, materials, commodity, real property, or right, and on such terms as he may deem advisable to sell or otherwise dispose of such product, foodstuff, material, commodity, real property, or right;
+
+(m) To promulgate and enforce rules and regulations against waste, destruction, hoarding, speculation, and profiteering with respect to any product, foodstuff, material, commodity, real property, or right, or to limit the use of the same to war purposes;
+
+(n) To regroup, redistribute, or reassign duties and functions of procurement of war supplies for the military and naval establishments; \[begin deletion\]*provided that, no one appointed or designated by the President hereunder shall in any manner, directly or indirectly, participate in the determination of any question affecting his personal interests, or the interests of any corporation, partnership, association, or trust in which he is directly or indirectly interested;*\[end deletion\] \[The War and Navy Departments are in sympathy with what was intended in the lines recommended for deletion, but believe that the proposed wording makes the measure too drastic and that this proposed wording would deprive the Government of the services of practically every experienced person who knew anything about the problem with which he had to deal. The danger contemplated in this clause is less serious than the danger resulting from leaving the direction of the great procurement activities to the individuals necessarily selected by the standard proposed to be set up. The great bulk of business men are, after all, honest and patriotic.\]
+
+(o) In the event of emergency, or in the event that inefficiency, labor dispute, or inability to agree on rates or terms of public contracts or any other cause has impaired or delayed the usefulness of any technical, industrial, or manufacturing plant or establishment to the successful prosecution of war, to requisition the physical establishment or resources of such plant or establishment or any other part thereof and operate it under such rules and regulations as he may deem proper in the circumstances, and with such personnel as he may deem suitable to best subserve the interests of the nation in successful prosecution of war.
+
+### Administration of Title
+
+The power and authority conferred by this title upon the President may be exercised in whole or in part under his direction and during his pleasure by such agencies or officers of the United States as he may designate, and he shall have power to appoint an administrator or administrators to exercise such designated powers. Such administrator or administrators shall receive salary or salaries of $10,000 per annum. The President is authorized to create or provide for such additional agencies of the Government as he may deem necessary to execute the functions authorized under this title, and to appoint and dismiss at pleasure such officers and employees and to fix their salaries and compensation. Such administrator or administrators may make such expenditures as are necessary to execute their functions under this title, and the President shall make a report to Congress upon the first day of each regular session which shall include the names and compensation of all officers and employees of such administrator or administrators. There is hereby authorized to be appropriated such amounts as may be necessary to the proper execution of this title.
+
+### Standard for Fixing of Prices
+
+In fixing any price pursuant to the provisions of this title the President shall be guided as near as may be by the differentials established on the basis of pre-war parities as of any year or period of years, as the President may designate, prior to the declaration of war but not more than twenty years prior to such declaration; and in fixing the prices of agricultural commodities the President shall be further guided by such level as will give such agricultural commodity a purchasing power with respect to articles that farmers buy equivalent to the purchasing power in such pre-war years or period of years. Any such base period of peace-time years may be altered or modified from time to time as the President may direct. The President may also prescribe differentials based upon primary market or markets or upon zones or districts or may prescribe different rates or prices for different localities or for different uses in the same locality.
+
+### Compensation to Owners
+
+For compliance with any requisitions of property pursuant to the provisions of this title the owner of such property shall be justly compensated for such loss as he may have incurred as a result of such requisition, not including loss of profits or anticipated profits, in such manner and in such amount as the President shall determine. If the compensation so determined be unsatisfactory to the person entitled to receive the same, such person shall be paid 75 per centum thereof, and shall be entitled to sue the United States immediately upon the close of war to recover such further sum as added to said 75 per centum will make up such amount as will be just compensation therefor, and jurisdiction is hereby conferred, regardless of the amount in controversy, on the United States District Court for the district in which such property is or was situated to hear and determine all such controversies in the manner provided for by section 24, paragraph 20, of the judicial code: Provided, That no court shall have jurisdiction to entertain suit, whatever the character of either party, plaintiff or defendant, to restrain or enjoin requisition by the Government of the United States, under this title. The authority herein in this section granted the President is extended for a period of one year beyond the expiration of the effectiveness of this act for determination of claims filed hereunder, and such extension for such purpose shall be an exception to any inconsistent provision of this act.
+
+### Appropriation
+
+There is hereby authorized to be appropriated for the creation of a revolving fund to enable the President to make purchases of commodities as herein authorized the sum of $500,000,000. All moneys received by the President on behalf of the United States in the exercise of powers under this title shall revert to such revolving fund, including any moneys received by him for or in connection with the sale or disposition of any product, foodstuff, material, commodity, real property, or right pursuant to this title. Where used in this title-
+
+### DEFINITIONS
+
+(a) The phrase "technical, industrial, or manufacturing plant or establishment" shall include, among others, gas and electric power plants, mines and wells, railroads, pipe lines, and other public utilities; as well as all plants or establishments of consequence to the successful prosecution of war;
+
+(b) The term "commodity" shall mean any article of commerce sold or offered for sale upon a commodity exchange; the term "commodity exchange" shall mean any central market place where articles of commerce are sold on a short, long, future, or marginal basis, or where common articles of commerce are continuously sold without being present or in view of either the buyer or the seller, or where "bid and asked" quotations are commonly furnished on demand for articles of commerce, or any place commonly known as a "commodity exchange."
+
+### EXTRA COMPENSATION PROHIBITED
+
+Neither during his term of office nor thereafter, on account of services rendered during such term, shall any administrator or other agent of the United States acting under the provisions of this title receive, nor shall any other person receive on his behalf, any reward, compensation, or other emolument whatsoever from any source directly or indirectly regulated or affected by the provisions of this title. \[begin deletion\]*nor shall any such administrator or agent, nor any member, attorney, agent, or employee of any such administrator or agent in any manner, directly or indirectly, participate in the determination of any question affecting his personal interest, or the interests of any corporation, partnership, association, or trust in which he is directly or indirectly interested.* \[See note under (n), War Resources Control;\]
+
+### *Fees and Commissions Prohibited*
+
+*At no time and under no circumstances shall any fee, commission, or other emolument be paid as or in lieu of brokerage on any transaction in which the United States is either buyer or seller of a commodity.*\[end deletion\]  \[The payment of a brokerage fee can easily, on occasion, save a buyer large sums of money and a great deal of time. In actual practice, what happens when a buyer utilizes a broker is that the purchaser asks the broker to locate certain specific merchandise for him. This the broker does. The broker's fee is paid by the seller (who thus is put in touch with a customer at less cost than he could locate such buyer himself) and the purchaser pays the going market price. Procurement agencies in time of war would not commonly deal through brokers, but they should not be prohibited from doing so.\]
+
+### Illegal Exchange and Traffic
+
+Where, under the authority of this title, the President has closed any or all exchanges in the United States dealing in the purchase or sale of any commodity, it shall be unlawful for any person to establish an exchange or to deal or traffic in the purchase or sale of such commodity in lieu of such closed exchange or exchanges in any extemporized market or over-the-counter trade or in any other manner.
+
+### Rules and Regulations
+
+Rules and regulations made by the President under this title shall have the force and effect of law, and the violation of such rules or regulations shall be a misdemeanor punishable by a fine of not more than $1,000 or by imprisonment for not more than one year or by both such fine and imprisonment, but such rules and regulations, in order to be effective, must be published and made available for public distribution at a price no greater than the cost of publication.
+
+## Title IV-Securities and Exchange Provisions
+
+### Short Title
+
+This title may be cited as the "War Securities Exchange Control Act."
+
+### POWERS OF THE PRESIDENT
+
+In addition to all other powers possessed by the President by law as of the effective date of this title, and not in substitution therefor, the President may by proclamation close any or all exchanges where securities are bought, sold, or offered for sale and by rules or regulations prevent any public or private sale of any such securities. Such rules and regulations shall have the force and effect of law. Such proclamation shall remain effective, if so intended by the President, for the duration of the effectiveness of this title. For the purposes of this section, the word "security" shall be defined in like manner as the same is defined by section 2 of the Securities Act of 1933, as amended by Act approved June 6, 1934, as in effect on March 15, 1935. TITLE V-WAR FINANCE CONTROL SHORT TITLE This title may be cited as the "War Finance Control Act." FINANCE CONTROL COMMISSION There is hereby created the War Finance Control Commission, hereinafter in this title called the "Commission", to consist of five members appointed by  Powers of the President.  the President, with the advice and consent of the Senate, for a term of office to expire at the expiration date of this Act, unless sooner removed by the President in his discretion. Such members shall receive compensation not exceeding $10,000 per annum. No such member, so appointed, shall refuse to serve as a member of such commission. Neither during his term of office, nor thereafter on account of services rendered during such term, shall any such member receive, nor shall any person receive on his behalf, any reward, compensation, or emolument whatsoever from any source directly or indirectly regulated or affected by the provisions of this title, nor shall any member, attorney, agent or employee of the Commission in any manner, directly or indirectly, participate in the determination of any question affecting his personal interest, or the interest of any eorporation, partnerhip, association, or trust in which he is directly or indirectly interested." POWERS OF COMMISSION; APPROVAL OF SECURITIES No security may be registered with the Securities and Exchange Commission as provided in the Securities Act of 1933, as amended, and as in effect March 15, 1935, or its successor in law or in fact, unless it shall have been approved previously by the Finance Control Commission pursuant to the provisions of this title. No security the total or aggregate par, face, or actual value of which, plus the aggregate par, face, or actual value of any other securities issued by the same person since the effective date of this title, is in excess of $100,000 shall be sold or offered for sale or for subscription either publicly or privately unless such security shall have been approved previously by the Finance Control Commission pursuant to the provisions of this title. Such approval shall be granted if the Commission find, after hearing held upon notice to any applicant for such approval, if such hearing is requested, that either— (a) The security is part of a current transaction maturing in less than nine months; (b) The security is issued solely in exchange for an outstanding security and that no money or other property consideration is involved in the transaction; (c) The security is offered for resale, having been originally sold prior to the effective date of this Act or pursuant to its provisions; or (d) The sale of such security is compatible with the public interest in the successful prosecution of war, and that the proceeds from the sale of such security will be applied to the extension or improvement of the capital plant, CAPITAL or efficiency of an industry, establishment, or agency necessary or desirable to the successful prosecution of war. Under no circumstances shall the Commission grant approval under this section if it shall find none of the preceding conditions to exist, nor shall it grant such approval if it shall find that the proceeds from the sale of such securities will or may be applied to purposes not connected with the successful prosecution of war or that the sale of such securities may attract or absorb funds potentially more useful to the successful prosecution of war. POWERS OF COMMISSION; FINANCING The Commission may, upon application to the Commission by any officer or agent of the United States or upon application of any officer or agent of any industry, establishment, or agency, after finding that owing to inadequate eapital plant, CAPITAL or other inadequate financial resources the efficiency or usefulness of any such industry, establishment, or agency for the successful prosecution of war is impaired or impeded, loan or advance such sums as may in its judgment be necessary to eliminate such impaired or impeded usefulness or efficiency, upon such security, if any, as it deems necessary. If such loan or advance is made upon application of any officer or agent of the United States, no reimbursement except interest at a rate to be fixed by the Commission shall be required during the effective date of this Act, but the United States shall have a lien superior to all other liens for the repayment of such loan or advance upon all real assets or fixtures constructed or purchased with such funds. The bill states that no member so appointed shall refuse to serve. It is not believed that this is a wise provision, as a man who served against his will in a position of the character set forth would not normally give good service. This prohibition seems unnecessarily drastic, although naturally a man should not benefit by decisions he assists in making. TAX CREDITS AND ALLOWANCES No depreciation, amortization, exhaustion, wear and tear, obsolescence, er other deduction shall be allowed or eredited against gross income under any tax act, including title I of this Act, for any part or portion of the construction or purchase cost of any real asset or fixture constructed or purchased with funds of this title for any war er provided by the Commission pursuant to section taxable period during which this act is in effect.8 REVOLVING FUND; APPROPRIATION There is hereby authorized to be appropriated the sum of $500,000,000 to be used by the Commission as a revolving fund for the purposes of making loans of this title. and advances pursuant to the provisions of section DEFINITIONS Unless the context otherwise requires, the definitions established by section 2 of the Security Act of 1933, as amended by Act approved June 6, 1934, as in effect March 15, 1935, are hereby adopted as applicable to this title. PUBLICITY and All approvals of securities made by the Commission pursuant to section all loans or advances made pursuant to section of this title shall be public records and shall be available for public inspection in such detail and under such reasonable rules and regulations as the Commission may prescribe. TIME LIMITATIONS ON ACTION Wherever in this title provision is made for an application to the Commission for any purpose, and such application is made, the Commission shall act upon such application within thirty days of the filing of same, or state publicly the reason for failing to do so. LIMITATION ON POWERS OF COMMISSION Nothing contained in this title shall be deemed to limit or control the power of the United States Government or any agency thereof to issue securities. LIMITATION OF EFFECT OF APPROVAL of No action taken by the Commission pursuant to the provision of section this title shall be construed as approving the legality, validity, worth, or safety of any security. TITLE VI-GENERAL PROVISIONS SHORT TITLE This Act may be cited as the "War Emergency Act." SUSPENSION OF CONFLICTING AND INCONSISTENT ACTS All Acts or parts of Acts conflicting or inconsistent with the provisions of this Act are, to the extent of such conflict or inconsistency, suspended during the effectiveness of this Act. CRIMINAL PENALTIES Any person who willfully violates any provisions of this Act or any of the rules and regulations made thereunder shall, unless other criminal penalties be provided herein for such violation, be guilty of a misdemeanor, and shall upon conviction thereof be fined not more than $100,000 or imprisoned for not more than one year, or both, together with the cost of prosecution. s Deleted as being a tax measure

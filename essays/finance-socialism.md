@@ -2,6 +2,7 @@
 layout: default
 title: Finance Socialism
 permalink: /essays/finance-socialism
+math: true
 ---
 
 # Introduction
@@ -67,7 +68,9 @@ With that in mind, there's a pretty simple case for redistribution: taking 1k fr
 
 1. **Redistribution is leaky** - it requires resources to run a bureaucracy. You need to fund an agency to investigate how much money people are making, to enforce compliance and to distribute the money to its recipients.
 2. **Redistribution destroys incentives** - Imagine you currently make 20k a year in labor income with the government giving you an extra 40k a year to equalize incomes at 60k (if you divide personal expenditures by the US population you get 58k as of september 2024). Would you want to work twice as many hours and make 40k in labor income if your take home pay remained at 60k? The same goes for those who are net giver, would you give more effort to make 140k rather than 100k in labor income if it didn't change how much you took home?
+3. **Redistribution reduces capital allocation efficiency** - In some sense, the people with more money are better at making money. This tends to be a positive sum process so taking money away from them reduces their influence over capital allocation and thus reduces economic growth.
 
+Redistribution advocates such as myself have to deal with these problems in some way, or at least think they are counterbalanced by the good done.
 
 ## The Vanguard of the Revolution
 
