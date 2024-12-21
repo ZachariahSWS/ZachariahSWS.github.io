@@ -4,9 +4,17 @@ title: Mistakes in WW2 American Grand Strategy
 permalink: /essays/grand-strategy-ww2
 ---
 
-## Munitions Oveproduction
+Munitions oveproduction
 
 Kuznets national income method
+
+Earlier Construction of the big inch
+
+Natural gas in the northeast
+
+Idle capital due to production halts
+
+Small businesses that are unable to do anything
 
 
 
