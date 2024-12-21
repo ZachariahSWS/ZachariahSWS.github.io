@@ -18,6 +18,8 @@ Small businesses that are unable to do anything
 
 Strategic bombing wasted resources that could've been used to reduce shortages in other sectors
 
+No need for an invasion of the philippines, stick with the island hopping strategy
+
 ## Bibliography
 
 - [The Big 'L' - American Logistics in WWII](/documents/big-l){: .internal-link}
