@@ -16,7 +16,7 @@ Idle capital due to production halts
 
 Small businesses that are unable to do anything
 
-
+Strategic bombing wasted resources that could've been used to reduce shortages in other sectors
 
 ## Bibliography
 
