@@ -73,5 +73,3 @@ With that in mind, there's a pretty simple case for redistribution: taking 1k fr
 Redistribution advocates such as myself have to deal with these problems in some way, or at least think they are counterbalanced by the good done.
 
 ## The Vanguard of the Revolution
-
-<object data="/images/vanguard.svg" type="image/svg+xml"></object>
