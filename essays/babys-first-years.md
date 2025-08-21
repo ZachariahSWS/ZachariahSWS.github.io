@@ -4,6 +4,7 @@ title: Contra Baby's First Years
 description: Natural Experiments or Bust
 permalink: /essays/babys-first-years
 toc: false
+math: true
 image: /images/descartes.jpg
 ---
 
