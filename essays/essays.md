@@ -9,6 +9,7 @@ permalink: /essays
 - [Treasury Prediction Markets](/essays/treasury-prediction-markets){: .internal-link}
 - [Sewer Liberalism](/essays/sewer-liberalism){: .internal-link}
 - [AI Special Economic Zones](/essays/ai-sez){: .internal-link}
+- [Contra Baby's First Years](/essays/babys-first-years){: .internal-link}
 
 ## Academic
 - [Slug Story](/essays/slug-story){: .internal-link}

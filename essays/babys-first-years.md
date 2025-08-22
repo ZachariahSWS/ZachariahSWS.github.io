@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Contra Baby's First Years
-description: 
+description: Natural Experiments or Bust
 permalink: /essays/babys-first-years
 toc: false
 image: /images/descartes.jpg
@@ -12,7 +12,7 @@ image: /images/descartes.jpg
 Let's imagine twin sisters, Linda and Heather, living in Omaha, Nebraska. In July 2018 they both give birth to their second when they are 27. They both are single mothers and for easier calculations we shall assume that they both make $21,330 (the 2019 federal poverty line for a family of 3) a year in household income even though Linda actually makes $22,566 and Heather makes $20,865. How much do they consume when you factor in government transfers in cash and in kind? We're going to take the following figures:
 - SNAP: $2400 a year
 - WIC: $600 a year
-- CHIP: $6,300 a yearNatural Experiments or Bust
+- CHIP: $6,300 a year
 - Obamacare Subsidies: $8,100 a year
 - Nebraska LIHEAP: $500 a year (no help with cooling)
 - No section 8/public housing
