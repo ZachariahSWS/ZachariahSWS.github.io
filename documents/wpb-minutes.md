@@ -1,3 +1,10 @@
+---
+layout: default
+title: War Production Board Minutes
+permalink: /documents/wpb-minutes
+description: Approved For Public Release
+---
+
 [Minutes of the Planning Committee of the War Production Board]
 [From the U.S. Government Publishing Office, www.gpo.gov]
 

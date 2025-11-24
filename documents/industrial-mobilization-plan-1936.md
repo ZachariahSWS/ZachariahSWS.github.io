@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Industrial Mobilization Plan - 1936 Revision
-description: Approved For Public Release
 permalink: /documents/imb-1936
+description: Approved For Public Release
 ---
 
 Approved Jointly by Harry H. Woodring (Acting Secretary of War) and Claude A. Swanson (Secretary of the Navy)
@@ -1278,7 +1278,7 @@ Mr. Gard, as quoted in the Congressional Record, June 20, 1917, page 4253, said:
 
 In *McCormick v. Humphrey* (27 Ind. 144, 154) the court said:
 
-- ...and every executive act of the President, intended and calculated to carry the war to a successful issue, are acts under the Constitution...
+-...and every executive act of the President, intended and calculated to carry the war to a successful issue, are acts under the Constitution...
 
 While the authorities do not indicate any clear distinction between the legislative function of Congress under the war power and an act of the President as Commander in Chief, Mr. Channing, in a legal opinion submitted to Judge Parker on September 29, 1917. suggests the following test:
 
@@ -1322,13 +1322,13 @@ In *Parham v. The Justices* (9 Ga. 341) the court discussed the law of necessity
 
 Or, as expressed by the court in *American Print Works v. Lawrence* (3 Zab. (N. J.) 598),
 
-- ...The necessity must be immediate, imperative, and in some cases extreme and overwhelming, mere expediency or utility will not suffice.
+-...The necessity must be immediate, imperative, and in some cases extreme and overwhelming, mere expediency or utility will not suffice.
 
 Mr. Lawrence in War Claims Against the United States (13 Amer. Law Reg. 406) stresses the point that in general an exercise of the law of necessity does not ordinarily create a claim for compensation of damages.
 
 But, in Hefleblower v. United States (32 Ct. Cl. 237) the court said:
 
-- ...If the conditions admitted of the property being acquired by contract and of being used for the benefit of the Government, the obligation attaches and it must be regarded as acquired under an implied contract; but if the taking, using, or occupying was in the nature of destruction for the general welfare or incident to the inevitable ravages of war, such as the marching of troops, the conflict of armies, the destruction of supplies, and whether brought about by casualty or authority, and whether on hostile or national territory, the loss in the absence of positive legislation must be borne by him on whom it falls and no obligation to pay can be imputed to the Government...
+-...If the conditions admitted of the property being acquired by contract and of being used for the benefit of the Government, the obligation attaches and it must be regarded as acquired under an implied contract; but if the taking, using, or occupying was in the nature of destruction for the general welfare or incident to the inevitable ravages of war, such as the marching of troops, the conflict of armies, the destruction of supplies, and whether brought about by casualty or authority, and whether on hostile or national territory, the loss in the absence of positive legislation must be borne by him on whom it falls and no obligation to pay can be imputed to the Government...
 
 The Supreme Court has recognized the law of necessity in such cases as *Mitchell v. Harmony* (13 How. 115), a case arising during the Mexican War in Mexico, and involving the seizing of a private duly authorized wagon train by a military commander of the American forces; and in *United States v. Russell* (13 Wall. 623), a case arising out of the seizure by a military officer in the Civil War of plaintiff's vessel. In the former case the Supreme Court held the officer making the seizure liable in damages, because the urgency of the situation did not warrant the seizure. In the latter case the court held the United States liable under the implied promise to pay because the seizure was in the nature of an ordinary taking under the power of eminent domain.
 
@@ -1557,4 +1557,172 @@ This title may be cited as the "War Securities Exchange Control Act."
 
 ### POWERS OF THE PRESIDENT
 
-In addition to all other powers possessed by the President by law as of the effective date of this title, and not in substitution therefor, the President may by proclamation close any or all exchanges where securities are bought, sold, or offered for sale and by rules or regulations prevent any public or private sale of any such securities. Such rules and regulations shall have the force and effect of law. Such proclamation shall remain effective, if so intended by the President, for the duration of the effectiveness of this title. For the purposes of this section, the word "security" shall be defined in like manner as the same is defined by section 2 of the Securities Act of 1933, as amended by Act approved June 6, 1934, as in effect on March 15, 1935. TITLE V-WAR FINANCE CONTROL SHORT TITLE This title may be cited as the "War Finance Control Act." FINANCE CONTROL COMMISSION There is hereby created the War Finance Control Commission, hereinafter in this title called the "Commission", to consist of five members appointed by  Powers of the President.  the President, with the advice and consent of the Senate, for a term of office to expire at the expiration date of this Act, unless sooner removed by the President in his discretion. Such members shall receive compensation not exceeding $10,000 per annum. No such member, so appointed, shall refuse to serve as a member of such commission. Neither during his term of office, nor thereafter on account of services rendered during such term, shall any such member receive, nor shall any person receive on his behalf, any reward, compensation, or emolument whatsoever from any source directly or indirectly regulated or affected by the provisions of this title, nor shall any member, attorney, agent or employee of the Commission in any manner, directly or indirectly, participate in the determination of any question affecting his personal interest, or the interest of any eorporation, partnerhip, association, or trust in which he is directly or indirectly interested." POWERS OF COMMISSION; APPROVAL OF SECURITIES No security may be registered with the Securities and Exchange Commission as provided in the Securities Act of 1933, as amended, and as in effect March 15, 1935, or its successor in law or in fact, unless it shall have been approved previously by the Finance Control Commission pursuant to the provisions of this title. No security the total or aggregate par, face, or actual value of which, plus the aggregate par, face, or actual value of any other securities issued by the same person since the effective date of this title, is in excess of $100,000 shall be sold or offered for sale or for subscription either publicly or privately unless such security shall have been approved previously by the Finance Control Commission pursuant to the provisions of this title. Such approval shall be granted if the Commission find, after hearing held upon notice to any applicant for such approval, if such hearing is requested, that either— (a) The security is part of a current transaction maturing in less than nine months; (b) The security is issued solely in exchange for an outstanding security and that no money or other property consideration is involved in the transaction; (c) The security is offered for resale, having been originally sold prior to the effective date of this Act or pursuant to its provisions; or (d) The sale of such security is compatible with the public interest in the successful prosecution of war, and that the proceeds from the sale of such security will be applied to the extension or improvement of the capital plant, CAPITAL or efficiency of an industry, establishment, or agency necessary or desirable to the successful prosecution of war. Under no circumstances shall the Commission grant approval under this section if it shall find none of the preceding conditions to exist, nor shall it grant such approval if it shall find that the proceeds from the sale of such securities will or may be applied to purposes not connected with the successful prosecution of war or that the sale of such securities may attract or absorb funds potentially more useful to the successful prosecution of war. POWERS OF COMMISSION; FINANCING The Commission may, upon application to the Commission by any officer or agent of the United States or upon application of any officer or agent of any industry, establishment, or agency, after finding that owing to inadequate eapital plant, CAPITAL or other inadequate financial resources the efficiency or usefulness of any such industry, establishment, or agency for the successful prosecution of war is impaired or impeded, loan or advance such sums as may in its judgment be necessary to eliminate such impaired or impeded usefulness or efficiency, upon such security, if any, as it deems necessary. If such loan or advance is made upon application of any officer or agent of the United States, no reimbursement except interest at a rate to be fixed by the Commission shall be required during the effective date of this Act, but the United States shall have a lien superior to all other liens for the repayment of such loan or advance upon all real assets or fixtures constructed or purchased with such funds. The bill states that no member so appointed shall refuse to serve. It is not believed that this is a wise provision, as a man who served against his will in a position of the character set forth would not normally give good service. This prohibition seems unnecessarily drastic, although naturally a man should not benefit by decisions he assists in making. TAX CREDITS AND ALLOWANCES No depreciation, amortization, exhaustion, wear and tear, obsolescence, er other deduction shall be allowed or eredited against gross income under any tax act, including title I of this Act, for any part or portion of the construction or purchase cost of any real asset or fixture constructed or purchased with funds of this title for any war er provided by the Commission pursuant to section taxable period during which this act is in effect.8 REVOLVING FUND; APPROPRIATION There is hereby authorized to be appropriated the sum of $500,000,000 to be used by the Commission as a revolving fund for the purposes of making loans of this title. and advances pursuant to the provisions of section DEFINITIONS Unless the context otherwise requires, the definitions established by section 2 of the Security Act of 1933, as amended by Act approved June 6, 1934, as in effect March 15, 1935, are hereby adopted as applicable to this title. PUBLICITY and All approvals of securities made by the Commission pursuant to section all loans or advances made pursuant to section of this title shall be public records and shall be available for public inspection in such detail and under such reasonable rules and regulations as the Commission may prescribe. TIME LIMITATIONS ON ACTION Wherever in this title provision is made for an application to the Commission for any purpose, and such application is made, the Commission shall act upon such application within thirty days of the filing of same, or state publicly the reason for failing to do so. LIMITATION ON POWERS OF COMMISSION Nothing contained in this title shall be deemed to limit or control the power of the United States Government or any agency thereof to issue securities. LIMITATION OF EFFECT OF APPROVAL of No action taken by the Commission pursuant to the provision of section this title shall be construed as approving the legality, validity, worth, or safety of any security. TITLE VI-GENERAL PROVISIONS SHORT TITLE This Act may be cited as the "War Emergency Act." SUSPENSION OF CONFLICTING AND INCONSISTENT ACTS All Acts or parts of Acts conflicting or inconsistent with the provisions of this Act are, to the extent of such conflict or inconsistency, suspended during the effectiveness of this Act. CRIMINAL PENALTIES Any person who willfully violates any provisions of this Act or any of the rules and regulations made thereunder shall, unless other criminal penalties be provided herein for such violation, be guilty of a misdemeanor, and shall upon conviction thereof be fined not more than $100,000 or imprisoned for not more than one year, or both, together with the cost of prosecution. s Deleted as being a tax measure
+In addition to all other powers possessed by the President by law as of the effective date of this title, and not in substitution therefor, the President may by proclamation close any or all exchanges where securities are bought, sold, or offered for sale and by rules or regulations prevent any public or private sale of any such securities. Such rules and regulations shall have the force and effect of law. Such proclamation shall remain effective, if so intended by the President, for the duration of the effectiveness of this title. For the purposes of this section, the word "security" shall be defined in like manner as the same is defined by section 2 of the Securities Act of 1933, as amended by Act approved June 6, 1934, as in effect on March 15, 1935.
+
+## Title V-War Finance Control
+
+### Short Title
+
+This title may be cited as the "War Finance Control Act."
+
+### Finance Control Commission
+
+There is hereby created the War Finance Control Commission, hereinafter in this title called the "Commission", to consist of five members appointed by  Powers of the President.  the President, with the advice and consent of the Senate, for a term of office to expire at the expiration date of this Act, unless sooner removed by the President in his discretion. Such members shall receive compensation not exceeding $10,000 per annum. *No such member, so appointed, shall refuse to serve as a member of such commission.*\[end deletion\] \[The bill states that no member so appointed shall refuse to serve. It is not believed that this is a wise provision, as a man who served against his will in a position of the character set forth would not normally give good service.\] Neither during his term of office, nor thereafter on account of services rendered during such term, shall any such member receive, *nor shall any person receive on his behalf, any reward, compensation, or emolument whatsoever from any source directly or indirectly regulated or affected by the provisions of this title, nor shall any member, attorney, agent or employee of the Commission in any manner, directly or indirectly, participate in the determination of any question affecting his personal interest, or the interest of any eorporation, partnerhip, association, or trust in which he is directly or indirectly interested.*\[end deletion\] \[This prohibition seems unnecessarily drastic, although naturally a man should not benefit by decisions he assists in making.\]
+
+### Powers of Commission; Approval of Securities
+
+No security may be registered with the Securities and Exchange Commission as provided in the Securities Act of 1933, as amended, and as in effect March 15, 1935, or its successor in law or in fact, unless it shall have been approved previously by the Finance Control Commission pursuant to the provisions of this title. No security the total or aggregate par, face, or actual value of which, plus the aggregate par, face, or actual value of any other securities issued by the same person since the effective date of this title, is in excess of $100,000 shall be sold or offered for sale or for subscription either publicly or privately unless such security shall have been approved previously by the Finance Control Commission pursuant to the provisions of this title. Such approval shall be granted if the Commission find, after hearing held upon notice to any applicant for such approval, if such hearing is requested, that either—
+(a) The security is part of a current transaction maturing in less than nine months;
+(b) The security is issued solely in exchange for an outstanding security and that no money or other property consideration is involved in the transaction;
+(c) The security is offered for resale, having been originally sold prior to the effective date of this Act or pursuant to its provisions; or
+(d) The sale of such security is compatible with the public interest in the successful prosecution of war, and that the proceeds from the sale of such security will be applied to the extension or improvement of the *capital*\[end deletion\] plant, CAPITAL or efficiency of an industry, establishment, or agency necessary or desirable to the successful prosecution of war. Under no circumstances shall the Commission grant approval under this section if it shall find none of the preceding conditions to exist, nor shall it grant such approval if it shall find that the proceeds from the sale of such securities will or may be applied to purposes not connected with the successful prosecution of war or that the sale of such securities may attract or absorb funds potentially more useful to the successful prosecution of war.
+
+### Powers of Commission; Financing
+
+The Commission may, upon application to the Commission by any officer or agent of the United States or upon application of any officer or agent of any industry, establishment, or agency, after finding that owing to inadequate *capital*\[end deletion\] plant, CAPITAL or other inadequate financial resources the efficiency or usefulness of any such industry, establishment, or agency for the successful prosecution of war is impaired or impeded, loan or advance such sums as may in its judgment be necessary to eliminate such impaired or impeded usefulness or efficiency, upon such security, if any, as it deems necessary. If such loan or advance is made upon application of any officer or agent of the United States, no reimbursement except interest at a rate to be fixed by the Commission shall be required during the effective date of this Act, but the United States shall have a lien superior to all other liens for the repayment of such loan or advance upon all real assets or fixtures constructed or purchased with such funds.
+
+### *Tax Credits and Allowances*
+
+*No depreciation, amortization, exhaustion, wear and tear, obsolescence, er other deduction shall be allowed or eredited against gross income under any tax act, including title I of this Act, for any part or portion of the construction or purchase cost of any real asset or fixture constructed or purchased with funds of this title for any war er provided by the Commission pursuant to section taxable period during which this act is in effect.*\[end deletion\]\[deleted as being a tax measure.\]
+
+### Revolving Fund; Appropriation
+
+There is hereby authorized to be appropriated the sum of $500,000,000 to be used by the Commission as a revolving fund for the purposes of making loans and advances pursuant to the provisions of section of this title.
+
+### Definitions
+
+Unless the context otherwise requires, the definitions established by section 2 of the Security Act of 1933, as amended by Act approved June 6, 1934, as in effect March 15, 1935, are hereby adopted as applicable to this title.
+
+### PUBLICITY
+
+All approvals of securities made by the Commission pursuant to section and all loans or advances made pursuant to section of this title shall be public records and shall be available for public inspection in such detail and under such reasonable rules and regulations as the Commission may prescribe.
+
+### Time Limitations on Action
+
+Wherever in this title provision is made for an application to the Commission for any purpose, and such application is made, the Commission shall act upon such application within thirty days of the filing of same, or state publicly the reason for failing to do so.
+
+### Limitiation on Powers of Commission
+
+Nothing contained in this title shall be deemed to limit or control the power of the United States Government or any agency thereof to issue securities.
+
+### Limitiation of Effect of Approval
+
+No action taken by the Commission pursuant to the provision of section of this title shall be construed as approving the legality, validity, worth, or safety of any security.
+
+## Title VI-General Provisions
+
+### Short Title
+
+This Act may be cited as the "War Emergency Act."
+
+### Suspension of Conflicting and Inconcistent Acts
+
+All Acts or parts of Acts conflicting or inconsistent with the provisions of this Act are, to the extent of such conflict or inconsistency, suspended during the effectiveness of this Act.
+
+### Criminal Penalties
+
+Any person who willfully violates any provisions of this Act or any of the rules and regulations made thereunder shall, unless other criminal penalties be provided herein for such violation, be guilty of a misdemeanor, and shall upon conviction thereof be fined not more than $100,000 or imprisoned for not more than one year, or both, together with the cost of prosecution. s Deleted as being a tax measure
+
+### Succession to Rights and Duties
+
+On the expiration of this Act, the United States of America shall be successor to the rights and duties acquired or incurred by any board or commission created by this Act.
+
+### Separability Clause
+
+If any provision of this Act, or the application thereof to any person or cir- cumstances, is held invalid, the remainder of the Act, and the application of such provisions to other persons or circumstances, shall not be affected thereby.
+
+### Effective Date of Act
+
+Except as otherwise provided herein, the provisions of this Act shall become operative and in full force and effect immediately upon the declaration by Congress that a state of war exists between the United States and any foreign government and that the existence of such state of war creates grave national emergency; and such provisions shall remain in full force and effect for the duration of such war and thereafter until the Congress shall declare the emergency created by such war to be at an end.
+
+Amend the title so as to read: "An Act to provide revenue and facilitate the regulation and control of the economic and industrial structure of the Nation for the successful prosecution of war, and for other purposes.”
+
+Passed the House of Representatives April 9, 1935.
+
+Attest :
+South Trimble,
+Clerk
+
+### 3 A bill authorizing the establishment of a Bureau of Marine War Risk Insurance in the Treasury Department
+
+a. Consideration of like legislation in the World War
+  (1) The Bureau of Marine War Risk Insurance in the Treas- ury Department was created, and its duties and powers defined, by act of September 2, 1914, as amended.
+  (2) The proposed bill follows the general tenor of the World War legislation, which was found to be eminently satisfactory. There is, however, not the same detail respecting personnel and salaries. This would necessarily be determined by circumstances at the time of proposal of legislation and can then be readily supplied. The advisory board authorized in the act of September 2, 1914, has not been included in the proposed bill, because the creation of such a board was apparently found unnecessary in the operation of the World War bureau.
+b. Procedure in preparation of draft of proposed bill.
+  (1) Initiative—Treasury Department.
+  (2) Consultation with—
+    (a) War Department, Navy Department, and Department of Commerce.
+    (b) Leaders in the shipping industry.
+    (c) Committees of Congress.
+
+### A bill
+
+To authorize the establishment of a Bureau of Marine War Risk Insurance in the Treasury Department.
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, To provide for the export shipping of the United States adequate facilities for the insurance of its commerce against the risk of war, the President is authorized to establish in the Treasury Department a bureau to be known as the Marine War Risk Insurance Bureau.
+
+SEC. 2. That the said Marine War Risk Insurance Bureau, subject to the general direction of the Secretary of the Treasury, shall, as soon as practicable, make provision for the insurance of American vessels, their freight and passage moneys, and cargoes shipped or to be shipped therein, as well as the vessels and cargoes of States friendly to the United States engaged in export and import trade with the United States, against loss or damage of the risks of war when- ever it shall appear to the Secretary of the Treasury that such vessels, shippers, or importers are unable in any trade to secure adequate war risk insurance on reasonable terms.
+
+SEC. 3. That the Marine War Risk Insurance Bureau, created under authority of this Act, with the approval of the Secretary of the Treasury, is hereby authorized to adopt and publish a form of war-risk policy and to fix reasonable rates of premiums for the insurance of vessels, their freight and passage moneys, and cargoes against war risks, which shall be subject to such change, to each part for each class, as the Secretary shall find to be required by the circumstances. The proceeds of the aforesaid premiums, when received, shall be covered into the Treasury of the United States.
+
+SEC. 4. That the Marine War Risk Insurance Bureau, with the approval of the Secretary of the Treasury, shall have power to make any and all rules and regulations necessary for the carrying out of the provisions of this title and to employ such legal agents or other agents in the nature of insurance experts as may be required in carrying into effect the purpose of this title, such agents to be paid for their services at a rate per annum to be determined by the Secre- tary of the Treasury. In the event of disagreement as to the claims for losses, or amounts thereof, between the said bureau and the parties to such contracts of insurance, an action of the claim may be brought against the United States, in the District Court of the United States, sitting in admiralty, in the district in which the claimant or his agent may reside.
+
+SEC. 5. The director of the Marine War Risk Insurance Bureau, upon the adjustment of any claims for losses, in respect of which no action shall be begun, shall, on approval of the Secretary of the Treasury, promptly pay such claims and losses to the parties in interest, and the Secretary of the Treasury is directed to make provision for the speedy adjustment of claims for losses and also for the prompt notification of parties in interest of the decisions of the bureau on their claims.
+
+SEC. 6. That all moneys received from premiums and salvage shall be covered into the Treasury to the credit of any appropriations made for the payment of losses and be available for the purpose thereof.
+
+SEC. 7. The President is authorized, whenever in his judgment the neces- sity for further war insurance with the United States shall have ceased to exist, to suspend the operations of this title in as far as it authorized insur- ance by the United States against losses or damage by risks of war, which suspension shall not affect any insurance outstanding at the time of any claims pending adjustment. For the purpose of the final adjustment of any such outstanding insurance, or claims, the Marine War Risk Insurance Bureau may, in the discretion of the President, be continued in existence for such length of time as it proves to be necessary in the premises.
+
+SEC. 8. That a detailed statement of all expenditures under this title and of all receipts hereunder shall be submitted to Congress at the beginning of each regular session.
+
+## Section D. Presidential Proclamations
+
+### 1. By the President of the United States of America
+
+### A Proclamation
+
+Whereas Congress has enacted and the President has on the __________ day of __________ approved a law to provide revenue and facilitate the regulation and control of the economic and industrial structure of the nation for the successful prosecution of war and for other purposes.
+
+I. I hereby establish and create the following agencies for carrying into effect the powers and authority granted in said law: War Resources Administration, War Labor Administration, War Trade Administration, War Finance Control Commission, Price Control Commission, and an Advisory Defense Council.
+
+II. I hereby appoint and designate \[insert name\] as Administrator of War Resources. His duties and powers shall be to advise and assist the President in all matters relating to the mobilization and utilization of the material re- sources of the Nation for the purpose of national defense, in accordance with and in furtherance of the plans for industrial mobilization heretofore approved by the President. I hereby direct that the Administrator of War Resources shall have and exercise all powers and authority vested in me in the said act, insofar as applicable to, and in furtherance of the mobilization and utiliza- tion of material resources for the purpose of the national defense. I hereby direct that the Administrator of War Resources shall establish and set up, under his direction and supervision, agencies for the control of military and civil requirements, priorities, food, commodities (including fuel and power), conservation, facilities, and transportation. Said Administrator of War Resources shall also have the authority to employ such assistants and subordinates, including such counsel as may from time to time be deemed by him necessary, and to fix the compensation of such assistants, subordinates, and counsel.
+
+III. I hereby appoint and designate \[insert name\] as Administrator of War Labor. His duties and powers shall be to advise and assist the President in adjusting labor resources of the Nation to the demands of national defense, in accordance with and in furtherance of the plans for industrial mobilization heretofore approved by the President. Said Administrator of War Labor shall also have authority to employ such assistants and subordinates, including such counsel as may from time to time be deemed by him necessary, and to fix the compensation of such assistants, subordinates, and counsel.
+
+IV. I hereby appoint and designate \[insert name\] as Administrator of War Trade. His duties and powers shall be to take all such measures, subject to my approval, as may be necessary and expedient in accordance with and in furtherance of the plans for industrial mobilization heretofore approved by the President. Said Administrator of War Trade shall also have authority to employ such assistants and subordinates, including such counsel as may from time to time be deemed by him necessary, and to fix the compensation of such assistants, subordinates, and counsel.
+
+V. I hereby create a Price Control Commission and appoint and designate \[insert name\] as chairman of said commission. His duties and powers shall be to advise and assist the President in all matters relating to the control and stabilization of prices in accordance with and in furtherance of the plans for industrial mobilization heretofore approved by the President.
+
+VI. I hereby establish a War Finance Control Commission to be composed of the following members: \[insert name\], chairman, \[insert name\], \[insert name\], \[insert name\] and \[insert name\]. The duties and powers of said commission shall be to administer the powers conferred by the said act. The commission shall also have the authority to employ such assistants and subordinates, including such counsel as may from time to time be deemed necessary and to fix the compensation of such assistants, subordinates, and counsel.
+
+VII. I hereby establish an Advisory Defense Council to advise and assist the President in all matters relating to the present war emergency to be com- posed respectively of the Secretary of War, the Secretary of the Navy, the Administrator of War Resources, the Administrator of War Trade, the Admin- istrator of War Labor, the Administrator of Selective Service, the Administrator of Public Relations, the Chairman of the Price Control Commission, and the Chairman of the War Finance Control Commission; with the Army Chief of Staff and the Chief of Naval Operations in an advisory capacity.
+
+All departments and established agencies of the Government are hereby directed to cooperate with the agencies and officers established by this proclamation in the furtherance of the respective duties assigned such agencies and officers.
+
+\[insert signature\]
+
+The White House,
+
+\[insert date\]
+
+### 2. By the President of the United States of America
+
+### A Proclamation
+
+By virtue of authority vested in me by the War Emergency Act, approved \[insert date\], I do hereby proclaim to all whom it may concern that the public safety requires that, except at such time or times and under such regulations and orders and subject to such limitations and exceptions as the President shall prescribe, until otherwise ordered by the President or by Congress, the following articles, namely : All kinds of arms, guns, ammunition, and explosives, machines for their manufacture or repair, component parts thereof, materials or ingredients used in their manufacture, and all articles necessary or con- venient for their use ; all contrivances for, or means of transportation on land or in the water or air, machines used in their manufacture or repair, com- ponent parts thereof, materials or ingredients used in their manufacture, and all instruments, articles, and animals necessary or convenient for their use ; all means of communications, tools, implements, instruments, equipment, maps, pictures, papers, and other articles, machines and documents necessary or convenient for carrying on hostile operations shall not, on and after the ___________ day of __________ in the year __________ be exported from or shipped from, or taken out of the United States or its territorial possessions, except for use of the military force of the United States, or its allies in the war ; and
+
+I do hereby further proclaim to all whom it may concern that the public safety requires that, except at such time or times, and under such regulations and orders, and subject to such limitations and exceptions as the President shall prescribe, until otherwise ordered by the President or by Congress, the following articles, namely : Corundum, emergy, nitric acid, sulphuric acid, ethyl alcohol, methyl alcohol, airplane motors, automobiles, potash and its salts, benzol, phenol, toluol, coconut shells, cranes, chromium, manganese, nickel, tungsten, vanadium, cork, jute, kapok, manila fiber, oakum, sisal, coffee, sugar, helium, animal hides, quebracho, machine tools, camphor, iodine, nux vomica, opium, quinine, surgical instruments, mica, tin, antimony, graphite, platinum, aluminum, quicksilver, uranium, optical glass, flaxseed, paper and pulp, petro- leum, cotton linters, nitrates, picric acid, rubber, shellac, silk, steel and iron, asbestos, magnesium, industrial diamonds, boron and tungsten carbides, chlorine, sulphur and pyrites, and wool, shall not, on and after the ___________ day of __________ in the year __________ be exported or shipped from, or taken out of the United States or its territorial possessions, except for the use of the military forces of the United States or its allies in the war.
+
+The regulations, orders, limitations, and exceptions prescribed will be ad- ministered by and under the authority of the Administrator of War Trade, from whom licenses, in conformity with said regulations, orders, limitations, and exceptions will issue.
+
+In witness whereof, I have hereunto set my hand and caused the seal of the United States of America to be affixed.
+
+Done at the city of Washington this __________ day of __________, in the year of __________.
+
+\[insert signature\]
+
+The White House,
+
+\[insert date\]
+
+\[end of document\]

@@ -1,14 +1,13 @@
 ---
 layout: default
 title: Sewer Liberalism
+subtitle: Good Outcomes Improve Vibes
 description: Accomplishments make bragging easy
 permalink: /essays/sewer-liberalism
-toc: true
+outline_thread: true
 linechart: true
 image: /images/library.jpg
 ---
-
-## Good Outcomes Improve Vibes
 
 It is no secret that liberal states like California and New York are growing much slower than conservative ones like Texas and Florida. California's population grew from 34.0 million in 2000 to 39.0 in 2023 (39.5 in 2020 if you only trust censuses). Texas by contrast has grown from 20.9 to 30.5 million (29.2 in 2020) in 2023. That means every year California was growing by 0.60% each year compared to 1.65% in Texas. The next biggest states, New York and Florida have grown 0.12% and 1.51% annualized respectively.
 
@@ -26,7 +25,9 @@ Liberal states' struggle with housing is well documented at this point. Sure, Ca
 
 My own city of Santa Cruz is one of the 5 most expensive metro areas in the country. Here's a map of its zoning, yellow denotes R-1 zoning which is broken into R-1-10, R-1-7 and R-1-5 depending on if the minimum lot size is 10k, 7k or 5k square feet respectively. All of these are excessive, homes usually go for above a million here. People should be allowed to split their lots in half or thirds, allowing multiple families to purchase their own homes in this extremely expensive area.
 
-<object data="/images/zoning-map.svg" type="image/svg+xml"></object>
+<div class="full-bleed">
+  <object data="/images/zoning-map.svg" type="image/svg+xml"></object>
+</div>
 
 Additionally, they set a maximum building area of between 3,000 and 4,000 square feet. If you'd like to build an accessory dwelling unit, as has been encouraged in California recently, you'd better hope your existing house isn't too large or you need to petition for a zoning variance.
 

@@ -1,8 +1,8 @@
 ---
 layout: default
 title: 1937 Military Appropriation Bill
-description: Approved For Public Release
 permalink: /documents/appropriation-1937
+description: Approved For Public Release
 ---
 
 July 1st, 1937

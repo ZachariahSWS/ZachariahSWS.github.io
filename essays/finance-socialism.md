@@ -3,6 +3,7 @@ layout: default
 title: Finance Socialism
 permalink: /essays/finance-socialism
 math: true
+outline_thread: true
 ---
 
 # Introduction

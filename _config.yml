@@ -3,15 +3,17 @@ email: zachariahsws@gmail.com
 description: A personal website for Zachariah Schwab
 baseurl: ""
 url: "zachariahschwab.com"
-remote_theme: ZachariahSWS/Academia-Theme
-theme_settings:
-  navigation:
-    - title: Home
-      url: /
-    - title: Essays
-      url: /essays
-    - title: Documents
-      url: /documents
+theme: Academia-Theme
+navigation:
+  - title: Home
+    url: /
+  - title: Essays
+    url: /essays
+  - title: Documents
+    url: /documents
+
+outline_thread: true
+
 # Build settings
 markdown: kramdown
 kramdown:

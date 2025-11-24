@@ -3,7 +3,6 @@ layout: default
 title: AI Special Economic Zones
 description: Great Power Competion Made Easier
 permalink: /essays/ai-sez
-toc: true
 image: /images/semiconductor-fab.jpg
 ---
 
