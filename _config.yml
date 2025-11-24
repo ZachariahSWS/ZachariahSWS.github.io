@@ -14,7 +14,6 @@ navigation:
 
 outline_thread: true
 
-# Build settings
 markdown: kramdown
 kramdown:
   math_engine: mathjax
