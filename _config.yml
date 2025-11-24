@@ -3,7 +3,7 @@ email: zachariahsws@gmail.com
 description: A personal website for Zachariah Schwab
 baseurl: ""
 url: "zachariahschwab.com"
-theme: Academia-Theme
+remote_theme: ZachariahSWS/Academia-Theme
 navigation:
   - title: Home
     url: /
