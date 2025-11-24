@@ -52,7 +52,7 @@ An underdiscussed problem in American government is the crisis of highway costs.
   data-options='{
     "width": 800,
     "height": 400,
-    "title": "Highway Costs have Skyrocketted",
+    "title": "Highway Costs have Skyrocketed",
     "subtitle": "The National Highway Construction Cost Index has outpaced inflation substantially",
     "yLabel": "NHCCI",
     "source" : "Federal Highway Administration"
