@@ -1,11 +1,9 @@
 ---
-layout: default
 title: Contra Baby's First Years
 description: Natural Experiments or Bust
-permalink: /essays/babys-first-years
-outline-thread: false
-math: true
-image: /images/descartes.jpg
+extra:
+  outline_thread: false
+  image: /images/descartes.jpg
 ---
 
 [Kelsey Piper at The Argument](https://www.theargumentmag.com/p/giving-people-money-helped-less-than) recently wrote a post summarizing the literature on UBI within the US. The general conclusion we are working to is that UBI studies do not have enough power to detect the changes in health outcomes. They need hundreds of thousands of participants and billions of dollars to detect changes in obesity, so not finding a change with a thousand participants should not alter your opinions unless you were expecting extremely unrealistic outcomes.  Fair warning, this article is going to have quite a bit of math.
@@ -55,7 +53,7 @@ We will keep the \\(p \approx 0.20\\) but we will be using a new z-score based o
 
 $$n_{\text{per group}} \approx 2p(1-p) \left(\frac{2.8}{\delta}\right)^2 = 0.32 \cdot \left(\frac{2.8}{0.00176}\right)^2 \approx 809,917$$
 
-That's ~1.6 million participants total. Program spending would be \\(809,917 \times (333 + 20) \times 48 \approx $13.7 \text{billion}\\) over 4 years (both groups paid). You can claw back a bit of power by analyzing both obesity and overweight thresholds, but Duncan et al. adjust for multiple hypothesis testing, keeping you in the same order of magnitude.
+That's ~1.6 million participants total. Program spending would be \\(809,917 \times (333 + 20) \times 48 \approx \\$13.7 \text{billion}\\) over 4 years (both groups paid). You can claw back a bit of power by analyzing both obesity and overweight thresholds, but Duncan et al. adjust for multiple hypothesis testing, keeping you in the same order of magnitude.
 
 All of this is naive, child obesity is probably nonlinear in log consumption (though happiness looks linear in log income) and has confounders like race. But these rough figures are a useful prior on what kind of evidence we need to determine whether UBI improves these health outcomes.
 

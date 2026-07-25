@@ -1,7 +1,5 @@
 ---
-layout: default
 title: 'The Big L: American Logistics in WWII'
-permalink: /documents/big-l
 description: Approved For Public Release
 ---
 

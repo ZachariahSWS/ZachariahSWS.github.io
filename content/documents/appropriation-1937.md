@@ -1,7 +1,5 @@
 ---
-layout: default
 title: 1937 Military Appropriation Bill
-permalink: /documents/appropriation-1937
 description: Approved For Public Release
 ---
 

@@ -1,7 +1,6 @@
 .DS_Store
-datasets/.DS_Store
+static/datasets/.DS_Store
 .ai
-Gemfile
-Gemfile.lock
 .jekyll-cache/*
 _site/*
+public/*

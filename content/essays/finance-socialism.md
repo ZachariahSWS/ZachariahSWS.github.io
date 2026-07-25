@@ -1,9 +1,7 @@
 ---
-layout: default
 title: Finance Socialism
-permalink: /essays/finance-socialism
-math: true
-outline_thread: true
+extra:
+  outline_thread: true
 ---
 
 # Introduction
@@ -63,7 +61,7 @@ A similar story plays out with physical plots of land (though there is very mino
 
 The magnitude of welfare spending I advocate for is founded by my belief that happiness scales with the logarithm of consumption and a committment to being at least quasi-utilitarianism. If you disagree with either of these two points, I hope you find my points on program design interesting.
 
-The scientific literature on happiness generally looks at measures of income or wealth rather than consumption. A recent adversarial collaboration between [Killingsworth, Kahneman and Mellers](https://www.pnas.org/doi/10.1073/pnas.2208661120){: .external-linke} analyzed self reported happiness data from 33,391 employed adults in the US. They showed that the majority of people had their happiness increase in proportion to the logarithm of their income. They claim that "\[t\]here is an unhappy minority, whose unhappiness diminishes with rising income up to a threshold, then shows no further progress" and there is a group whose happiness scales faster than logarithmically. These more granular groupings explained why past studies showed a plateau in happiness around 75-90k.
+The scientific literature on happiness generally looks at measures of income or wealth rather than consumption. A recent adversarial collaboration between [Killingsworth, Kahneman and Mellers](https://www.pnas.org/doi/10.1073/pnas.2208661120) analyzed self reported happiness data from 33,391 employed adults in the US. They showed that the majority of people had their happiness increase in proportion to the logarithm of their income. They claim that "\[t\]here is an unhappy minority, whose unhappiness diminishes with rising income up to a threshold, then shows no further progress" and there is a group whose happiness scales faster than logarithmically. These more granular groupings explained why past studies showed a plateau in happiness around 75-90k.
 
 With that in mind, there's a pretty simple case for redistribution: taking 1k from a richer person makes them sad at a lesser rate than it makes a poorer recipient happy. If this were to only factor at play, it would be optimal to make everyone equal in consumption (a common interpretation of communism) however there are countervailing forces.
 

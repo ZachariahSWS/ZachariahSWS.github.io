@@ -1,7 +1,6 @@
 ---
-layout: default
 title: Isekai
-permalink: /isekai
+path: isekai
 ---
 
 Around fifteen thousand years, humans began to transition to a more sedentary lifesstyle. More food than someone could carry would be stored in one location rather than constantly migrating in search of new food. As these societies became more rooted, agriculture would develop. Cultivating your own plants allows for a certain area of land to produce more human accessible calories, at a cost of increased labor requirements. Societies that engaged in this more directed and sedentary cultivation were able to feed more people in a given space, an advantage they could use to displace other groups as they expand. A combination of this displacement and knowledge transfer, along with some indepedendent invention would lead to agriculture becoming the dominant mode of production for the majority of humans.

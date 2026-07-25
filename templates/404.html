@@ -1,0 +1,42 @@
+{% extends "base.html" %}
+
+{% block title %}Page not found · {{ config.title }}{% endblock title %}
+{% block description %}The requested page could not be found.{% endblock description %}
+{% block social_title %}Page not found · {{ config.title }}{% endblock social_title %}
+{% block twitter_title %}Page not found · {{ config.title }}{% endblock twitter_title %}
+{% block social_description %}The requested page could not be found.{% endblock social_description %}
+{% block twitter_description %}The requested page could not be found.{% endblock twitter_description %}
+{% block head %}
+    <meta name="robots" content="noindex">
+{% endblock head %}
+
+{% block content %}
+    <div class="article_layout article_layout_without_outline">
+      <main class="main_content" id="main_content">
+        <article id="article">
+          <div class="article_header">
+            <h1 class="article_title">Page not found</h1>
+          </div>
+
+          <div class="article_body">
+            <p>There’s nothing at this address. The page may have moved during a site update.</p>
+
+            <p>
+              <a class="internal_link" href="{{ get_url(path='/') }}">Return home</a>,
+              <a class="internal_link" href="{{ get_url(path='/essays') }}">browse essays</a>,
+              or <a class="internal_link" href="{{ get_url(path='/documents') }}">browse documents</a>.
+            </p>
+
+            <h2>Somewhere to start</h2>
+            <ul>
+              <li><a class="internal_link" href="{{ get_url(path='/essays/high-speed-rail') }}">High-Speed Rail</a></li>
+              <li><a class="internal_link" href="{{ get_url(path='/essays/sewer-liberalism') }}">Sewer Liberalism</a></li>
+              <li><a class="internal_link" href="{{ get_url(path='/documents/big-l') }}">The Big L: American Logistics in WWII</a></li>
+            </ul>
+
+            <p>If you followed a link from this site, please <a href="mailto:zachariahsws+website@gmail.com?subject=Broken%20link%20on%20zachariahschwab.com">report the broken link</a>.</p>
+          </div>
+        </article>
+      </main>
+    </div>
+{% endblock content %}

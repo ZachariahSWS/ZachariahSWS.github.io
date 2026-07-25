@@ -1,7 +1,5 @@
 ---
-layout: default
 title: War Production Board Minutes
-permalink: /documents/wpb-minutes
 description: Approved For Public Release
 ---
 
@@ -4498,7 +4496,7 @@ Great Britain:
 Aircraft spare parts experience ...................... 126
 Analysis of the impact of the war upon civilian economy ....................................104,121
 Concentration of production ..................... ..	67
-Materials requirements for maintaining domestic economy .......................................	$$
+Materials requirements for maintaining domestic economy .......................................	$
 Ministry of Production, report on “Non-Military
 Sector of British Economy” .........................  121
 Production planning ............................... 64,96

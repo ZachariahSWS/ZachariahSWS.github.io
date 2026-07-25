@@ -1,9 +1,7 @@
 ---
-layout: default
 title: High-Speed Rail
-permalink: /essays/high-speed-rail
-footnote_popup: true
-image: /images/railroad.jpeg
+extra:
+  image: /images/railroad.jpeg
 ---
 
 <p>This constitutes a rewrite of Representative Seth Moulton's (D) <a href = "https://moulton.house.gov/news/press-releases/moulton-delbene-introduce-american-high-speed-rail-act" class="external-link">High Speed Rail Act</a> to improve the efficacy of the bill without any increases in spending. It does this by granting the Secretary of Transportation the authority to waive all federal regulations they deem needed in the process of construction; a similar authority was granted to the Secretary of Homeland Security to construct border fencing which they <a href = "https://public-inspection.federalregister.gov/2023-22176.pdf" class="external-link">recently used</a>. This rewritten bill categorically exempts these high speed rail projects from NEPA and Buy American rules and greatly limits the ability of entities to sue the projects, forcing them to file suits within 60 days and only challenge it on constitutional grounds.</p>
@@ -34,8 +32,7 @@ This Act may be cited as the “American High-Speed Rail Act”. <br>
         in subsection (a)&mdash;
         <ol type = "A">
           <li>
-            in paragraph (1), by striking “or group of public agencies for corridor planning for up to 50 percent” and inserting “, a group of public agencies, a consortium composed of a public agency or group of public agencies and a private entity, or a private entity with demonstrated expertise in high-speed rail development, for corridor planning for up to 100 percent”;<label for="sn-1" class="margin-toggle sidenote-number"></label>
-            <input type="checkbox" id="sn-1" class="margin-toggle" /><span class="sidenote">A private entity with demonstrated expertise in high-speed rail development is now able to develop high speed rail without the need for a consortium with any public agencies. This would allow an entity such as SNCF to develop high speed rail in the US without the need for anyone else.</span>
+            in paragraph (1), by striking “or group of public agencies for corridor planning for up to 50 percent” and inserting “, a group of public agencies, a consortium composed of a public agency or group of public agencies and a private entity, or a private entity with demonstrated expertise in high-speed rail development, for corridor planning for up to 100 percent”;<label for="note_toggle_sn_1" class="note_toggle_label side_note_reference" data-side_note_marker="1" aria-label="Show side note 1"></label><input type="checkbox" id="note_toggle_sn_1" class="note_toggle_input" /><span class="side_note" data-side_note_marker="1">A private entity with demonstrated expertise in high-speed rail development is now able to develop high speed rail without the need for a consortium with any public agencies. This would allow an entity such as SNCF to develop high speed rail in the US without the need for anyone else.</span>
           </li>
           <li>
             in paragraph (2), by striking “No less” and all that follows through the period at the end and inserting “The Secretary shall prioritize providing financial assistance for corridor planning activities with respect to which at least 20 percent of the total costs associated with eligible activities shall be from specified financial sources.”; and
@@ -82,8 +79,7 @@ This Act may be cited as the “American High-Speed Rail Act”. <br>
                 <ol class = "quote" type = "a" start = "4">
                   <li>PROJECTS OR ACTIVITIES FOR HIGHER-SPEED RAIL.
                     <ol>
-                      <li>IN GENERAL&mdash;With respect to grants awarded under this section, the Secretary may award not more than 50 percent of grants under this section for projects or activities for higher-speed rail.<label for="sn-2" class="margin-toggle sidenote-number"></label>
-                      <input type="checkbox" id="sn-2" class="margin-toggle" /><span class="sidenote">Up to 50% rather than 20% of grants may go to higher-speed rail. A mention of equity was also removed in the paragraph 14.</span></li>
+                      <li>IN GENERAL&mdash;With respect to grants awarded under this section, the Secretary may award not more than 50 percent of grants under this section for projects or activities for higher-speed rail.<label for="note_toggle_sn_2" class="note_toggle_label side_note_reference" data-side_note_marker="2" aria-label="Show side note 2"></label><input type="checkbox" id="note_toggle_sn_2" class="note_toggle_input" /><span class="side_note" data-side_note_marker="2">Up to 50% rather than 20% of grants may go to higher-speed rail. A mention of equity was also removed in the paragraph 14.</span></li>
                       <li>RELEVANT REQUIREMENTS&mdash;With respect to grants under paragraph (1), the Secretary may apply requirements for high-speed rail to projects or activities for higher-speed rail, where applicable.</li>
                     </ol>
                   </li>
@@ -114,9 +110,7 @@ This Act may be cited as the “American High-Speed Rail Act”. <br>
               <li>are aligned with international best practices, using as a baseline the safety standards of nations with established high-speed rail systems;</li>
               <li>prioritize interoperability within the high-speed rail network;</li>
               <li>
-                require any deviation from these international standards to be justified by a cost-benefit analysis, using a standardized statistical value of life (SVL), demonstrating that:<label for="sn-3" class="margin-toggle sidenote-number"></label>
-                <input type="checkbox" id="sn-3" class="margin-toggle" />
-                <span class="sidenote">Rather than simply requiring <q>comprehensive, performance-based regulations for all high-speed rail projects that shall not inhibit interoperability within the high-speed rail network</q>, safety features must now be based on international best practices. Any deviations from international best practices must require a cost benefit analysis as the US tends to require way too stringent of safety features on trains contributing to cost.</span>
+                require any deviation from these international standards to be justified by a cost-benefit analysis, using a standardized statistical value of life (SVL), demonstrating that:<label for="note_toggle_sn_3" class="note_toggle_label side_note_reference" data-side_note_marker="3" aria-label="Show side note 3"></label><input type="checkbox" id="note_toggle_sn_3" class="note_toggle_input" /><span class="side_note" data-side_note_marker="3">Rather than simply requiring <q>comprehensive, performance-based regulations for all high-speed rail projects that shall not inhibit interoperability within the high-speed rail network</q>, safety features must now be based on international best practices. Any deviations from international best practices must require a cost benefit analysis as the US tends to require way too stringent of safety features on trains contributing to cost.</span>
                 <ol type = "i">
                   <li>for more stringent safety measures, the monetary value of lives saved or injuries prevented exceeds the increased costs of implementation, based on the SVL;</li>
                   <li>for less stringent safety measures, the decreased costs substantially outweigh any increased risk to life or limb, again based on the SVL, and the overall risk remains within internationally accepted parameters for high-speed rail safety;
@@ -142,9 +136,7 @@ This Act may be cited as the “American High-Speed Rail Act”. <br>
                   means all forms of nonhighway ground transportation that run on rails or electromagnetic guideways providing transportation service which is&mdash;
                   <ol type = "i">
                     <li>reasonably expected to reach sustained speeds of more than 100 miles per hour but less than 160 miles per hour; and
-                      <label for="mn-1" class="margin-toggle"></label>
-                      <input type="checkbox" id="mn-1" class="margin-toggle" />
-                      <span class="marginnote">Higher-speed rail will now be defined to be between 100 and 160 mph rather than the original 110 to 185 mph of Representative Moulton. High-speed rail is similarly now above 160 mph.</span>
+                      <label for="note_toggle_mn_1" class="note_toggle_label margin_note_reference" aria-label="Show side note">†</label><input type="checkbox" id="note_toggle_mn_1" class="note_toggle_input" /><span class="margin_note">Higher-speed rail will now be defined to be between 100 and 160 mph rather than the original 110 to 185 mph of Representative Moulton. High-speed rail is similarly now above 160 mph.</span>
                     </li>
                     <li>made available to members of the general public as passengers; and</li>
                   </ol>
@@ -165,9 +157,7 @@ This Act may be cited as the “American High-Speed Rail Act”. <br>
         <ol type = "A">
           <li>
             in paragraph (1), by striking “or Amtrak” and inserting “Amtrak, a consortium of a private entity and one or more of any of the entities listed in this paragraph, or a private entity currently operating high speed rail”;
-            <label for="mn-2" class="margin-toggle"></label>
-            <input type="checkbox" id="mn-2" class="margin-toggle" />
-            <span class="marginnote">Once more allowing private entities that currently operate high speed rail to take the place of public-private partnerships.</span>
+            <label for="note_toggle_mn_2" class="note_toggle_label margin_note_reference" aria-label="Show side note">†</label><input type="checkbox" id="note_toggle_mn_2" class="note_toggle_input" /><span class="margin_note">Once more allowing private entities that currently operate high speed rail to take the place of public-private partnerships.</span>
           </li>
           <li>in paragraph (2), by striking the period at the end and inserting “before the date of the enactment of MAP–21 (Public Law 112–141) or a corridor designated by the Secretary under subsection (a).”;</li>
           <li>by striking paragraph (4); and</li>
@@ -194,9 +184,7 @@ This Act may be cited as the “American High-Speed Rail Act”. <br>
                     <li>in subclause (IV), by inserting “and” at the end</li>
                     <li>by redesignating subclauses (II), (III) and (IV) as subclauses (I), (II) and (III), respectively;</li>
                   </ol>
-                  <label for="mn-3" class="margin-toggle"></label>
-                  <input type="checkbox" id="mn-3" class="margin-toggle" />
-                  <span class="marginnote">Eliminates measurements of <q>the project’s precommencement compliance with environmental protection requirements</q>.</span>
+                  <label for="note_toggle_mn_3" class="note_toggle_label margin_note_reference" aria-label="Show side note">†</label><input type="checkbox" id="note_toggle_mn_3" class="note_toggle_input" /><span class="margin_note">Eliminates measurements of <q>the project’s precommencement compliance with environmental protection requirements</q>.</span>
               </li>
               <li>
                   by striking subparagraph (C) and inserting the following:
@@ -208,9 +196,7 @@ This Act may be cited as the “American High-Speed Rail Act”. <br>
                         <li>project cost efficiency;</li>
                         <li>potential for future expansion and increased ridership; and</li>
                         <li>other factors that contribute to maximizing the return on federal investment in terms of passenger miles traveled.
-                          <label for="sn-4" class="margin-toggle sidenote-number"></label>
-                          <input type="checkbox" id="sn-4" class="margin-toggle" />
-                          <span class="sidenote">This replaces a kind of everything bagel liberalism of criteria to instead have one metric to maximize: <b>passenger-miles per dollar spent</b>. Singular metrics allow for faster dispute resolution. There is no need for community meetings to weigh whether environmental impact in area A matters more than accessibility to underprivileged groups in area B. This also means that people can get their pet proposals by finding ways to reduce federal costs (ie states taking larger financial burdens or better construction techniques).</span>
+                          <label for="note_toggle_sn_4" class="note_toggle_label side_note_reference" data-side_note_marker="4" aria-label="Show side note 4"></label><input type="checkbox" id="note_toggle_sn_4" class="note_toggle_input" /><span class="side_note" data-side_note_marker="4">This replaces a kind of everything bagel liberalism of criteria to instead have one metric to maximize: <b>passenger-miles per dollar spent</b>. Singular metrics allow for faster dispute resolution. There is no need for community meetings to weigh whether environmental impact in area A matters more than accessibility to underprivileged groups in area B. This also means that people can get their pet proposals by finding ways to reduce federal costs (ie states taking larger financial burdens or better construction techniques).</span>
                         </li>
                       </ol>
                     </li>
@@ -233,9 +219,7 @@ This Act may be cited as the “American High-Speed Rail Act”. <br>
                   </ol>
                 </li>
                 <li>The Secretary shall publically publish timelines and negotiated prices associated with line items referred to during the construction of operation high-speed rail projects internationally.
-                  <label for="sn-5" class="margin-toggle sidenote-number"></label>
-                  <input type="checkbox" id="sn-5" class="margin-toggle" />
-                  <span class="sidenote">Grants no longer must follow the requirements of section 22905. Instead the secretary will set requirments consistent with international best standards and will be <b>categorically exempted from federal regulations that do not apply to private railroads</b> such as Buy American or prevailing wage rules. This will dramatically reduce costs allowing for more high-speed rail construction for the same spending.</span></li>
+                  <label for="note_toggle_sn_5" class="note_toggle_label side_note_reference" data-side_note_marker="5" aria-label="Show side note 5"></label><input type="checkbox" id="note_toggle_sn_5" class="note_toggle_input" /><span class="side_note" data-side_note_marker="5">Grants no longer must follow the requirements of section 22905. Instead the secretary will set requirments consistent with international best standards and will be <b>categorically exempted from federal regulations that do not apply to private railroads</b> such as Buy American or prevailing wage rules. This will dramatically reduce costs allowing for more high-speed rail construction for the same spending.</span></li>
               </ol>
           </li>
         </ol>
@@ -273,11 +257,8 @@ This Act may be cited as the “American High-Speed Rail Act”. <br>
           by striking subsection (g) and inserting the following:
           <ol type = "a" start = "7" class = "quote">
             <li>PRESIDENTIAL BORDER PERMITS.&mdash;With respect to any project that requires construction, connection, operation, or maintenance, at the international boundaries of the United States, the Secretary of State shall provide the applicant of such project with the necessary Presidential permits required for such project, unless the Secretary of State determines that the provision of such permit would not be in the interest of national security.
-              <label for="mn-4" class="margin-toggle"></label>
-              <input type="checkbox" id="mn-4" class="margin-toggle" />
-              <span class="marginnote">This isn't one of my additions but is nonetheless wonderful.</span></li>
+              <label for="note_toggle_mn_4" class="note_toggle_label margin_note_reference" aria-label="Show side note">†</label><input type="checkbox" id="note_toggle_mn_4" class="note_toggle_input" /><span class="margin_note">This isn't one of my additions but is nonetheless wonderful.</span></li>
           </ol>
-
       </li>
       <li>
         by striking subsection (h) and inserting the following:
@@ -304,9 +285,7 @@ This Act may be cited as the “American High-Speed Rail Act”. <br>
             <li>RAIL CORRIDOR PRESERVATION&mdash;The Secretary may allow a recipient of a grant under this part or part D of this subtitle for a passenger rail project to acquire right-of-way and adjacent real property interests at any time for a project that may use such property interests if the acquisition is otherwise permitted under Federal law.</li>
             <li>
               CERTIFICATION&mdash;Before authorizing advance acquisition under this section, the Secretary shall verify that—
-              <label for="mn-5" class="margin-toggle"></label>
-              <input type="checkbox" id="mn-5" class="margin-toggle" />
-              <span class="marginnote">Now there is no mention of a <q>significant environmental impact</q> which often leads to project hold ups such as solar farms being halted because they require a couple hundred trees to be removed. Additionally, transportation purposes is now defined in a broader way easing construction and allowing for transit oriented development to be more parallelized with station construction.</span>
+              <label for="note_toggle_mn_5" class="note_toggle_label margin_note_reference" aria-label="Show side note">†</label><input type="checkbox" id="note_toggle_mn_5" class="note_toggle_input" /><span class="margin_note">Now there is no mention of a <q>significant environmental impact</q> which often leads to project hold ups such as solar farms being halted because they require a couple hundred trees to be removed. Additionally, transportation purposes is now defined in a broader way easing construction and allowing for transit oriented development to be more parallelized with station construction.</span>
               <ol>
                 <li>the recipient has authority to acquire the real property interest;</li>
                 <li>
@@ -332,9 +311,7 @@ This Act may be cited as the “American High-Speed Rail Act”. <br>
                     <li>does not prevent the lead agency from making an impartial decision as to whether to accept an alternative that is being considered;</li>
                     <li>
                       complies with other applicable Federal laws and regulations not waived by the Secretary;
-                      <label for="mn-6" class="margin-toggle"></label>
-                      <input type="checkbox" id="mn-6" class="margin-toggle" />
-                      <span class="marginnote">Affirms the Secretary of Transportation's authority to waive federal laws and regulations.</span>
+                      <label for="note_toggle_mn_6" class="note_toggle_label margin_note_reference" aria-label="Show side note">†</label><input type="checkbox" id="note_toggle_mn_6" class="note_toggle_input" /><span class="margin_note">Affirms the Secretary of Transportation's authority to waive federal laws and regulations.</span>
                     </li>
                     <li> will not result in elimination or reduction of benefits or assistance to a displaced person required by the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970 (42 U.S.C. 4601 et seq.) and title VI of the Civil Rights Act of 1964 (42 U.S.C. 2000d et seq.).</li>
                   </ol>
@@ -351,9 +328,7 @@ This Act may be cited as the “American High-Speed Rail Act”. <br>
                       <li>IN GENERAL&mdash;The district courts of the United States shall have exclusive jurisdiction to hear all causes or claims arising from any action undertaken, or any decision made, by the Secretary of Transportation pursuant to paragraph (1). A cause of action or claim may only be brought alleging a violation of the Constitution of the United States. The court shall not have jurisdiction to hear any claim not specified in this subparagraph.</li>
                       <li>TIME FOR FILING OF COMPLAINT&mdash;Any cause or claim brought pursuant to subparagraph (A) shall be filed not later than 60 days after the date of the action or decision made by the Secretary of Transportation. A claim shall be barred unless it is filed within the time specified.</li>
                       <li>ABILITY TO SEEK APPELLATE REVIEW&mdash;An interlocutory or final judgment, decree, or order of the district court may be reviewed only upon petition for a writ of certiorari to the Supreme Court of the United States.
-                        <label for="sn-6" class="margin-toggle sidenote-number"></label>
-                        <input type="checkbox" id="sn-6" class="margin-toggle" />
-                        <span class="sidenote">This is the meat of the changes. The Secretary of Transportation may <b>waive as many laws as they see fit</b> effective as soon as the waiver is published. Additionally, court cases must be filed within 60 days and may only challenge actions on constitutional grounds. This power has typically been given to the Secretary of Homeland Security to ensure the construction of the border wall/fencing. When Congress cares about something being built, they have nigh infinite ability to cut through red tape.</span>
+                        <label for="note_toggle_sn_6" class="note_toggle_label side_note_reference" data-side_note_marker="6" aria-label="Show side note 6"></label><input type="checkbox" id="note_toggle_sn_6" class="note_toggle_input" /><span class="side_note" data-side_note_marker="6">This is the meat of the changes. The Secretary of Transportation may <b>waive as many laws as they see fit</b> effective as soon as the waiver is published. Additionally, court cases must be filed within 60 days and may only challenge actions on constitutional grounds. This power has typically been given to the Secretary of Homeland Security to ensure the construction of the border wall/fencing. When Congress cares about something being built, they have nigh infinite ability to cut through red tape.</span>
                       </li>
                     </ol>
                   </li>
@@ -416,9 +391,7 @@ Section 26104 of title 49, United States Code, is amended&mdash;
         </li>
         <li>MARKET VALUE DETERMINATION&mdash;The Secretary shall establish and publish a formula for determining the market value of land for the purposes of subsection (d)(3).</li>
         <li>REVENUE USE&mdash;All revenues generated from leasehold sales or annual fees under this section shall be used to fund high-speed rail development and operations.
-          <label for="sn-7" class="margin-toggle sidenote-number"></label>
-          <input type="checkbox" id="sn-7" class="margin-toggle" />
-          <span class="sidenote">Moulton's pilot program has been expanded with the authority to ignore state and local regulations in the construction of residential and commercial uses within 2 miles of any HSR stations by the government. In addition, such an exemption has been granted to anyone building on land being leased from the Department of Transportation in this radius. This allows the DoT to generate capital for HSR through purchasing land and granting development rights with a helpful side benefit of increasing ridership. This is the portion of my rewrite furthest outside of the overton window but remains a good idea on the merits.</span>
+          <label for="note_toggle_sn_7" class="note_toggle_label side_note_reference" data-side_note_marker="7" aria-label="Show side note 7"></label><input type="checkbox" id="note_toggle_sn_7" class="note_toggle_input" /><span class="side_note" data-side_note_marker="7">Moulton's pilot program has been expanded with the authority to ignore state and local regulations in the construction of residential and commercial uses within 2 miles of any HSR stations by the government. In addition, such an exemption has been granted to anyone building on land being leased from the Department of Transportation in this radius. This allows the DoT to generate capital for HSR through purchasing land and granting development rights with a helpful side benefit of increasing ridership. This is the portion of my rewrite furthest outside of the overton window but remains a good idea on the merits.</span>
         </li>
       </ol>
       </blockquote>

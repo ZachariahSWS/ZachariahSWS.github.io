@@ -1,7 +1,5 @@
 ---
-layout: default
 title: Treasury Prediction Markets
-permalink: /essays/treasury-prediction-markets
 ---
 
 Disclaimer: This essay is a work in progress

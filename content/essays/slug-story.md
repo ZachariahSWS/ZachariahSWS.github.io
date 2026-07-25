@@ -1,7 +1,5 @@
 ---
-layout: default
 title: Slug Story
-permalink: /essays/slug-story
 ---
 
 Humans are competitive by nature; but I stand out among my kin. When I was a kid, I was very invested in various PE games like dodgeball. Occasionally this was to the detriment of my teammates, but mostly we reveled in being given more recess adjacent time. In elementary school, I'd spend hours of my afternoon around a kitchen table playing board games with my best friend Keith and his parents when they weren't preoccupied. We'd play the best we could as children from relatively simple ones like risk to the industrial revolution simulator in a box that is Brass: Lancashire.

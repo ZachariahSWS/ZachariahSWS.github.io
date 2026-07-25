@@ -1,3 +1,7 @@
+---
+title: Kidney Donation Tax Credit Act
+---
+
 # A Bill
 
 To establish a tax credit for qualified kidney donors in order to reduce the costs associated with end-stage renal disease (ESRD) and Medicare’s dialysis expenditures, and for other purposes.

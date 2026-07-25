@@ -1,7 +1,6 @@
 ---
-layout: default
 title: Industrial Mobilization Plan - 1936 Revision
-permalink: /documents/imb-1936
+path: documents/imb-1936
 description: Approved For Public Release
 ---
 

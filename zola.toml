@@ -1,0 +1,29 @@
+base_url = "https://zachariahschwab.com"
+title = "Zachariah Schwab"
+description = "A personal website for Zachariah Schwab"
+author = "Zachariah Schwab"
+default_language = "en"
+theme = "academia"
+compile_sass = false
+minify_html = false
+build_search_index = false
+generate_feeds = true
+feed_filenames = ["atom.xml"]
+
+[markdown]
+smart_punctuation = true
+external_links_class = "external-link"
+
+[markdown.highlighting]
+light_theme = "github-light"
+dark_theme = "github-dark"
+
+[extra]
+academia_author = "Zachariah Schwab"
+academia_outline_thread = true
+academia_favicon = "/favicon.ico"
+academia_menu = [
+    { name = "Home", url = "/" },
+    { name = "Essays", url = "/essays" },
+    { name = "Documents", url = "/documents" },
+]
